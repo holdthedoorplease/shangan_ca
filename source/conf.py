@@ -78,7 +78,7 @@ html_theme_options = {
         {"name": "微博", "url": "https://weibo.com/shanganjianada", "icon": "fa-brands fa-weibo"},
     ],
     "logo": {
-        "text": "ShangAn.ca",
+        "text": "上岸加拿大",
         "image_dark": "_static/logo-dark.svg",
     },
     "show_toc_level": 1,
