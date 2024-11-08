@@ -10,6 +10,7 @@ project = 'ShangAn'
 copyright = '2024, ShangAn'
 author = 'ShangAn'
 release = '1.0.0'
+language = 'zh'
 
 # Insert '_extension' directory into the path so Sphinx can find it
 sys.path.insert(0, os.path.abspath('_extension'))
@@ -75,7 +76,10 @@ html_theme_options = {
     "external_links": [
     ],
     "icon_links": [
+        {"name": "Email", "url": "mailto:shanganjianada@gmail.com", "icon": "fa-solid fa-envelope"},
         {"name": "微博", "url": "https://weibo.com/shanganjianada", "icon": "fa-brands fa-weibo"},
+        {"name": "微信公众号", "url": "https://mp.weixin.qq.com/s/shanganjianada", "icon": "fa-brands fa-weixin"}, 
+        {"name": "小红书", "url": "https://www.xiaohongshu.com/user/profile/6586288c000000001c008e39", "icon": "fa-solid fa-heart"},
     ],
     "logo": {
         "text": "上岸加拿大",

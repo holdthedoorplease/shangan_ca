@@ -4,7 +4,7 @@ myst:
     "description lang=en": "Immigration to Canada"
 ---
 
-# Immigration to Canada
+# 移民加拿大
 
 ## Express Entry
 

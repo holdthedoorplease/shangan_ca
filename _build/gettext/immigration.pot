@@ -1,0 +1,1269 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, ShangAn
+# This file is distributed under the same license as the ShangAn package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ShangAn \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-07 23:05-0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/immigration/ee/cec.rst:5
+msgid "Canadian Experience Class (CEC) - Express Entry Program"
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:7
+msgid "The Canadian Experience Class is tailored for individuals with Canadian work experience who wish to become permanent residents."
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:10
+#: ../../source/immigration/ee/fst.rst:10
+msgid "Overview"
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:12
+msgid "The CEC program targets skilled workers who have recent Canadian work experience and want to settle permanently in Canada."
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:15
+#: ../../source/immigration/ee/fst.rst:15
+#: ../../source/immigration/ee/fsw.rst:11
+msgid "Key Features"
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:17
+msgid "**Eligibility for Temporary Workers and Graduates:** Suitable for those who have worked in Canada on a temporary basis."
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:18
+msgid "**No Educational Credential Requirement:** Unlike other programs, specific educational qualifications are not mandatory."
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:19
+msgid "**Faster Integration:** Prior Canadian work experience facilitates quicker adaptation and integration."
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:22
+#: ../../source/immigration/ee/fst.rst:22
+#: ../../source/immigration/ee/fsw.rst:18
+msgid "Eligibility Criteria"
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:24
+msgid "To qualify under the CEC program, you must meet the following requirements:"
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:26
+msgid "**Work Experience:** At least 12 months of full-time (or equivalent part-time) skilled work experience in Canada within the past three years."
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:27
+msgid "**Language Ability:** Minimum language proficiency of Canadian Language Benchmark (CLB) 7 for NOC 0 or A jobs, and CLB 5 for NOC B jobs."
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:28
+msgid "**Plan to Live Outside Quebec:** The CEC is a federal program; applicants must plan to reside outside the province of Quebec."
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:29
+#: ../../source/immigration/ee/fst.rst:29
+msgid "**Admissibility:** Must pass security, criminal, and medical checks."
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:32
+#: ../../source/immigration/ee/fst.rst:32
+#: ../../source/immigration/ee/fsw.rst:29
+#: ../../source/immigration/pnp/ab/index.rst:18
+#: ../../source/immigration/pnp/bc/index.rst:19
+#: ../../source/immigration/pnp/mb/index.rst:18
+#: ../../source/immigration/pnp/nb/index.rst:18
+#: ../../source/immigration/pnp/nl/index.rst:19
+#: ../../source/immigration/pnp/on/index.rst:26
+msgid "Application Process"
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:34
+msgid "**Confirm Eligibility:** Ensure you meet all CEC criteria."
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:35
+msgid "**Create an Express Entry Profile:** Include your Canadian work experience."
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:36
+#: ../../source/immigration/ee/fst.rst:37
+msgid "**Receive an Invitation to Apply (ITA):** Based on your CRS score."
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:37
+msgid "**Submit Application for PR:** Complete the application within the specified timeframe."
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:38
+msgid "**Receive Decision:** Upon approval, obtain permanent residency."
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:41
+#: ../../source/immigration/ee/fst.rst:42
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:43
+msgid "**Pathway for International Graduates:** Former students can transition to permanent residency."
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:44
+msgid "**Supports Canadian Labor Market Needs:** Aligns with Canada's demand for skilled workers."
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:45
+#: ../../source/immigration/ee/fst.rst:46
+msgid "**Family Inclusion:** Option to include family members in your application."
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:49
+msgid "Maintaining valid temporary status in Canada while your PR application is being processed is advisable."
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:52
+#: ../../source/immigration/ee/eligibility.rst:53
+#: ../../source/immigration/ee/fst.rst:53
+#: ../../source/immigration/ee/fsw.rst:42
+#: ../../source/immigration/ee/required_documents.rst:72
+msgid "Learn More"
+msgstr ""
+
+#: ../../source/immigration/ee/cec.rst:54
+msgid "For more detailed information, visit the official [Canadian Experience Class program page](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/experience.html)."
+msgstr ""
+
+#: ../../source/immigration/ee/eligibility.rst:12
+msgid "Eligibility Sections:"
+msgstr ""
+
+#: ../../source/immigration/ee/eligibility.rst:5
+msgid "Express Entry Eligibility - Comprehensive Guide"
+msgstr ""
+
+#: ../../source/immigration/ee/eligibility.rst:7
+msgid "Understanding the eligibility requirements is crucial to determine your suitability for the Express Entry system."
+msgstr ""
+
+#: ../../source/immigration/ee/eligibility.rst:10
+#: ../../source/immigration/ee/index.md:23
+#: ../../source/immigration/ee/required_documents.rst:10
+#: ../../source/immigration/pnp/index.md:13
+msgid "Contents"
+msgstr ""
+
+#: ../../source/immigration/ee/eligibility.rst:21
+msgid "General Eligibility Requirements"
+msgstr ""
+
+#: ../../source/immigration/ee/eligibility.rst:23
+msgid "Regardless of the specific program, all Express Entry candidates must meet the following general requirements:"
+msgstr ""
+
+#: ../../source/immigration/ee/eligibility.rst:25
+msgid "**Language Proficiency:** Demonstrate proficiency in English or French through standardized language tests."
+msgstr ""
+
+#: ../../source/immigration/ee/eligibility.rst:26
+msgid "**Educational Credential:** Obtain an Educational Credential Assessment (ECA) for degrees earned outside Canada."
+msgstr ""
+
+#: ../../source/immigration/ee/eligibility.rst:27
+msgid "**Work Experience:** Relevant skilled work experience as per the specific program's criteria."
+msgstr ""
+
+#: ../../source/immigration/ee/eligibility.rst:28
+msgid "**Proof of Funds:** Show sufficient funds to support yourself and your family members upon arrival."
+msgstr ""
+
+#: ../../source/immigration/ee/eligibility.rst:29
+msgid "**Admissibility:** Clear criminal and medical records to ensure eligibility for entry into Canada."
+msgstr ""
+
+#: ../../source/immigration/ee/eligibility.rst:32
+msgid "Program-Specific Eligibility"
+msgstr ""
+
+#: ../../source/immigration/ee/eligibility.rst:34
+msgid "Each Express Entry program has additional specific eligibility criteria. Refer to the respective program pages for detailed information."
+msgstr ""
+
+#: ../../source/immigration/ee/eligibility.rst:38
+msgid "Utilize the [CRS Calculator](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/works.html) to estimate your Comprehensive Ranking System score and assess your competitiveness in the pool."
+msgstr ""
+
+#: ../../source/immigration/ee/eligibility.rst:41
+msgid "Next Steps"
+msgstr ""
+
+#: ../../source/immigration/ee/eligibility.rst:43
+msgid "**Determine Eligibility:** Review the criteria for each program to identify the best fit."
+msgstr ""
+
+#: ../../source/immigration/ee/eligibility.rst:44
+msgid "**Gather Documentation:** Collect all necessary documents to support your application."
+msgstr ""
+
+#: ../../source/immigration/ee/eligibility.rst:45
+msgid "**Create an Express Entry Profile:** Submit your profile to enter the pool of candidates."
+msgstr ""
+
+#: ../../source/immigration/ee/eligibility.rst:46
+msgid "**Improve Your CRS Score:** Enhance factors like language proficiency, education, and work experience to increase your chances of receiving an ITA."
+msgstr ""
+
+#: ../../source/immigration/ee/eligibility.rst:50
+msgid "Incomplete or inaccurate information can lead to application delays or refusals. Ensure all details are correct and verifiable."
+msgstr ""
+
+#: ../../source/immigration/ee/eligibility.rst:55
+msgid "For more detailed information on eligibility, visit the [Express Entry eligibility page](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility.html)."
+msgstr ""
+
+#: ../../source/immigration/ee/fst.rst:5
+msgid "Federal Skilled Trades (FST) - Express Entry Program"
+msgstr ""
+
+#: ../../source/immigration/ee/fst.rst:7
+msgid "The Federal Skilled Trades program is intended for skilled workers who want to become permanent residents based on their qualifications in a skilled trade."
+msgstr ""
+
+#: ../../source/immigration/ee/fst.rst:12
+msgid "The FST program helps Canadian employers address labor shortages by facilitating the immigration of skilled tradespeople."
+msgstr ""
+
+#: ../../source/immigration/ee/fst.rst:17
+msgid "**Occupation-Specific:** Focuses on specific skilled trades listed under the National Occupational Classification (NOC) categories."
+msgstr ""
+
+#: ../../source/immigration/ee/fst.rst:18
+msgid "**Job Offer Encouraged:** While not mandatory, having a valid job offer can significantly boost your CRS score."
+msgstr ""
+
+#: ../../source/immigration/ee/fst.rst:19
+msgid "**Provincial Support:** Eligible candidates may receive additional points through Provincial Nominee Programs (PNPs)."
+msgstr ""
+
+#: ../../source/immigration/ee/fst.rst:24
+msgid "To qualify under the FST program, you must meet the following requirements:"
+msgstr ""
+
+#: ../../source/immigration/ee/fst.rst:26
+msgid "**Skilled Trade Experience:** At least two years of full-time work experience (or equivalent part-time) in a skilled trade within the last five years."
+msgstr ""
+
+#: ../../source/immigration/ee/fst.rst:27
+msgid "**Job Offer or Certification:** A valid job offer of full-time employment for at least one year from a Canadian employer, or a certificate of qualification from a Canadian province or territory."
+msgstr ""
+
+#: ../../source/immigration/ee/fst.rst:28
+msgid "**Language Proficiency:** Minimum language proficiency of CLB 5 for speaking and listening, and CLB 4 for reading and writing."
+msgstr ""
+
+#: ../../source/immigration/ee/fst.rst:34
+msgid "**Assess Eligibility:** Confirm that your trade is eligible and that you meet the criteria."
+msgstr ""
+
+#: ../../source/immigration/ee/fst.rst:35
+msgid "**Obtain Necessary Documentation:** Secure a job offer or certification from a Canadian authority."
+msgstr ""
+
+#: ../../source/immigration/ee/fst.rst:36
+msgid "**Create an Express Entry Profile:** Include your skilled trades experience."
+msgstr ""
+
+#: ../../source/immigration/ee/fst.rst:38
+msgid "**Submit Application for PR:** Complete and submit your application promptly."
+msgstr ""
+
+#: ../../source/immigration/ee/fst.rst:39
+msgid "**Await Decision:** Receive permanent residency upon approval."
+msgstr ""
+
+#: ../../source/immigration/ee/fst.rst:44
+msgid "**Addressing Labor Shortages:** Facilitates the immigration of tradespeople in high-demand areas."
+msgstr ""
+
+#: ../../source/immigration/ee/fst.rst:45
+msgid "**Supports Economic Growth:** Contributes to key sectors in the Canadian economy."
+msgstr ""
+
+#: ../../source/immigration/ee/fst.rst:50
+msgid "Ensure that your trade is listed under the eligible categories and that you have the necessary documentation to support your application."
+msgstr ""
+
+#: ../../source/immigration/ee/fst.rst:55
+msgid "For more detailed information, visit the official [Federal Skilled Trades program page](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/federal-skilled-trades.html)."
+msgstr ""
+
+#: ../../source/immigration/ee/fsw.rst:5
+msgid "Federal Skilled Worker (FSW) - Express Entry Program"
+msgstr ""
+
+#: ../../source/immigration/ee/fsw.rst:7
+msgid "The Federal Skilled Worker program is designed for skilled workers with foreign work experience who want to immigrate to Canada permanently."
+msgstr ""
+
+#: ../../source/immigration/ee/fsw.rst:13
+msgid "**Comprehensive Ranking System (CRS):** Points-based assessment considering factors like age, education, work experience, and language proficiency."
+msgstr ""
+
+#: ../../source/immigration/ee/fsw.rst:14
+msgid "**Permanent Residency:** Successful applicants receive PR status upon approval."
+msgstr ""
+
+#: ../../source/immigration/ee/fsw.rst:15
+msgid "**Family Inclusion:** Ability to include spouse or common-law partner and dependent children."
+msgstr ""
+
+#: ../../source/immigration/ee/fsw.rst:20
+msgid "To qualify under the FSW program, you must meet the following criteria:"
+msgstr ""
+
+#: ../../source/immigration/ee/fsw.rst:22
+msgid "**Work Experience:** At least one year of continuous full-time (or equivalent part-time) skilled work experience in the past 10 years in an eligible occupation."
+msgstr ""
+
+#: ../../source/immigration/ee/fsw.rst:23
+msgid "**Language Ability:** Prove proficiency in English or French through standardized tests (e.g., IELTS, CELPIP)."
+msgstr ""
+
+#: ../../source/immigration/ee/fsw.rst:24
+msgid "**Education:** Educational Credential Assessment (ECA) for degrees obtained outside Canada."
+msgstr ""
+
+#: ../../source/immigration/ee/fsw.rst:25
+msgid "**Proof of Funds:** Sufficient funds to support yourself and your family upon arrival."
+msgstr ""
+
+#: ../../source/immigration/ee/fsw.rst:26
+msgid "**Admissibility:** No criminal record and meet health requirements."
+msgstr ""
+
+#: ../../source/immigration/ee/fsw.rst:31
+msgid "**Determine Eligibility:** Use the CRS tool to assess your score."
+msgstr ""
+
+#: ../../source/immigration/ee/fsw.rst:32
+msgid "**Create an Online Profile:** Submit your Express Entry profile with necessary details."
+msgstr ""
+
+#: ../../source/immigration/ee/fsw.rst:33
+msgid "**Receive an Invitation to Apply (ITA):** If your CRS score is high enough."
+msgstr ""
+
+#: ../../source/immigration/ee/fsw.rst:34
+msgid "**Submit Application for PR:** Complete and submit your application within 60 days of receiving an ITA."
+msgstr ""
+
+#: ../../source/immigration/ee/fsw.rst:35
+msgid "**Await Processing:** Application is processed, and a decision is made."
+msgstr ""
+
+#: ../../source/immigration/ee/fsw.rst:39
+msgid "Ensure all information provided is accurate and verifiable to avoid delays or refusals."
+msgstr ""
+
+#: ../../source/immigration/ee/fsw.rst:44
+msgid "For more detailed information, visit the official [Federal Skilled Worker program page](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/works.html)."
+msgstr ""
+
+#: ../../source/immigration/ee/index.md:25
+msgid "Express Entry Programs"
+msgstr ""
+
+#: ../../source/immigration/ee/index.md:1
+#: ../../source/immigration/index.md:9
+#: ../../source/immigration/index.md:79
+msgid "Express Entry"
+msgstr ""
+
+#: ../../source/immigration/ee/index.md:4
+msgid "Express Entry is Canada's system for managing applications for permanent residency under three economic immigration programs. It allows skilled workers to immigrate to Canada based on their qualifications and ability to contribute to the Canadian economy."
+msgstr ""
+
+#: ../../source/immigration/ee/index.md:19
+#: ../../source/immigration/index.md:26
+msgid "{fas}`user-check;pst-color-primary` Federal Skilled Worker (EE)"
+msgstr ""
+
+#: ../../source/immigration/ee/index.md:21
+#: ../../source/immigration/index.md:28
+msgid "Apply through the Federal Skilled Worker program for fast-tracked immigration."
+msgstr ""
+
+#: ../../source/immigration/ee/index.md:30
+#: ../../source/immigration/index.md:37
+msgid "{fas}`user-graduate;pst-color-primary` Canadian Experience Class (EE)"
+msgstr ""
+
+#: ../../source/immigration/ee/index.md:32
+#: ../../source/immigration/index.md:39
+msgid "Utilize the Canadian Experience Class for those with Canadian work experience."
+msgstr ""
+
+#: ../../source/immigration/ee/index.md:41
+#: ../../source/immigration/index.md:48
+msgid "{fas}`clipboard-check;pst-color-primary` Federal Skilled Trades (EE)"
+msgstr ""
+
+#: ../../source/immigration/ee/index.md:43
+#: ../../source/immigration/index.md:50
+msgid "Apply through the Federal Skilled Trades Program for skilled workers in specific trades."
+msgstr ""
+
+#: ../../source/immigration/ee/index.md:36
+msgid "Key Benefits"
+msgstr ""
+
+#: ../../source/immigration/ee/index.md:38
+msgid "**Fast Processing:** Applications are processed within six months."
+msgstr ""
+
+#: ../../source/immigration/ee/index.md:39
+msgid "**Transparency:** A points-based system ensures fairness."
+msgstr ""
+
+#: ../../source/immigration/ee/index.md:40
+msgid "**Flexibility:** Apply to multiple provinces through Provincial Nominee Programs (PNPs)."
+msgstr ""
+
+#: ../../source/immigration/ee/index.md:41
+msgid "**Comprehensive Coverage:** Suitable for various skilled occupations."
+msgstr ""
+
+#: ../../source/immigration/ee/index.md:43
+msgid "Understanding Express Entry"
+msgstr ""
+
+#: ../../source/immigration/ee/index.md:45
+msgid "Express Entry manages applications for the following programs:"
+msgstr ""
+
+#: ../../source/immigration/ee/index.md:47
+msgid "**Federal Skilled Worker (FSW)**"
+msgstr ""
+
+#: ../../source/immigration/ee/index.md:48
+msgid "**Canadian Experience Class (CEC)**"
+msgstr ""
+
+#: ../../source/immigration/ee/index.md:49
+msgid "**Federal Skilled Trades (FST)**"
+msgstr ""
+
+#: ../../source/immigration/ee/index.md:51
+msgid "Each program has specific eligibility criteria and application processes. Explore each program to determine which best fits your profile."
+msgstr ""
+
+#: ../../source/immigration/ee/index.md:54
+msgid "Before applying, ensure you meet the eligibility requirements for your chosen program and gather all necessary documents to support your application."
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:12
+msgid "Documents Sections:"
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:5
+msgid "Express Entry - Required Documents"
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:7
+msgid "Preparing the necessary documents is a critical step in the Express Entry application process. This guide outlines the essential documents you need to gather."
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:21
+msgid "General Required Documents"
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:23
+msgid "**Passport or Travel Document:** Valid for at least six months beyond your planned stay in Canada."
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:24
+msgid "**Language Test Results:** Official results from approved language tests (e.g., IELTS, CELPIP for English; TEF for French)."
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:25
+msgid "**Educational Credential Assessment (ECA):** For degrees obtained outside Canada."
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:26
+msgid "**Work Experience Documents:** Reference letters from previous employers detailing your job duties, duration of employment, and salary."
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:27
+msgid "**Proof of Funds:** Bank statements, investment records, or other financial documents demonstrating sufficient funds."
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:28
+msgid "**Police Certificates:** Required for all countries where you have lived for six months or more since the age of 18."
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:29
+msgid "**Medical Exams:** Completed by an approved panel physician."
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:30
+msgid "**Photos:** Recent passport-sized photographs meeting specific requirements."
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:33
+msgid "Program-Specific Documents"
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:35
+msgid "### **Federal Skilled Worker (FSW)**"
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:37
+msgid "**Job Offer (if applicable):** A valid job offer from a Canadian employer can enhance your CRS score."
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:38
+msgid "**Proof of Relationship:** If including family members, provide marriage certificates or birth certificates as applicable."
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:40
+msgid "### **Canadian Experience Class (CEC)**"
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:42
+msgid "**Canadian Work Experience Documents:** Reference letters confirming your employment in Canada."
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:43
+msgid "**Post-Graduation Work Permit (if applicable):** For international graduates."
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:45
+msgid "### **Federal Skilled Trades (FST)**"
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:47
+msgid "**Certificate of Qualification:** From a Canadian province or territory if required for your trade."
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:48
+msgid "**Job Offer (if applicable):** Although not mandatory, it can significantly boost your CRS score."
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:51
+msgid "Additional Documents"
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:53
+msgid "**Marriage Certificate:** If your spouse or common-law partner is accompanying you."
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:54
+msgid "**Birth Certificates:** For dependent children."
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:55
+msgid "**Adoption Records:** If applicable."
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:56
+msgid "**Divorce Certificates:** If applicable."
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:60
+msgid "Ensure all documents are accurate, up-to-date, and translated into English or French by a certified translator if necessary."
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:63
+msgid "Document Checklist"
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:65
+msgid "Refer to the official [IRCC Document Checklist](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/document-checklist-express-entry.html) to ensure you have all required documents before submission."
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:69
+msgid "Missing or incorrect documents can lead to delays or refusals. Double-check all requirements before applying."
+msgstr ""
+
+#: ../../source/immigration/ee/required_documents.rst:74
+msgid "For more detailed information, visit the official [Express Entry - Documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents.html) page."
+msgstr ""
+
+#: ../../source/immigration/family/index.rst:5
+msgid "Family Class Immigration"
+msgstr ""
+
+#: ../../source/immigration/family/index.rst:7
+msgid "Family Class Immigration allows Canadian citizens and permanent residents to sponsor eligible family members to become permanent residents of Canada. This program aims to reunite families by enabling them to live, work, and study in Canada."
+msgstr ""
+
+#: ../../source/immigration/family/index.rst:9
+#: ../../source/immigration/quebec/index.rst:27
+msgid "**Key Features:**"
+msgstr ""
+
+#: ../../source/immigration/family/index.rst:11
+msgid "**Eligibility:** Sponsors must be at least 18 years old and either a Canadian citizen or permanent resident. They must demonstrate the financial ability to support the sponsored family member(s) and ensure they do not require social assistance. For more details, refer to the [IRCC eligibility criteria](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship/spouse-partner-children.html)."
+msgstr ""
+
+#: ../../source/immigration/family/index.rst:13
+msgid "**Who Can Be Sponsored:** Eligible family members include: - **Spouses, Common-law Partners, and Conjugal Partners** - **Dependent Children** - **Parents and Grandparents** - **Other Relatives:** Under certain conditions, other relatives may also be eligible."
+msgstr ""
+
+#: ../../source/immigration/family/index.rst:19
+msgid "Full details on eligible family members are available on the [IRCC page](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship/other-relatives/who-you-can-sponsor.html)."
+msgstr ""
+
+#: ../../source/immigration/family/index.rst:21
+msgid "**Application Process:** The application process involves two main steps: 1. **Sponsor’s Application:** The sponsor applies to sponsor a family member. 2. **Permanent Residence Application:** The sponsored family member applies for permanent residence."
+msgstr ""
+
+#: ../../source/immigration/family/index.rst:25
+msgid "Both applications are submitted simultaneously. For detailed instructions, visit the [application process guide](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship/other-relatives/apply.html)."
+msgstr ""
+
+#: ../../source/immigration/family/index.rst:27
+msgid "**Processing Times:** Processing times vary based on the family member being sponsored and their country of residence. Check the latest [processing times on the IRCC website](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html)."
+msgstr ""
+
+#: ../../source/immigration/family/index.rst:29
+msgid "**Financial Obligations:** Sponsors must sign an undertaking committing to provide financial support for the basic needs of the sponsored person and, if applicable, their dependent children. The duration of this commitment varies based on the relationship and age of the sponsored person. Review the [financial requirements here](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship/sponsor-parents-grandparents/eligibility/income.html)."
+msgstr ""
+
+#: ../../source/immigration/family/index.rst:31
+msgid "For more information, visit the official IRCC Family Sponsorship page: [Family Sponsorship](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship.html)."
+msgstr ""
+
+#: ../../source/immigration/index.md:29
+#: ../../source/immigration/index.md:86
+msgid "Provincial Nominee Program"
+msgstr ""
+
+#: ../../source/immigration/index.md:94
+msgid "Family Sponsorship"
+msgstr ""
+
+#: ../../source/immigration/index.md:101
+msgid "Quebec Immigration"
+msgstr ""
+
+#: ../../source/immigration/index.md:108
+#: ../../source/immigration/refugees/index.rst:5
+msgid "Refugees and Asylum"
+msgstr ""
+
+#: ../../source/immigration/index.md:0
+msgid "Immigration to Canada"
+msgstr ""
+
+#: ../../source/immigration/index.md:7
+msgid "移民加拿大"
+msgstr ""
+
+#: ../../source/immigration/index.md:11
+msgid "Express Entry is a fast-track immigration system used for skilled workers, professionals, and international students."
+msgstr ""
+
+#: ../../source/immigration/index.md:31
+msgid "The Provincial Nominee Program (PNP) is a program that allows Canadian provinces and territories to nominate skilled workers for permanent residence."
+msgstr ""
+
+#: ../../source/immigration/index.md:46
+msgid "{fas}`user-check;pst-color-primary` British Columbia (BC PNP)"
+msgstr ""
+
+#: ../../source/immigration/index.md:48
+msgid "Learn about the British Columbia Provincial Nominee Program for skilled workers."
+msgstr ""
+
+#: ../../source/immigration/index.md:57
+msgid "{fas}`user-graduate;pst-color-primary` Ontario (OINP)"
+msgstr ""
+
+#: ../../source/immigration/index.md:59
+msgid "Explore the Ontario Immigrant Nominee Program for skilled workers and international students."
+msgstr ""
+
+#: ../../source/immigration/index.md:68
+msgid "{fas}`users;pst-color-primary` Alberta (AINP)"
+msgstr ""
+
+#: ../../source/immigration/index.md:70
+msgid "Learn about the Alberta Immigrant Nominee Program for skilled workers and international students."
+msgstr ""
+
+#: ../../source/immigration/index.md:79
+msgid "{fas}`users;pst-color-primary` Nova Scotia (NS PNP)"
+msgstr ""
+
+#: ../../source/immigration/index.md:81
+msgid "Learn about the Nova Scotia Provincial Nominee Program for skilled workers and international students."
+msgstr ""
+
+#: ../../source/immigration/index.md:90
+msgid "{fas}`users;pst-color-primary` Manitoba (MNP)"
+msgstr ""
+
+#: ../../source/immigration/index.md:92
+msgid "Learn about the Manitoba Provincial Nominee Program for skilled workers and international students."
+msgstr ""
+
+#: ../../source/immigration/index.md:101
+msgid "{fas}`users;pst-color-primary` New Brunswick (NB PNP)"
+msgstr ""
+
+#: ../../source/immigration/index.md:103
+msgid "Learn about the New Brunswick Provincial Nominee Program for skilled workers and international students."
+msgstr ""
+
+#: ../../source/immigration/index.md:112
+msgid "{fas}`users;pst-color-primary` Newfoundland and Labrador (NL PNP)"
+msgstr ""
+
+#: ../../source/immigration/index.md:114
+msgid "Learn about the Newfoundland and Labrador Provincial Nominee Program for skilled workers and international students."
+msgstr ""
+
+#: ../../source/immigration/index.md:123
+msgid "{fas}`users;pst-color-primary` Prince Edward Island (PEI PNP)"
+msgstr ""
+
+#: ../../source/immigration/index.md:125
+msgid "Learn about the Prince Edward Island Provincial Nominee Program for skilled workers and international students."
+msgstr ""
+
+#: ../../source/immigration/index.md:134
+msgid "{fas}`users;pst-color-primary` Saskatchewan (SK PNP)"
+msgstr ""
+
+#: ../../source/immigration/index.md:136
+msgid "Learn about the Saskatchewan Provincial Nominee Program for skilled workers and international students."
+msgstr ""
+
+#: ../../source/immigration/index.md:145
+msgid "{fas}`users;pst-color-primary` Yukon (YNP)"
+msgstr ""
+
+#: ../../source/immigration/index.md:147
+msgid "Learn about the Yukon Provincial Nominee Program for skilled workers and international students."
+msgstr ""
+
+#: ../../source/immigration/pnp/ab/index.rst:5
+msgid "Alberta Advantage Immigration Program (AAIP)"
+msgstr ""
+
+#: ../../source/immigration/pnp/ab/index.rst:7
+msgid "The AAIP allows Alberta to nominate individuals for permanent residence who have the skills and abilities to fill labor shortages in the province."
+msgstr ""
+
+#: ../../source/immigration/pnp/ab/index.rst:10
+#: ../../source/immigration/pnp/bc/index.rst:10
+#: ../../source/immigration/pnp/mb/index.rst:10
+#: ../../source/immigration/pnp/nb/index.rst:10
+#: ../../source/immigration/pnp/nl/index.rst:10
+#: ../../source/immigration/pnp/ns/index.rst:10
+#: ../../source/immigration/pnp/on/index.rst:10
+msgid "Program Streams"
+msgstr ""
+
+#: ../../source/immigration/pnp/ab/index.rst:12
+msgid "**Alberta Opportunity Stream**: For foreign workers who are already working full-time in Alberta and have a job offer from an Alberta employer."
+msgstr ""
+
+#: ../../source/immigration/pnp/ab/index.rst:13
+msgid "**Alberta Express Entry Stream**: For candidates with an Express Entry profile who have strong ties to Alberta or who can help support the government's economic development and diversification priorities."
+msgstr ""
+
+#: ../../source/immigration/pnp/ab/index.rst:14
+msgid "**Alberta Accelerated Tech Pathway**: For Express Entry candidates working in Alberta's tech industry."
+msgstr ""
+
+#: ../../source/immigration/pnp/ab/index.rst:15
+msgid "**Rural Renewal Stream**: For workers with a job offer from an employer in a designated rural Alberta community."
+msgstr ""
+
+#: ../../source/immigration/pnp/ab/index.rst:20
+#: ../../source/immigration/pnp/bc/index.rst:21
+#: ../../source/immigration/pnp/nb/index.rst:20
+#: ../../source/immigration/pnp/nl/index.rst:21
+msgid "**Determine Eligibility**: Review the specific requirements for each stream."
+msgstr ""
+
+#: ../../source/immigration/pnp/ab/index.rst:21
+#: ../../source/immigration/pnp/nb/index.rst:21
+#: ../../source/immigration/pnp/nl/index.rst:22
+msgid "**Submit an Expression of Interest (EOI)**: For certain streams, submit an EOI to indicate your interest."
+msgstr ""
+
+#: ../../source/immigration/pnp/ab/index.rst:22
+msgid "**Receive a Notification of Interest (NOI)**: Selected candidates receive an NOI from the province."
+msgstr ""
+
+#: ../../source/immigration/pnp/ab/index.rst:23
+#: ../../source/immigration/pnp/bc/index.rst:24
+#: ../../source/immigration/pnp/nb/index.rst:23
+#: ../../source/immigration/pnp/nl/index.rst:24
+msgid "**Submit Application**: Complete and submit the application within the specified timeframe."
+msgstr ""
+
+#: ../../source/immigration/pnp/ab/index.rst:24
+#: ../../source/immigration/pnp/bc/index.rst:25
+#: ../../source/immigration/pnp/nb/index.rst:24
+#: ../../source/immigration/pnp/nl/index.rst:25
+msgid "**Nomination**: If approved, receive a provincial nomination to apply for permanent residence."
+msgstr ""
+
+#: ../../source/immigration/pnp/ab/index.rst:26
+msgid "For detailed information, visit the official AAIP website: ([alberta.ca](https://www.alberta.ca/aaip.aspx))"
+msgstr ""
+
+#: ../../source/immigration/pnp/bc/index.rst:5
+msgid "British Columbia Provincial Nominee Program (BC PNP)"
+msgstr ""
+
+#: ../../source/immigration/pnp/bc/index.rst:7
+msgid "The BC PNP is an economic immigration program that allows the province to select and nominate foreign workers, international students, and entrepreneurs to help meet British Columbia's labor market needs."
+msgstr ""
+
+#: ../../source/immigration/pnp/bc/index.rst:12
+msgid "The BC PNP offers several streams:"
+msgstr ""
+
+#: ../../source/immigration/pnp/bc/index.rst:14
+msgid "**Skills Immigration**: For skilled and semi-skilled workers in high-demand occupations in B.C."
+msgstr ""
+
+#: ../../source/immigration/pnp/bc/index.rst:15
+msgid "**Express Entry BC**: For individuals with valid Express Entry profiles, offering faster processing."
+msgstr ""
+
+#: ../../source/immigration/pnp/bc/index.rst:16
+msgid "**Entrepreneur Immigration**: For experienced entrepreneurs ready to invest in and actively manage a business in B.C."
+msgstr ""
+
+#: ../../source/immigration/pnp/bc/index.rst:22
+msgid "**Register Online**: Submit an online profile through the BC PNP Online system."
+msgstr ""
+
+#: ../../source/immigration/pnp/bc/index.rst:23
+msgid "**Invitation to Apply**: High-scoring registrants receive invitations to apply."
+msgstr ""
+
+#: ../../source/immigration/pnp/bc/index.rst:27
+msgid "For detailed information, visit the official BC PNP website: ([Welcome BC](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program))"
+msgstr ""
+
+#: ../../source/immigration/pnp/index.md:0
+msgid "Canada's Provincial Nominee Programs (PNPs) allow provinces and territories to nominate individuals for permanent residence based on their specific economic needs. This section provides detailed information on the PNPs for each participating province and territory.\n"
+""
+msgstr ""
+
+#: ../../source/immigration/pnp/index.md:9
+msgid "Provincial Nominee Programs (PNPs) Index"
+msgstr ""
+
+#: ../../source/immigration/pnp/index.md:11
+msgid "Canada's Provincial Nominee Programs (PNPs) allow provinces and territories to nominate individuals for permanent residence based on their specific economic needs. This section provides detailed information on the PNPs for each participating province and territory."
+msgstr ""
+
+#: ../../source/immigration/pnp/mb/index.rst:5
+msgid "Manitoba Provincial Nominee Program (MPNP)"
+msgstr ""
+
+#: ../../source/immigration/pnp/mb/index.rst:7
+msgid "The MPNP allows Manitoba to nominate individuals for permanent residence who have the skills and experience needed in the local labor market."
+msgstr ""
+
+#: ../../source/immigration/pnp/mb/index.rst:12
+msgid "**Skilled Worker in Manitoba Stream**: For workers currently working in Manitoba with a permanent job offer."
+msgstr ""
+
+#: ../../source/immigration/pnp/mb/index.rst:13
+msgid "**Skilled Worker Overseas Stream**: For skilled workers who can demonstrate a strong connection to Manitoba."
+msgstr ""
+
+#: ../../source/immigration/pnp/mb/index.rst:14
+msgid "**International Education Stream**: For international graduates from Manitoba institutions."
+msgstr ""
+
+#: ../../source/immigration/pnp/mb/index.rst:15
+msgid "**Business Investor Stream**: For individuals intending to start or purchase a business in Manitoba."
+msgstr ""
+
+#: ../../source/immigration/pnp/mb/index.rst:20
+msgid "**Submit an Expression of Interest (EOI)**: Indicate your interest in applying to the MPNP."
+msgstr ""
+
+#: ../../source/immigration/pnp/mb/index.rst:21
+#: ../../source/immigration/pnp/nb/index.rst:22
+#: ../../source/immigration/pnp/nl/index.rst:23
+msgid "**Receive an Invitation to Apply (ITA)**: Selected candidates receive an ITA based on their EOI score."
+msgstr ""
+
+#: ../../source/immigration/pnp/mb/index.rst:22
+#: ../../source/immigration/pnp/on/index.rst:31
+msgid "**Submit Application**: Complete and submit the application within the given timeframe."
+msgstr ""
+
+#: ../../source/immigration/pnp/mb/index.rst:23
+#: ../../source/immigration/pnp/on/index.rst:32
+msgid "**Nomination**: If successful, receive a nomination to apply for permanent residence."
+msgstr ""
+
+#: ../../source/immigration/pnp/mb/index.rst:25
+msgid "For more details, visit the official MPNP website: ([immigratemanitoba.com](https://www.immigratemanitoba.com/))"
+msgstr ""
+
+#: ../../source/immigration/pnp/nb/index.rst:5
+msgid "New Brunswick Provincial Nominee Program (NBPNP)"
+msgstr ""
+
+#: ../../source/immigration/pnp/nb/index.rst:7
+msgid "The NBPNP allows New Brunswick to nominate individuals for permanent residence who have the skills and experience to contribute to the province's economy."
+msgstr ""
+
+#: ../../source/immigration/pnp/nb/index.rst:12
+msgid "**Express Entry Stream**: For candidates with an Express Entry profile and a valid job offer in New Brunswick."
+msgstr ""
+
+#: ../../source/immigration/pnp/nb/index.rst:13
+msgid "**Skilled Workers with Employer Support**: For individuals with a permanent, full-time job offer from a New Brunswick employer."
+msgstr ""
+
+#: ../../source/immigration/pnp/nb/index.rst:14
+msgid "**Post-Graduate Entrepreneurial Stream**: For graduates of New Brunswick institutions who have started or acquired a business in the province."
+msgstr ""
+
+#: ../../source/immigration/pnp/nb/index.rst:15
+msgid "**Entrepreneurial Stream**: For experienced business owners or senior managers who want to establish a business in New Brunswick."
+msgstr ""
+
+#: ../../source/immigration/pnp/nb/index.rst:26
+msgid "For detailed information, visit the official NBPNP website: ([welcomenb.ca](https://www.welcomenb.ca/content/wel-bien/en/immigrating_and_settling/content/ProvincialNomineeProgram.html))"
+msgstr ""
+
+#: ../../source/immigration/pnp/nl/index.rst:5
+msgid "Newfoundland and Labrador Provincial Nominee Program (NLPNP)"
+msgstr ""
+
+#: ../../source/immigration/pnp/nl/index.rst:7
+msgid "The NLPNP allows Newfoundland and Labrador to nominate individuals for permanent residence who have the skills and experience needed in the province."
+msgstr ""
+
+#: ../../source/immigration/pnp/nl/index.rst:12
+msgid "**Express Entry Skilled Worker**: For candidates with an Express Entry profile and a job offer in Newfoundland and Labrador."
+msgstr ""
+
+#: ../../source/immigration/pnp/nl/index.rst:13
+msgid "**Skilled Worker**: For individuals with a guaranteed job offer from a Newfoundland and Labrador employer."
+msgstr ""
+
+#: ../../source/immigration/pnp/nl/index.rst:14
+msgid "**International Graduate**: For recent graduates from eligible Canadian post-secondary institutions with a job or job offer in the province."
+msgstr ""
+
+#: ../../source/immigration/pnp/nl/index.rst:15
+msgid "**International Entrepreneur**: For experienced business owners or senior managers who wish to establish, co-own, or purchase a business in Newfoundland and Labrador."
+msgstr ""
+
+#: ../../source/immigration/pnp/nl/index.rst:16
+msgid "**International Graduate Entrepreneur**: For graduates of Memorial University or College of the North Atlantic who have started or purchased a business in the province."
+msgstr ""
+
+#: ../../source/immigration/pnp/nl/index.rst:27
+msgid "For more details, visit the official NLPNP website: ([gov.nl.ca](https://www.gov.nl.ca/immigration/immigrating-to-newfoundland-and-labrador/provincial-nominee-program/))"
+msgstr ""
+
+#: ../../source/immigration/pnp/ns/index.rst:5
+msgid "Nova Scotia Nominee Program (NSNP)"
+msgstr ""
+
+#: ../../source/immigration/pnp/ns/index.rst:7
+msgid "The NSNP allows Nova Scotia to nominate individuals for permanent residence who have the skills and experience needed in the province."
+msgstr ""
+
+#: ../../source/immigration/pnp/ns/index.rst:12
+msgid "**Nova Scotia Experience: Express Entry**: For skilled individuals with at least one year of work experience in Nova Scotia."
+msgstr ""
+
+#: ../../source/immigration/pnp/ns/index.rst:13
+msgid "**Nova Scotia Labour Market Priorities**: For candidates with an Express Entry profile who meet specific labor market needs."
+msgstr ""
+
+#: ../../source/immigration/pnp/ns/index.rst:14
+msgid "**Skilled Worker**: For individuals with a job offer from a Nova Scotia employer."
+msgstr ""
+
+#: ../../source/immigration/pnp/ns/index.rst:15
+msgid "**Physician**: For internationally trained general practitioners, family physicians, and specialist physicians with a job offer in Nova Scotia."
+msgstr ""
+
+#: ../../source/immigration/pnp/ns/index.rst:16
+msgid "**Entrepreneur**: For experienced business owners or senior business managers who want to start or acquire"
+msgstr ""
+
+#: ../../source/immigration/pnp/nt/index.rst:5
+msgid "Northwest Territories Nominee Program"
+msgstr ""
+
+#: ../../source/immigration/pnp/nt/index.rst:7
+msgid "The Northwest Territories Nominee Program (NTNP) offers pathways for individuals to become permanent residents of Canada by addressing labor shortages and business investment needs in the Northwest Territories."
+msgstr ""
+
+#: ../../source/immigration/pnp/nt/index.rst:9
+#: ../../source/immigration/pnp/pe/index.rst:9
+#: ../../source/immigration/pnp/yt/index.rst:9
+msgid "**Program Streams:**"
+msgstr ""
+
+#: ../../source/immigration/pnp/nt/index.rst:11
+msgid "**Employer-Driven Stream:** For individuals with a job offer from an NWT employer."
+msgstr ""
+
+#: ../../source/immigration/pnp/nt/index.rst:12
+msgid "**Business Stream:** For those ready to open, purchase, or invest in a business in the NWT."
+msgstr ""
+
+#: ../../source/immigration/pnp/nt/index.rst:13
+msgid "**Francophone Stream:** For French-speaking individuals with a job offer in the NWT."
+msgstr ""
+
+#: ../../source/immigration/pnp/nt/index.rst:15
+msgid "For detailed information, visit the official NTNP website: https://www.immigratenwt.ca/immigrate-here"
+msgstr ""
+
+#: ../../source/immigration/pnp/on/index.rst:5
+msgid "Ontario Immigrant Nominee Program (OINP)"
+msgstr ""
+
+#: ../../source/immigration/pnp/on/index.rst:7
+msgid "The OINP allows Ontario to nominate individuals for permanent residence who have the skills and experience the province needs."
+msgstr ""
+
+#: ../../source/immigration/pnp/on/index.rst:12
+msgid "The OINP offers various streams:"
+msgstr ""
+
+#: ../../source/immigration/pnp/on/index.rst:14
+msgid "**Human Capital Category**: - *Human Capital Priorities Stream*: For skilled workers with the required work experience, education, and language proficiency. - *French-Speaking Skilled Worker Stream*: For French-speaking skilled workers with strong English language abilities. - *Skilled Trades Stream*: For workers with work experience in Ontario's construction and agricultural sectors."
+msgstr ""
+
+#: ../../source/immigration/pnp/on/index.rst:18
+msgid "**Employer Job Offer Category**: - *Foreign Worker Stream*: For workers with a job offer in a skilled occupation. - *International Student Stream*: For recent graduates with a job offer in a skilled occupation. - *In-Demand Skills Stream*: For workers in specific in-demand occupations."
+msgstr ""
+
+#: ../../source/immigration/pnp/on/index.rst:22
+msgid "**Business Category**: - *Entrepreneur Stream*: For individuals looking to start a new or buy an existing business in Ontario."
+msgstr ""
+
+#: ../../source/immigration/pnp/on/index.rst:28
+msgid "**Check Eligibility**: Ensure you meet the criteria for the desired stream."
+msgstr ""
+
+#: ../../source/immigration/pnp/on/index.rst:29
+msgid "**Register an Expression of Interest (EOI)**: Submit an EOI to indicate your interest."
+msgstr ""
+
+#: ../../source/immigration/pnp/on/index.rst:30
+msgid "**Receive an Invitation to Apply**: Selected candidates receive invitations based on their EOI score."
+msgstr ""
+
+#: ../../source/immigration/pnp/on/index.rst:34
+msgid "For more details, visit the official OINP website: ([Ontario](https://www.ontario.ca/page/ontario-immigrant-nominee-program-oinp))"
+msgstr ""
+
+#: ../../source/immigration/pnp/pe/index.rst:5
+msgid "Prince Edward Island Provincial Nominee Program"
+msgstr ""
+
+#: ../../source/immigration/pnp/pe/index.rst:7
+msgid "The PEI Provincial Nominee Program (PEI PNP) allows individuals to be nominated for permanent residency based on their intention to live and work in Prince Edward Island and their economic ability to establish there."
+msgstr ""
+
+#: ../../source/immigration/pnp/pe/index.rst:11
+msgid "**Skilled Worker Stream:** For individuals currently employed by an Island employer."
+msgstr ""
+
+#: ../../source/immigration/pnp/pe/index.rst:12
+msgid "**Critical Workers Stream:** For workers in semi-skilled or unskilled positions."
+msgstr ""
+
+#: ../../source/immigration/pnp/pe/index.rst:13
+msgid "**International Graduate Stream:** For recent graduates from recognized post-secondary institutions."
+msgstr ""
+
+#: ../../source/immigration/pnp/pe/index.rst:14
+msgid "**Business Impact Category:** For entrepreneurs willing to invest in and manage a business in PEI."
+msgstr ""
+
+#: ../../source/immigration/pnp/pe/index.rst:16
+msgid "For more details, visit: https://www.princeedwardisland.ca/en/topic/immigrate-to-pei-as-a-worker"
+msgstr ""
+
+#: ../../source/immigration/pnp/sk/index.rst:5
+msgid "Saskatchewan Immigrant Nominee Program"
+msgstr ""
+
+#: ../../source/immigration/pnp/sk/index.rst:7
+msgid "The Saskatchewan Immigrant Nominee Program (SINP) offers pathways for individuals to immigrate to Canada by nominating successful applicants to the federal government for permanent residency."
+msgstr ""
+
+#: ../../source/immigration/pnp/sk/index.rst:9
+#: ../../source/immigration/quebec/index.rst:9
+msgid "**Program Categories:**"
+msgstr ""
+
+#: ../../source/immigration/pnp/sk/index.rst:11
+msgid "**International Skilled Worker:** For skilled workers abroad who want to work and live in Saskatchewan."
+msgstr ""
+
+#: ../../source/immigration/pnp/sk/index.rst:12
+msgid "**Saskatchewan Experience:** For foreign nationals already living and working in Saskatchewan."
+msgstr ""
+
+#: ../../source/immigration/pnp/sk/index.rst:13
+msgid "**Entrepreneur and Farm:** For those intending to invest in and actively manage a business or farm in Saskatchewan."
+msgstr ""
+
+#: ../../source/immigration/pnp/sk/index.rst:15
+msgid "Detailed information is available at: https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program"
+msgstr ""
+
+#: ../../source/immigration/pnp/yt/index.rst:5
+msgid "Yukon Nominee Program"
+msgstr ""
+
+#: ../../source/immigration/pnp/yt/index.rst:7
+msgid "The Yukon Nominee Program (YNP) provides eligible foreign nationals a pathway to becoming permanent residents of Canada by filling labor shortages and business investment needs in Yukon."
+msgstr ""
+
+#: ../../source/immigration/pnp/yt/index.rst:11
+msgid "**Skilled Worker:** For individuals with a job offer in a skilled occupation."
+msgstr ""
+
+#: ../../source/immigration/pnp/yt/index.rst:12
+msgid "**Critical Impact Worker:** For workers in semi-skilled or unskilled positions."
+msgstr ""
+
+#: ../../source/immigration/pnp/yt/index.rst:13
+msgid "**Express Entry:** For candidates eligible under the federal Express Entry system."
+msgstr ""
+
+#: ../../source/immigration/pnp/yt/index.rst:14
+msgid "**Business Nominee:** For entrepreneurs ready to invest in and manage a business in Yukon."
+msgstr ""
+
+#: ../../source/immigration/pnp/yt/index.rst:16
+msgid "For comprehensive details, visit: https://yukon.ca/en/immigrate-yukon"
+msgstr ""
+
+#: ../../source/immigration/quebec/index.rst:5
+msgid "Quebec Immigration Programs"
+msgstr ""
+
+#: ../../source/immigration/quebec/index.rst:7
+msgid "Quebec operates its own immigration programs, distinct from the federal system, to select individuals who wish to settle in the province. These programs are designed to address Quebec's specific economic and demographic needs."
+msgstr ""
+
+#: ../../source/immigration/quebec/index.rst:11
+msgid "**Regular Skilled Worker Program (RSWP):** For individuals who wish to immigrate to Quebec as skilled workers, whether they are in Quebec or abroad. ([Québec](https://www.quebec.ca/en/immigration/permanent/skilled-workers/regular-skilled-worker-program))"
+msgstr ""
+
+#: ../../source/immigration/quebec/index.rst:13
+msgid "**Quebec Experience Program (PEQ):** For temporary foreign workers or foreign students who have graduated in Quebec, aiming to obtain a Quebec selection certificate to settle permanently. ([Québec](https://www.quebec.ca/en/immigration/permanent/skilled-workers/quebec-experience-program))"
+msgstr ""
+
+#: ../../source/immigration/quebec/index.rst:15
+msgid "**Permanent Immigration Pilot Programs:** - *Food Processing Workers:* For temporary foreign workers in the food-processing sector. - *Orderlies:* For temporary foreign workers who work as orderlies. - *Workers in Artificial Intelligence, Information Technologies, and Visual Effects Sectors:* For workers in these high-demand sectors. ([Québec](https://www.quebec.ca/en/immigration/permanent/skilled-workers))"
+msgstr ""
+
+#: ../../source/immigration/quebec/index.rst:20
+msgid "**Business Immigration Programs:** - *Entrepreneurs:* For individuals who wish to establish or acquire a business in Quebec. - *Investors:* For individuals who intend to make a significant investment in Quebec. - *Self-Employed Workers:* For individuals who can create their own employment by practicing a profession or trade in Quebec."
+msgstr ""
+
+#: ../../source/immigration/quebec/index.rst:25
+msgid "**Family Reunification:** For Canadian citizens or permanent residents residing in Quebec who wish to sponsor close family members. ([Québec](https://www.quebec.ca/en/immigration/permanent))"
+msgstr ""
+
+#: ../../source/immigration/quebec/index.rst:29
+msgid "**Distinct Selection Criteria:** Quebec has its own selection criteria, focusing on factors such as French language proficiency, education, work experience, and ties to Quebec."
+msgstr ""
+
+#: ../../source/immigration/quebec/index.rst:31
+msgid "**French Language Importance:** Proficiency in French is a significant factor in Quebec's immigration programs, reflecting the province's official language and cultural identity."
+msgstr ""
+
+#: ../../source/immigration/quebec/index.rst:33
+msgid "**Integration Services:** Quebec offers various services to help newcomers integrate, including French language courses and employment assistance."
+msgstr ""
+
+#: ../../source/immigration/quebec/index.rst:35
+msgid "For detailed information on each program and the application process, visit the official Quebec immigration website: ([Québec](https://www.quebec.ca/en/immigration))"
+msgstr ""
+
+#: ../../source/immigration/refugees/index.rst:7
+msgid "Canada is committed to providing protection to individuals who are fleeing persecution, conflict, or human rights violations. The country offers various programs to assist refugees and asylum seekers both from within Canada and abroad."
+msgstr ""
+
+#: ../../source/immigration/refugees/index.rst:9
+msgid "**Key Programs:**"
+msgstr ""
+
+#: ../../source/immigration/refugees/index.rst:11
+msgid "**In-Canada Asylum Program:** For individuals making refugee claims from within Canada. This program is designed for those who fear persecution or are at risk if they return to their home country. [Learn more](https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/asylum.html)"
+msgstr ""
+
+#: ../../source/immigration/refugees/index.rst:13
+msgid "**Refugee Resettlement from Outside Canada:** For individuals referred by the United Nations Refugee Agency (UNHCR), a designated referral organization, or a private sponsor. This program assists those outside Canada who require protection. [Learn more](https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees.html)"
+msgstr ""
+
+#: ../../source/immigration/refugees/index.rst:15
+msgid "**Sponsorship Programs:**"
+msgstr ""
+
+#: ../../source/immigration/refugees/index.rst:17
+msgid "**Private Sponsorship of Refugees Program:** Allows private groups to sponsor refugees from abroad, providing them with financial and emotional support for the initial settlement period. [Learn more](https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/sponsor-refugee.html)"
+msgstr ""
+
+#: ../../source/immigration/refugees/index.rst:19
+msgid "**Blended Visa Office-Referred Program:** A partnership between the Government of Canada and private sponsors to resettle refugees identified by the UNHCR. [Learn more](https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/sponsor-refugee.html)"
+msgstr ""
+
+#: ../../source/immigration/refugees/index.rst:21
+msgid "**Support Services:**"
+msgstr ""
+
+#: ../../source/immigration/refugees/index.rst:23
+msgid "**Settlement Services:** Canada offers various services to help refugees integrate, including language training, employment assistance, and community connections. [Learn more](https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/new-life-canada.html)"
+msgstr ""
+
+#: ../../source/immigration/refugees/index.rst:25
+msgid "**Health Care:** Refugees have access to health care services through the Interim Federal Health Program until they become eligible for provincial or territorial health coverage. [Learn more](https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/help-within-canada/health-care/interim-federal-health-program.html)"
+msgstr ""
+
+#: ../../source/immigration/refugees/index.rst:27
+msgid "**Important Considerations:**"
+msgstr ""
+
+#: ../../source/immigration/refugees/index.rst:29
+msgid "**Eligibility:** Not everyone is eligible to seek asylum in Canada. Factors such as previous criminal convictions or prior refugee claims in Canada may affect eligibility. [Learn more](https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/asylum/claim-protection-inside-canada/eligibility.html)"
+msgstr ""
+
+#: ../../source/immigration/refugees/index.rst:31
+msgid "**Safe Third Country Agreement:** Under this agreement, individuals must claim asylum in the first safe country they arrive in. This means that those entering Canada from the U.S. at a land port of entry may be ineligible to make a refugee claim in Canada. [Learn more](https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/asylum/claim-protection-inside-canada/eligibility.html)"
+msgstr ""
+
+#: ../../source/immigration/refugees/index.rst:33
+msgid "For detailed information on each program and the application process, visit the official IRCC website: [Refugees and Asylum](https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees.html)"
+msgstr ""

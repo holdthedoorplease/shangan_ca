@@ -1,7 +1,7 @@
 .. _citizenship_index:
 
 ===========================
-Become Canadian
+入籍
 ===========================
 
 Welcome to the Canadian Citizenship Guide. This section provides comprehensive information on applying for citizenship, preparing for the citizenship test and interview, and understanding the oath and ceremony process.

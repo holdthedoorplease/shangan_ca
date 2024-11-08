@@ -1,0 +1,305 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, ShangAn
+# This file is distributed under the same license as the ShangAn package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ShangAn \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-07 23:05-0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/officialwebsites/index.md:0
+msgid "Official Websites for Canadian Visa and Immigration Information"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:7
+msgid "官网大全"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:9
+msgid "IRCC Related Services"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:11
+msgid "**Immigration, Refugees and Citizenship Canada (IRCC)** is responsible for immigration, refugees, and citizenship services in Canada."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:26
+msgid "{fas}`globe;pst-color-primary` Official Website of IRCC"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:28
+msgid "Access official information of Immigration, Refugees and Citizenship Canada (IRCC)."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:37
+msgid "{fas}`key;pst-color-primary` GCKey"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:39
+msgid "Access secure online services with GCKey."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:48
+msgid "{fas}`search;pst-color-primary` Visa Status Tracker"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:50
+msgid "Check the status of your immigration or citizenship application."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:59
+msgid "{fas}`clock;pst-color-primary` Processing Times"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:61
+msgid "View the processing times for various applications."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:70
+msgid "{fas}`file-alt;pst-color-primary` IRCC Forms"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:72
+msgid "Find forms and guides for various applications."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:81
+msgid "{fas}`shield-alt;pst-color-primary` Official Website of CBSA"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:83
+msgid "Find information on border services of Canada Border Services Agency (CBSA)."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:41
+msgid "ATIP Related Services"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:43
+msgid "**Access to Information and Privacy (ATIP)** requests allow individuals to access personal information held by government institutions."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:58
+msgid "{fas}`file-signature;pst-color-primary` IRCC ATIP Request"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:60
+msgid "Request your personal information from IRCC."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:69
+msgid "{fas}`user-shield;pst-color-primary` CBSA ATIP Request"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:71
+msgid "Access your personal information held by the Canada Border Services Agency."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:80
+msgid "{fas}`shield-alt;pst-color-primary` CSIS ATIP Request"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:82
+msgid "Request personal information from the Canadian Security Intelligence Service."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:61
+msgid "Express Entry (EE)"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:63
+msgid "**Express Entry** is a fast-track immigration system for skilled workers, professionals, and international students."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:78
+msgid "{fas}`user-check;pst-color-primary` Federal Skilled Worker Program"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:80
+msgid "Apply through the Federal Skilled Worker Program for fast-tracked immigration."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:89
+msgid "{fas}`user-graduate;pst-color-primary` Canadian Experience Class"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:91
+msgid "For those with Canadian work experience seeking permanent residence."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:100
+msgid "{fas}`tools;pst-color-primary` Federal Skilled Trades Program"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:102
+msgid "For skilled workers in specific trades seeking permanent residence."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:82
+msgid "Provincial Nominee Program (PNP)"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:85
+msgid "**The Provincial Nominee Program (PNP)** allows Canadian provinces and territories to nominate individuals for immigration based on their specific economic needs."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:100
+msgid "{fas}`map-marker-alt;pst-color-primary` British Columbia (BC PNP)"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:102
+msgid "Learn about the British Columbia Provincial Nominee Program."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:111
+msgid "{fas}`map-marker-alt;pst-color-primary` Ontario Immigrant Nominee Program (OINP)"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:113
+msgid "Explore the Ontario Immigrant Nominee Program."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:122
+msgid "{fas}`map-marker-alt;pst-color-primary` Alberta Immigrant Nominee Program (AINP)"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:124
+msgid "Find out about the Alberta Immigrant Nominee Program."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:133
+msgid "{fas}`map-marker-alt;pst-color-primary` Manitoba Provincial Nominee Program (MPNP)"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:135
+msgid "Discover the Manitoba Provincial Nominee Program."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:144
+msgid "{fas}`map-marker-alt;pst-color-primary` Nova Scotia Nominee Program (NSNP)"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:146
+msgid "Check the Nova Scotia Nominee Program."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:155
+msgid "{fas}`map-marker-alt;pst-color-primary` Saskatchewan Immigrant Nominee Program (SINP)"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:157
+msgid "Learn about the Saskatchewan Immigrant Nominee Program."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:166
+msgid "{fas}`map-marker-alt;pst-color-primary` Newfoundland and Labrador Provincial Nominee Program (NLNP)"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:168
+msgid "Explore the Newfoundland and Labrador Provincial Nominee Program."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:177
+msgid "{fas}`map-marker-alt;pst-color-primary` Prince Edward Island Provincial Nominee Program (PEI PNP)"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:179
+msgid "Learn about the Prince Edward Island Provincial Nominee Program."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:188
+msgid "{fas}`map-marker-alt;pst-color-primary` New Brunswick Provincial Nominee Program (NB PNP)"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:190
+msgid "Explore the New Brunswick Provincial Nominee Program."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:199
+msgid "{fas}`map-marker-alt;pst-color-primary` Northwest Territories Nominee Program (NT PNP)"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:201
+msgid "Learn about the Northwest Territories Nominee Program."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:210
+msgid "{fas}`map-marker-alt;pst-color-primary` Yukon Nominee Program (YNP)"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:212
+msgid "Learn about the Yukon Nominee Program."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:221
+msgid "{fas}`map-marker-alt;pst-color-primary` Quebec’s immigration programs"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:223
+msgid "Explore immigration options through Quebec's program."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:142
+msgid "Other Important Resources"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:144
+msgid "Here are some **additional resources** that might be important for newcomers to Canada."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:159
+msgid "{fas}`book;pst-color-primary` Settlement Services"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:161
+msgid "Find services to help you adjust to life in Canada."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:170
+msgid "{fas}`briefcase;pst-color-primary` Job Bank"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:172
+msgid "Search for jobs in Canada and explore career opportunities."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:181
+msgid "{fas}`university;pst-color-primary` Educational Credential Assessment"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:183
+msgid "Get your educational credentials assessed for immigration."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:192
+msgid "{fas}`money-bill-wave;pst-color-primary` Tax Information for Newcomers"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:194
+msgid "Understand your tax obligations and benefits as a new resident."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:203
+msgid "{fas}`balance-scale;pst-color-primary` Legal Rights and Responsibilities"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:205
+msgid "Learn about your legal rights and responsibilities in Canada."
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:214
+msgid "{fas}`clinic-medical;pst-color-primary` Healthcare in Canada"
+msgstr ""
+
+#: ../../source/officialwebsites/index.md:216
+msgid "Information on Canada's healthcare system and provincial health insurance."
+msgstr ""

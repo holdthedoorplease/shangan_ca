@@ -1,0 +1,4156 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, ShangAn
+# This file is distributed under the same license as the ShangAn package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ShangAn \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-07 23:05-0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/visitor/business/business_procedures.rst:5
+msgid "Procedures for Business Visitors - Application and Entry Process"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:7
+msgid "Step-by-step guide for business visitors applying to enter Canada."
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:10
+#: ../../source/visitor/study/get_study_permit.rst:40
+#: ../../source/visitor/study/student_direct_stream.rst:44
+#: ../../source/visitor/work/lmia_exemption.rst:43
+#: ../../source/visitor/work/lmia_process.rst:19
+#: ../../source/visitor/work/post_graduation_work_permit.rst:34
+#: ../../source/visitor/work/spousal_work_permit.rst:32
+msgid "Application Process"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:13
+msgid "Pre-Application Steps"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:15
+msgid "Confirm event details"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:16
+msgid "Register for conference/event"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:17
+msgid "Obtain invitation letter"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:18
+#: ../../source/visitor/study/get_study_permit.rst:43
+#: ../../source/visitor/study/student_direct_stream.rst:49
+#: ../../source/visitor/supervisa/super_visa_process.rst:16
+#: ../../source/visitor/tourism/visitor_process.rst:16
+#: ../../source/visitor/work/spousal_work_permit.rst:36
+msgid "Gather required documents"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:19
+msgid "Check visa requirements"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:20
+#: ../../source/visitor/supervisa/super_visa_process.rst:20
+msgid "Prepare financial documents"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:23
+msgid "Visa Application"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:26
+msgid "Required Steps"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:28
+#: ../../source/visitor/study/get_study_permit.rst:45
+#: ../../source/visitor/work/spousal_work_permit.rst:40
+msgid "Complete application forms"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:29
+msgid "Pay processing fees"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:30
+msgid "Submit biometrics"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:31
+msgid "Provide supporting documents"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:32
+#: ../../source/visitor/study/get_study_permit.rst:49
+msgid "Attend interview (if required)"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:33
+msgid "Wait for processing"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:36
+msgid "At Port of Entry"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:39
+msgid "Entry Procedures"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:41
+msgid "Present documentation"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:42
+msgid "Answer officer questions"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:43
+msgid "Declare purpose of visit"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:44
+msgid "Show financial proof"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:45
+msgid "Demonstrate ties to home country"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:46
+msgid "Confirm departure plans"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:49
+msgid "During Stay"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:52
+msgid "Maintaining Status"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:54
+msgid "Attend registered events only"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:55
+msgid "Keep documents accessible"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:56
+msgid "Stay within authorized period"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:57
+msgid "No unauthorized work"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:58
+#: ../../source/visitor/business/business_procedures.rst:96
+msgid "Maintain valid status"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:59
+msgid "Report any changes"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:62
+#: ../../source/visitor/work/lmia_exemption.rst:57
+#: ../../source/visitor/work/post_graduation_work_permit.rst:49
+msgid "Important Considerations"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:65
+msgid "Travel Planning"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:67
+msgid "Book refundable tickets"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:68
+msgid "Flexible accommodation"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:69
+msgid "Insurance coverage"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:70
+msgid "Emergency contacts"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:71
+msgid "Local transportation"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:72
+msgid "Currency exchange"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:75
+msgid "Prohibited Activities"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:78
+msgid "Avoid These Activities"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:80
+msgid "Direct work for Canadian companies"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:81
+msgid "Entering labor market"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:82
+msgid "Receiving Canadian income"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:83
+msgid "Extended stays"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:84
+msgid "Changing visit purpose"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:85
+msgid "Working without permit"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:88
+msgid "Extensions and Changes"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:91
+msgid "If Required"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:93
+msgid "Apply before status expires"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:94
+msgid "Justify extension need"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:95
+msgid "Provide updated documents"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:97
+msgid "Follow proper procedures"
+msgstr ""
+
+#: ../../source/visitor/business/business_procedures.rst:98
+#: ../../source/visitor/study/get_study_permit.rst:46
+#: ../../source/visitor/work/post_graduation_work_permit.rst:46
+#: ../../source/visitor/work/spousal_work_permit.rst:42
+msgid "Pay required fees"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:5
+msgid "Requirements for Business Visitors - Documentation and Eligibility"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:7
+msgid "Detailed requirements for business visitors attending conferences, events, and meetings in Canada."
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:10
+#: ../../source/visitor/study/get_study_permit.rst:10
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:10
+#: ../../source/visitor/work/post_graduation_work_permit.rst:10
+msgid "Eligibility Requirements"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:13
+msgid "Basic Criteria"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:15
+msgid "Primary source of income outside Canada"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:16
+msgid "Main place of business outside Canada"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:17
+#: ../../source/visitor/business/index.rst:39
+msgid "No intent to enter Canadian labor market"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:18
+msgid "Business activity is international in scope"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:19
+msgid "Purpose aligns with business visitor category"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:22
+#: ../../source/visitor/business/event_organizers.rst:23
+msgid "Required Documentation"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:25
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:54
+#: ../../source/visitor/tourism/visitor_requirements.rst:36
+msgid "Primary Documents"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:27
+#: ../../source/visitor/study/index.md:48
+msgid "Valid passport/travel document"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:28
+msgid "Conference/event registration"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:29
+msgid "Letter of invitation"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:30
+msgid "Business documents"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:31
+msgid "Financial proof"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:32
+msgid "Travel itinerary"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:35
+msgid "Supporting Evidence"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:38
+msgid "Event-Related Documents"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:40
+msgid "Conference registration confirmation"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:41
+msgid "Event agenda or schedule"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:42
+msgid "Speaker confirmation (if presenting)"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:43
+msgid "Exhibition booth details (if applicable)"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:44
+msgid "Meeting schedules"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:45
+msgid "Training program details"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:48
+msgid "Business Documentation"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:50
+msgid "Business cards"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:51
+msgid "Company letter"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:52
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:68
+#: ../../source/visitor/tourism/visitor_requirements.rst:48
+msgid "Employment verification"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:53
+msgid "Professional credentials"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:54
+msgid "Business relationships proof"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:55
+msgid "Corporate documentation"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:58
+#: ../../source/visitor/tourism/visitor_requirements.rst:22
+msgid "Financial Requirements"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:61
+msgid "Proof of Funds"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:63
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:69
+msgid "Bank statements"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:64
+msgid "Credit cards"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:65
+msgid "Traveler's checks"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:66
+msgid "Company expense account"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:67
+msgid "Sponsorship letter"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:68
+msgid "Conference fee payment receipt"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:71
+msgid "Travel Arrangements"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:74
+msgid "Required Details"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:76
+msgid "Flight itinerary"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:77
+msgid "Hotel reservations"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:78
+msgid "Ground transportation plans"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:79
+msgid "Return travel confirmation"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:80
+msgid "Emergency contact information"
+msgstr ""
+
+#: ../../source/visitor/business/business_requirements.rst:81
+msgid "Travel insurance (recommended)"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:5
+msgid "Guide for Event and Conference Organizers in Canada"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:7
+msgid "Information for organizations hosting international business events in Canada."
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:10
+msgid "Organizer Responsibilities"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:13
+msgid "Primary Duties"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:15
+msgid "Verify participant eligibility"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:16
+#: ../../source/visitor/work/lmia_exemption.rst:52
+msgid "Provide required documentation"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:17
+msgid "Maintain event records"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:18
+msgid "Ensure compliance with regulations"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:19
+msgid "Support visa application process"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:20
+msgid "Monitor participant activities"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:26
+msgid "Event Documentation"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:28
+msgid "Official event registration"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:29
+msgid "Detailed event agenda"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:30
+msgid "Speaker/presenter lists"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:31
+msgid "Participant lists"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:32
+msgid "Venue confirmation"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:33
+msgid "Event marketing materials"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:36
+msgid "Support Letters"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:39
+msgid "Must Include:"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:41
+msgid "Event details and dates"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:42
+msgid "Participant role"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:43
+msgid "Financial arrangements"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:44
+msgid "Registration confirmation"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:45
+#: ../../source/visitor/business/event_organizers.rst:79
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:72
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:83
+msgid "Contact information"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:46
+msgid "Organization details"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:49
+msgid "Visa Assistance"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:52
+msgid "Support Process"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:54
+msgid "Provide invitation letters"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:55
+msgid "Confirm registration status"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:56
+msgid "Respond to visa office inquiries"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:57
+msgid "Maintain participant database"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:58
+msgid "Track visa applications"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:59
+msgid "Provide additional documentation"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:62
+msgid "Best Practices"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:65
+msgid "Event Planning"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:67
+msgid "Early announcement"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:68
+msgid "Clear documentation"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:69
+msgid "Visa processing times"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:70
+msgid "Alternative participation options"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:71
+msgid "Cancellation policies"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:72
+msgid "Emergency procedures"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:75
+msgid "Communication"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:77
+msgid "Regular updates"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:78
+msgid "Clear instructions"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:80
+msgid "Support channels"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:81
+msgid "Document templates"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:82
+msgid "FAQ resources"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:85
+msgid "Compliance Measures"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:88
+msgid "Monitoring Requirements"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:90
+msgid "Attendance tracking"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:91
+msgid "Document verification"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:92
+msgid "Status monitoring"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:93
+msgid "Departure confirmation"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:94
+msgid "Record keeping"
+msgstr ""
+
+#: ../../source/visitor/business/event_organizers.rst:95
+msgid "Incident reporting"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:12
+#: ../../source/visitor/supervisa/index.rst:12
+msgid "Contents:"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:5
+msgid "Business Visitors to Canada - Conferences and Events Guide"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:7
+msgid "This comprehensive guide covers requirements and procedures for business visitors attending conferences, events, and meetings in Canada."
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:10
+#: ../../source/visitor/supervisa/index.rst:10
+#: ../../source/visitor/tourism/index.md:36
+msgid "Contents"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:21
+msgid "Overview"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:23
+msgid "Business visitors can enter Canada to:"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:25
+msgid "Attend conferences"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:26
+msgid "Participate in business meetings"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:27
+msgid "Attend trade shows and exhibitions"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:28
+msgid "Participate in training sessions"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:29
+msgid "Network with Canadian businesses"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:32
+msgid "Key Requirements"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:34
+msgid "Valid travel document"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:35
+msgid "Proof of business purpose"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:36
+msgid "Event registration/invitation"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:37
+msgid "Sufficient funds"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:38
+msgid "Plan to leave Canada after event"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:42
+msgid "Types of Business Activities"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:45
+msgid "Permitted Activities"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:47
+msgid "Conference attendance"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:48
+#: ../../source/visitor/tourism/visitor_exceptions.rst:53
+msgid "Business meetings"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:49
+msgid "Professional development"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:50
+#: ../../source/visitor/tourism/visitor_exceptions.rst:54
+msgid "Trade shows"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:51
+msgid "Corporate training"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:52
+#: ../../source/visitor/tourism/visitor_exceptions.rst:63
+msgid "Board meetings"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:53
+#: ../../source/visitor/tourism/visitor_exceptions.rst:55
+msgid "Contract negotiations"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:56
+#: ../../source/visitor/tourism/index.md:68
+msgid "Duration of Stay"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:58
+msgid "Typically up to 6 months"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:59
+msgid "Extensions possible if justified"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:60
+msgid "Must maintain business visitor status"
+msgstr ""
+
+#: ../../source/visitor/business/index.rst:61
+msgid "Cannot engage in work requiring work permit"
+msgstr ""
+
+#: ../../source/visitor/index.md:36
+msgid "Study in Canada"
+msgstr ""
+
+#: ../../source/visitor/index.md:43
+msgid "Travel to Canada"
+msgstr ""
+
+#: ../../source/visitor/index.md:50
+#: ../../source/visitor/supervisa/index.rst:33
+msgid "Super Visa"
+msgstr ""
+
+#: ../../source/visitor/index.md:57
+msgid "Work in Canada"
+msgstr ""
+
+#: ../../source/visitor/index.md:64
+msgid "Business in Canada"
+msgstr ""
+
+#: ../../source/visitor/index.md:0
+msgid "Explore the various types of visitor visas to Canada and find the one that best suits your needs.\n"
+""
+msgstr ""
+
+#: ../../source/visitor/index.md:8
+msgid "加拿大签证"
+msgstr ""
+
+#: ../../source/visitor/index.md:10
+msgid "Explore the various types of visitor visas to Canada and find the one that best suits your needs."
+msgstr ""
+
+#: ../../source/visitor/index.md:25
+msgid "{fas}`plane;pst-color-primary` Tourism in Canada"
+msgstr ""
+
+#: ../../source/visitor/index.md:27
+msgid "Plan your vacation with ease using our Tourist Visa resources."
+msgstr ""
+
+#: ../../source/visitor/index.md:36
+msgid "{fas}`book;pst-color-primary` Study in Canada"
+msgstr ""
+
+#: ../../source/visitor/index.md:38
+msgid "Pursue your education in Canada with our Student Visa information."
+msgstr ""
+
+#: ../../source/visitor/index.md:47
+msgid "{fas}`users;pst-color-primary` Visit Family in Canada"
+msgstr ""
+
+#: ../../source/visitor/index.md:49
+msgid "Learn about visas to visit your family members in Canada, including the Super Visa."
+msgstr ""
+
+#: ../../source/visitor/index.md:58
+msgid "{fas}`briefcase;pst-color-primary` Work in Canada"
+msgstr ""
+
+#: ../../source/visitor/index.md:60
+msgid "Find opportunities to work in Canada through our Work Visa guides."
+msgstr ""
+
+#: ../../source/visitor/index.md:69
+msgid "{fas}`handshake;pst-color-primary` Visit Canada on Business"
+msgstr ""
+
+#: ../../source/visitor/index.md:71
+msgid "Explore options for business visitors and entrepreneurs."
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:5
+#: ../../source/visitor/study/index.md:34
+msgid "Study as a French-Speaking Student"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:7
+msgid "Special opportunities and benefits are available for French-speaking international students choosing to study in Canada."
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:10
+msgid "Advantages"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:12
+msgid "Access to specialized programs"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:13
+msgid "Additional scholarship opportunities"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:14
+msgid "Improved immigration prospects"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:15
+msgid "Enhanced post-graduation work opportunities"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:18
+msgid "Language Requirements"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:20
+msgid "Proof of French language ability through:"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:21
+msgid "TEF Canada"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:22
+msgid "TCF Canada"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:23
+msgid "Other approved French language tests"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:24
+msgid "Minimum level requirements vary by program"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:25
+msgid "Some programs may require bilingual capability"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:28
+msgid "Available Programs"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:30
+msgid "**Regular Study Programs in French**"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:31
+msgid "Programs at French-language institutions"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:32
+msgid "Bilingual programs"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:33
+msgid "French immersion programs"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:35
+msgid "**Special Initiatives**"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:36
+msgid "Francophone Immigration Program"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:37
+msgid "Quebec Acceptance Certificate (CAQ) programs"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:38
+msgid "Bilateral exchange programs"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:41
+msgid "Quebec Considerations"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:43
+msgid "Students planning to study in Quebec must:"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:45
+msgid "Obtain a Quebec Acceptance Certificate (CAQ)"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:46
+msgid "Meet additional French language requirements"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:47
+msgid "Follow Quebec-specific application procedures"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:50
+msgid "Post-Graduation Benefits"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:52
+msgid "Access to specialized work permits"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:53
+msgid "Priority processing for certain immigration programs"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:54
+msgid "Additional points in Express Entry system"
+msgstr ""
+
+#: ../../source/visitor/study/french_speaking_student.rst:55
+msgid "Enhanced networking opportunities in Francophone communities"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:5
+#: ../../source/visitor/study/index.md:26
+msgid "Get a Study Permit"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:7
+msgid "A study permit is an official document issued by the Canadian government that allows foreign nationals to study at designated learning institutions (DLIs) in Canada."
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:12
+msgid "To be eligible for a study permit, you must:"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:14
+msgid "Have an acceptance letter from a DLI"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:15
+msgid "Prove you have enough money to:"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:16
+msgid "Pay tuition fees"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:17
+msgid "Support yourself and family members during your stay"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:18
+msgid "Pay return transportation"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:19
+msgid "Be a law-abiding citizen with no criminal record"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:20
+msgid "Be in good health (medical exam may be required)"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:21
+msgid "Prove to an immigration officer that you will leave Canada when your permit expires"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:24
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:51
+#: ../../source/visitor/tourism/visitor_requirements.rst:33
+msgid "Required Documents"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:26
+msgid "Basic documents needed:"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:28
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:15
+#: ../../source/visitor/tourism/visitor_requirements.rst:38
+#: ../../source/visitor/work/spousal_work_permit.rst:26
+msgid "Valid passport"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:29
+#: ../../source/visitor/study/student_direct_stream.rst:33
+msgid "Acceptance letter from a DLI"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:30
+msgid "Proof of financial support:"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:31
+msgid "Bank statements for past 4 months"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:32
+msgid "Proof of paid tuition and housing fees"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:33
+msgid "Scholarship or student loan letters"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:34
+msgid "Passport-size photographs"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:35
+msgid "Immigration medical examination results (if required)"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:36
+msgid "Statement of purpose"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:37
+msgid "Language test results (IELTS/TOEFL)"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:42
+msgid "Get accepted to a DLI"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:44
+msgid "Create an online account"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:47
+#: ../../source/visitor/supervisa/super_visa_process.rst:32
+msgid "Submit application"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:48
+#: ../../source/visitor/study/student_direct_stream.rst:51
+msgid "Provide biometrics"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:52
+#: ../../source/visitor/work/index.md:80
+#: ../../source/visitor/work/lmia_process.rst:62
+msgid "Processing Times"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:54
+msgid "Processing times vary by country and application type. Check current processing times on the IRCC website."
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:57
+msgid "Tips for Success"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:59
+msgid "Apply at least 3-4 months before studies begin"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:60
+msgid "Ensure all documents are properly translated"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:61
+msgid "Double-check application for completeness"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:62
+msgid "Keep copies of all submitted documents"
+msgstr ""
+
+#: ../../source/visitor/study/get_study_permit.rst:63
+msgid "Don't make travel plans until permit is approved"
+msgstr ""
+
+#: ../../source/visitor/study/index.md:15
+#: ../../source/visitor/work/index.md:40
+msgid "Key Topics"
+msgstr ""
+
+#: ../../source/visitor/study/index.md:0
+msgid "Comprehensive guide for international students planning to study in Canada, including visa types, study permits, and eligibility requirements.\n"
+""
+msgstr ""
+
+#: ../../source/visitor/study/index.md:8
+msgid "Studying in Canada - Student Guide"
+msgstr ""
+
+#: ../../source/visitor/study/index.md:10
+msgid "Welcome to the comprehensive guide for international students planning to study in Canada. Canada welcomes nearly half a million international students each year, offering world-class education, diverse culture, and excellent post-graduation opportunities."
+msgstr ""
+
+#: ../../source/visitor/study/index.md:12
+msgid "This guide covers everything you need to know about obtaining and maintaining your status as an international student in Canada."
+msgstr ""
+
+#: ../../source/visitor/study/index.md:28
+msgid "Learn about the standard study permit application process, eligibility requirements, and necessary documents. This is the primary path for most international students."
+msgstr ""
+
+#: ../../source/visitor/study/index.md:30
+msgid "Student Direct Stream (SDS)"
+msgstr ""
+
+#: ../../source/visitor/study/index.md:32
+msgid "Discover an expedited study permit process available to students from specific countries, offering faster processing times with standardized requirements."
+msgstr ""
+
+#: ../../source/visitor/study/index.md:36
+msgid "Special opportunities and programs available for French-speaking international students, including specific streams and additional benefits."
+msgstr ""
+
+#: ../../source/visitor/study/index.md:38
+#: ../../source/visitor/study/minor_child_study.rst:5
+msgid "Study in Canada as a Minor Child"
+msgstr ""
+
+#: ../../source/visitor/study/index.md:40
+msgid "Important information for parents and guardians regarding requirements and processes for minor children studying in Canada."
+msgstr ""
+
+#: ../../source/visitor/study/index.md:42
+msgid "Requirements Overview"
+msgstr ""
+
+#: ../../source/visitor/study/index.md:44
+msgid "To study in Canada, you typically need:"
+msgstr ""
+
+#: ../../source/visitor/study/index.md:46
+msgid "An acceptance letter from a Designated Learning Institution (DLI)"
+msgstr ""
+
+#: ../../source/visitor/study/index.md:47
+#: ../../source/visitor/study/minor_child_study.rst:40
+#: ../../source/visitor/tourism/visitor_requirements.rst:39
+msgid "Proof of financial support"
+msgstr ""
+
+#: ../../source/visitor/study/index.md:49
+#: ../../source/visitor/work/index.md:75
+msgid "Clean criminal record"
+msgstr ""
+
+#: ../../source/visitor/study/index.md:50
+msgid "Good health condition (medical exam may be required)"
+msgstr ""
+
+#: ../../source/visitor/study/index.md:51
+msgid "Intent to leave Canada after studies"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:7
+msgid "Special requirements and considerations apply when a minor child (under 18 years) plans to study in Canada."
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:10
+msgid "General Requirements"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:12
+msgid "Letter of acceptance from a Canadian school"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:13
+msgid "Custodianship declaration (if required)"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:14
+msgid "Parental/guardian authorization"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:15
+msgid "Additional documentation for child's protection"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:18
+msgid "Custodianship"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:20
+msgid "Required for minor students who will study in Canada without a parent/legal guardian:"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:22
+msgid "Custodian must be a responsible Canadian citizen/permanent resident"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:23
+msgid "Notarized custodianship declaration required"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:24
+msgid "Both parents/guardians must sign declaration"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:25
+msgid "Custodian's responsibilities include:"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:26
+msgid "Providing care and support"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:27
+msgid "Making medical decisions"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:28
+msgid "School communications"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:29
+msgid "Housing arrangements"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:32
+msgid "Study Permit Requirements"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:34
+msgid "Standard study permit requirements apply"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:35
+msgid "Additional documents needed:"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:36
+msgid "Birth certificate"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:37
+msgid "Parents' authorization"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:38
+msgid "Custodianship documents"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:39
+msgid "School enrollment confirmation"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:43
+msgid "Special Considerations"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:45
+msgid "**Elementary/Secondary Education**"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:46
+msgid "May require school board approval"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:47
+msgid "Age restrictions may apply"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:48
+msgid "Specific provincial requirements"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:50
+msgid "**Healthcare and Insurance**"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:51
+msgid "Mandatory medical insurance"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:52
+msgid "Parent/custodian consent for medical care"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:53
+msgid "Emergency contact requirements"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:55
+msgid "**Housing Arrangements**"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:56
+msgid "Homestay programs"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:57
+msgid "Boarding schools"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:58
+msgid "Living with relatives"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:59
+msgid "Custodian's residence"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:62
+msgid "Safety and Support"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:64
+msgid "24/7 emergency contact system"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:65
+msgid "Regular check-ins with custodian"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:66
+msgid "School support services"
+msgstr ""
+
+#: ../../source/visitor/study/minor_child_study.rst:67
+msgid "Access to counseling services"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:5
+msgid "Student Direct Stream"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:7
+msgid "The Student Direct Stream (SDS) provides expedited study permit processing for legal residents of certain countries."
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:10
+msgid "Eligible Countries"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:12
+msgid "The SDS is available to legal residents of:"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:14
+msgid "China"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:15
+msgid "India"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:16
+msgid "Morocco"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:17
+msgid "Pakistan"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:18
+msgid "Philippines"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:19
+msgid "Senegal"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:20
+msgid "Vietnam"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:21
+msgid "And other select countries (check IRCC website for current list)"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:24
+#: ../../source/visitor/work/spousal_work_permit.rst:20
+msgid "Requirements"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:26
+msgid "In addition to regular study permit requirements, SDS applicants must provide:"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:28
+msgid "Guaranteed Investment Certificate (GIC) of $10,000 CAD"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:29
+msgid "Most recent secondary or post-secondary education transcript"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:30
+msgid "Language test results showing:"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:31
+msgid "IELTS score of 6.0 or higher in all bands, OR"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:32
+msgid "TEF score that shows CLB 7 level or higher"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:36
+#: ../../source/visitor/work/post_graduation_work_permit.rst:58
+msgid "Benefits"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:38
+msgid "Faster processing times (usually 20 calendar days)"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:39
+msgid "Standardized requirements"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:40
+msgid "More predictable application process"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:41
+msgid "Higher approval rates"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:46
+#: ../../source/visitor/supervisa/super_visa_process.rst:15
+#: ../../source/visitor/work/spousal_work_permit.rst:35
+msgid "Confirm eligibility"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:47
+msgid "Purchase GIC from approved financial institution"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:48
+msgid "Complete language testing"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:50
+#: ../../source/visitor/work/spousal_work_permit.rst:45
+msgid "Submit application online"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:52
+msgid "Track application status"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:55
+#: ../../source/visitor/work/spousal_work_permit.rst:67
+msgid "Important Notes"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:57
+msgid "Must maintain eligibility requirements throughout process"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:58
+#: ../../source/visitor/tourism/visitor_process.rst:99
+msgid "Additional documents may be requested"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:59
+msgid "Processing time guarantee not absolute"
+msgstr ""
+
+#: ../../source/visitor/study/student_direct_stream.rst:60
+msgid "Regular study permit fees apply"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:5
+msgid "Super Visa for Parents and Grandparents - Complete Guide"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:7
+msgid "The Super Visa is a multi-entry visa that allows parents and grandparents of Canadian citizens and permanent residents to stay in Canada for up to 5 years at a time."
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:21
+msgid "Key Features"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:23
+msgid "Valid for up to 10 years"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:24
+msgid "Multiple entries allowed"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:25
+msgid "Stay up to 5 years per visit"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:26
+msgid "No need for status renewal during authorized stay"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:27
+msgid "Faster than parent and grandparent sponsorship"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:30
+msgid "Comparison with Regular Visitor Visa"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:33
+msgid "Feature"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:33
+msgid "Regular Visitor Visa"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:35
+msgid "Maximum stay per visit"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:35
+msgid "5 years"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:35
+msgid "6 months (typically)"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:36
+msgid "Validity period"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:36
+msgid "10 years"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:36
+msgid "Up to 10 years"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:37
+msgid "Medical exam required"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:37
+#: ../../source/visitor/supervisa/index.rst:38
+msgid "Yes"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:37
+msgid "Sometimes"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:38
+msgid "Insurance required"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:38
+msgid "No"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:39
+msgid "Processing time"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:39
+msgid "Faster"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:39
+msgid "Standard"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:40
+msgid "Cost"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:40
+msgid "Higher"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:40
+msgid "Lower"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:44
+msgid "Basic Eligibility"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:46
+msgid "To qualify, you must:"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:48
+msgid "Be a parent or grandparent of a Canadian citizen or PR"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:49
+msgid "Have a signed letter of invitation from your child/grandchild"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:50
+msgid "Have valid medical insurance"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:51
+msgid "Pass medical examination"
+msgstr ""
+
+#: ../../source/visitor/supervisa/index.rst:52
+msgid "Meet basic visitor visa requirements"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:5
+msgid "Super Visa Insurance Requirements - Detailed Guide"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:7
+msgid "Comprehensive information about the medical insurance requirements for Super Visa applications."
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:10
+msgid "Basic Requirements"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:13
+msgid "Coverage Minimums"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:15
+msgid "Minimum coverage: $100,000 CAD"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:16
+msgid "Valid for 1 year from entry"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:17
+msgid "Must be from Canadian insurance provider"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:18
+msgid "Coverage must be valid throughout stay"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:19
+msgid "Proof of coverage required before visa issuance"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:22
+msgid "Required Coverage Types"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:25
+msgid "Medical Services"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:27
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:94
+msgid "Emergency medical care"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:28
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:95
+msgid "Hospitalization"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:29
+msgid "Prescription medications"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:30
+msgid "Medical tests and procedures"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:31
+msgid "Specialist consultations"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:32
+msgid "Emergency dental treatment"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:35
+msgid "Additional Coverage"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:37
+msgid "Medical evacuation"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:38
+msgid "Repatriation coverage"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:39
+msgid "Emergency transport"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:40
+msgid "Hospital room and board"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:41
+msgid "Medical supplies and equipment"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:44
+msgid "Insurance Providers"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:47
+msgid "Eligible Providers"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:49
+msgid "Canadian insurance companies"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:50
+msgid "Licensed Canadian brokers"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:51
+msgid "Authorized insurance agents"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:52
+msgid "Company must be authorized to operate in Canada"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:55
+msgid "Choosing Provider"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:57
+msgid "Compare coverage options"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:58
+msgid "Check company reputation"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:59
+msgid "Review claim process"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:60
+msgid "Confirm pricing structure"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:61
+msgid "Verify payment options"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:64
+msgid "Documentation Requirements"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:67
+msgid "Proof of Insurance"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:69
+msgid "Insurance policy document"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:70
+msgid "Coverage details"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:71
+msgid "Policy number"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:73
+msgid "Payment confirmation"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:74
+msgid "Coverage dates"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:77
+msgid "Policy Details"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:80
+msgid "Important Features"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:82
+msgid "No waiting period"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:83
+msgid "Immediate coverage on arrival"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:84
+msgid "Clear claims process"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:85
+msgid "24/7 emergency assistance"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:86
+msgid "Direct billing when possible"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:87
+msgid "Coverage renewal options"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:90
+msgid "Exclusions and Limitations"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:93
+msgid "Common Exclusions"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:95
+msgid "Pre-existing conditions"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:96
+msgid "Non-emergency care"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:97
+msgid "Routine check-ups"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:98
+msgid "Dental procedures"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:99
+msgid "Vision care"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:100
+msgid "Prescription drugs outside hospital"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:103
+msgid "Maintaining Coverage"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:106
+msgid "Renewal Process"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:108
+msgid "Monitor expiry dates"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:109
+msgid "Renew before expiration"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:110
+msgid "Keep documentation current"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:111
+msgid "Update contact information"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:112
+msgid "Understand renewal requirements"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:115
+msgid "Claims Process"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:118
+msgid "Making Claims"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:120
+msgid "Contact insurance provider"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:121
+msgid "Follow claim procedures"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:122
+msgid "Keep all receipts"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:123
+msgid "Document all treatments"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:124
+msgid "Submit required forms"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_insurance.rst:125
+msgid "Track claim status"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:5
+msgid "Super Visa Application Process - Step by Step Guide"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:7
+msgid "Detailed guide for applying for a Super Visa, including preparation, submission, and post-application steps."
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:10
+msgid "Before Applying"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:13
+#: ../../source/visitor/tourism/visitor_process.rst:13
+msgid "Preparation Steps"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:17
+msgid "Complete medical exam"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:18
+msgid "Obtain insurance coverage"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:19
+msgid "Get letter of invitation"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:23
+msgid "Application Methods"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:26
+msgid "Online Application"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:28
+#: ../../source/visitor/work/spousal_work_permit.rst:37
+msgid "Create online account"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:29
+msgid "Fill electronic application"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:30
+msgid "Upload documents"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:31
+#: ../../source/visitor/supervisa/super_visa_process.rst:40
+#: ../../source/visitor/work/lmia_exemption.rst:53
+msgid "Pay fees"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:35
+msgid "Paper Application"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:37
+msgid "Download application package"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:38
+msgid "Complete all forms"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:39
+#: ../../source/visitor/work/lmia_exemption.rst:48
+msgid "Gather supporting documents"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:41
+msgid "Mail application"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:44
+msgid "Required Forms"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:47
+msgid "Primary Forms"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:49
+msgid "Application for Visitor Visa (IMM 5257)"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:50
+msgid "Family Information Form (IMM 5645)"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:51
+msgid "Statutory Declaration of Common-law Union (IMM 5409) if applicable"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:52
+msgid "Document Checklist (IMM 5484)"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:55
+#: ../../source/visitor/tourism/visitor_requirements.rst:46
+msgid "Supporting Documents"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:57
+msgid "Use of Representative (IMM 5476) if applicable"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:58
+msgid "Authority to Release Personal Information (IMM 5475) if needed"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:59
+msgid "Additional Family Information (IMM 5406) if required"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:62
+msgid "Fees and Payment"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:65
+msgid "Required Fees"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:67
+msgid "Visitor visa fee"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:68
+msgid "Biometrics fee"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:69
+msgid "Medical exam fee"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:70
+msgid "Insurance premium"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:73
+msgid "Payment Methods"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:75
+msgid "Credit card"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:76
+msgid "Debit card"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:77
+msgid "Bank draft"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:78
+msgid "Money order"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:81
+msgid "Processing Timeline"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:84
+msgid "Standard Steps"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:86
+#: ../../source/visitor/tourism/visitor_process.rst:87
+msgid "Application received"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:87
+#: ../../source/visitor/tourism/visitor_process.rst:88
+msgid "Initial review"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:88
+#: ../../source/visitor/tourism/visitor_process.rst:89
+msgid "Biometrics verification"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:89
+msgid "Detailed assessment"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:90
+msgid "Medical results review"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:91
+msgid "Final decision"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:92
+#: ../../source/visitor/tourism/visitor_process.rst:92
+msgid "Passport request (if approved)"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:95
+#: ../../source/visitor/tourism/visitor_process.rst:82
+msgid "After Submission"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:98
+msgid "Track Application"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:100
+msgid "Check online status"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:101
+msgid "Respond to requests promptly"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:102
+msgid "Keep contact information current"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:103
+msgid "Monitor email for updates"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:106
+#: ../../source/visitor/tourism/visitor_process.rst:103
+msgid "If Approved"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:109
+#: ../../source/visitor/tourism/visitor_process.rst:106
+msgid "Next Steps"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:111
+msgid "Submit passport"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:112
+#: ../../source/visitor/tourism/visitor_process.rst:110
+msgid "Review visa details"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:113
+msgid "Plan travel"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:114
+msgid "Maintain insurance coverage"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:115
+msgid "Keep important documents"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:118
+#: ../../source/visitor/tourism/visitor_process.rst:114
+msgid "If Refused"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:121
+#: ../../source/visitor/tourism/visitor_process.rst:117
+msgid "Options Available"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:123
+msgid "Review refusal reasons"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:124
+msgid "Address deficiencies"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:125
+msgid "Consider reapplication"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_process.rst:126
+msgid "Explore alternatives"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:5
+msgid "Super Visa Requirements - Eligibility and Documentation"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:7
+msgid "This section details the specific requirements for obtaining a Super Visa."
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:13
+msgid "For Parents/Grandparents"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:16
+msgid "Good health (medical exam required)"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:17
+msgid "No criminal record"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:18
+msgid "Genuine intention to return home"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:19
+msgid "Ties to home country"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:20
+msgid "Financial support from child/grandchild in Canada"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:23
+msgid "For Canadian Child/Grandchild"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:25
+msgid "Canadian citizen or permanent resident"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:26
+msgid "Meet minimum income requirement (LICO)"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:27
+msgid "Provide letter of invitation"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:28
+msgid "Support family members during stay"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:31
+msgid "Income Requirements"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:34
+msgid "Minimum Necessary Income (LICO-Plus)"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:36
+msgid "These figures are examples and should be verified on the IRCC website for current requirements."
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:39
+msgid "Number of Family Members"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:39
+msgid "Minimum Income"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:41
+msgid "1 person (your child/grandchild)"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:41
+msgid "$26,620"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:42
+msgid "2 people"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:42
+msgid "$33,140"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:43
+msgid "3 people"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:43
+msgid "$40,742"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:44
+msgid "4 people"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:44
+msgid "$49,466"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:45
+msgid "5 people"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:45
+msgid "$56,104"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:46
+msgid "6 people"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:46
+msgid "$63,276"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:47
+msgid "7 or more people"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:47
+msgid "$70,448"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:56
+#: ../../source/visitor/tourism/visitor_process.rst:55
+msgid "Passport/travel document"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:57
+msgid "Completed application forms"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:58
+#: ../../source/visitor/tourism/visitor_process.rst:56
+msgid "Photos meeting specifications"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:59
+#: ../../source/visitor/work/spousal_work_permit.rst:24
+msgid "Proof of relationship"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:60
+msgid "Medical exam results"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:61
+msgid "Police certificates (if required)"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:64
+msgid "Financial Documents"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:66
+msgid "Proof of private medical insurance"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:67
+msgid "Child/grandchild's Notice of Assessment"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:70
+msgid "Investment documents"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:73
+msgid "Letter of Invitation"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:76
+msgid "Must Include"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:78
+msgid "Invitation details"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:79
+msgid "Length of intended stay"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:80
+msgid "Financial support commitment"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:81
+msgid "Number of people in household"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:82
+msgid "Child/grandchild's immigration status"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:84
+msgid "Living arrangements details"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:87
+msgid "Insurance Requirements"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:90
+msgid "Coverage Must"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:92
+msgid "Minimum $100,000 coverage"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:93
+msgid "Valid for one year"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:96
+msgid "Repatriation"
+msgstr ""
+
+#: ../../source/visitor/supervisa/super_visa_requirements.rst:97
+msgid "Coverage by Canadian insurance company"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:0
+msgid "Comprehensive guide to visiting Canada, including visa types, requirements, and application processes.\n"
+""
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:8
+msgid "Tourism in Canada - Complete Guide to Visitor Visas"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:10
+msgid "This comprehensive guide covers everything you need to know about visiting Canada, including visa requirements, application processes, and special exceptions."
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:25
+msgid "{fas}`passport;pst-color-primary` Visitor Visa (TRV)"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:27
+msgid "Learn about the Temporary Resident Visa, required for most visitors to Canada."
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:36
+msgid "{fas}`plane-arrival;pst-color-primary` Electronic Travel Authorization (eTA)"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:38
+msgid "Information on eTA for visa-exempt nationals, valid up to 5 years."
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:47
+msgid "{fas}`users;pst-color-primary` U.S. Citizens"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:49
+msgid "Guidelines for U.S. citizens visiting Canada who do not require a visa or eTA."
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:58
+msgid "{fas}`clock;pst-color-primary` Duration of Stay"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:60
+msgid "Find out the allowed duration of stay in Canada and conditions for extension."
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:69
+msgid "{fas}`info-circle;pst-color-primary` Requirements"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:71
+msgid "Overview of essential requirements for visiting Canada, including health and financial needs."
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:38
+msgid "Explore essential information for visiting Canada."
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:48
+msgid "Overview of Visitor Visas"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:50
+msgid "A Temporary Resident Visa (TRV) or visitor visa is an official document stamped in your passport showing that you meet the requirements to enter Canada as a temporary resident."
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:52
+msgid "Types of Entry Documents"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:54
+msgid "**Visitor Visa (TRV)**"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:55
+msgid "Required for citizens of most countries"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:56
+msgid "Single or multiple entry options"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:57
+msgid "Valid for specific duration"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:59
+msgid "**Electronic Travel Authorization (eTA)**"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:60
+msgid "Required for visa-exempt nationals"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:61
+#: ../../source/visitor/tourism/visitor_exceptions.rst:25
+msgid "Valid for up to 5 years"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:62
+msgid "Linked to passport"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:64
+msgid "**Neither Required**"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:65
+msgid "U.S. citizens"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:66
+msgid "Some other specific exceptions"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:70
+msgid "Usually up to 6 months from entry date"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:71
+msgid "Officer at port of entry makes final decision"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:72
+msgid "Can apply for extension while in Canada"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:73
+msgid "Must leave when authorized stay expires"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:75
+msgid "Basic Requirements Overview"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:77
+msgid "To visit Canada, you must:"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:79
+msgid "Have a valid travel document"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:80
+#: ../../source/visitor/tourism/visitor_requirements.rst:15
+msgid "Be in good health"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:81
+msgid "Have no criminal convictions"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:82
+msgid "Have ties to home country"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:83
+msgid "Have sufficient funds"
+msgstr ""
+
+#: ../../source/visitor/tourism/index.md:84
+msgid "Plan to leave Canada at end of stay"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:5
+msgid "Exceptions and Special Cases - Canadian Visitor Visa Requirements"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:7
+msgid "This section covers various exceptions to standard visitor visa requirements and special entry provisions."
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:10
+msgid "Visa-Exempt Nationals"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:13
+msgid "Countries Not Requiring Visa"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:15
+msgid "United States citizens"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:16
+msgid "British citizens"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:17
+msgid "European Union citizens"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:18
+msgid "Other specified countries"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:21
+msgid "eTA Requirements"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:23
+msgid "Required for visa-exempt visitors"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:24
+msgid "Applied online"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:26
+msgid "Costs CAD $7"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:29
+msgid "Special Entry Provisions"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:32
+msgid "Transit Without Visa"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:34
+msgid "Applicable to certain nationalities"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:35
+msgid "Specific airports only"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:36
+msgid "Limited duration"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:37
+msgid "Must meet criteria"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:40
+msgid "Emergency Situations"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:42
+msgid "Family emergencies"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:43
+msgid "Medical emergencies"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:44
+msgid "Natural disasters"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:45
+msgid "Special consideration process"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:48
+msgid "Business Visitors"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:51
+msgid "CUSMA/NAFTA Provisions"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:56
+msgid "After-sales service"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:59
+msgid "Other Business Activities"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:61
+msgid "Conferences"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:62
+msgid "Training"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:64
+msgid "Site visits"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:67
+msgid "Special Programs"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:70
+msgid "Working Holiday"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:72
+msgid "Youth mobility agreements"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:73
+msgid "Age restrictions apply"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:74
+msgid "Country-specific quotas"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:75
+msgid "Different application process"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:78
+msgid "Academic Visitors"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:80
+msgid "Short-term research"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:81
+msgid "Guest lectures"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:82
+msgid "Academic conferences"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:83
+msgid "Institutional agreements"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:86
+msgid "Family Connections"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:89
+msgid "Canadian Citizens/PRs"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:91
+msgid "Parents and grandparents"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:92
+msgid "Super Visa option"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:93
+msgid "Extended family members"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:94
+msgid "Processing priorities"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:97
+msgid "Dual Citizens"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:99
+msgid "Travel document requirements"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:100
+msgid "Entry provisions"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:101
+msgid "Special considerations"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:104
+msgid "Minister's Permission"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:107
+msgid "Special Authorization"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:109
+msgid "Temporary Resident Permits"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:110
+msgid "National interest cases"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:111
+msgid "Humanitarian grounds"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:112
+msgid "Ministerial instructions"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:115
+msgid "Additional Exceptions"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:118
+msgid "Diplomatic/Official"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:120
+msgid "Government officials"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:121
+msgid "Diplomatic passports"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:122
+msgid "Official business"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:123
+msgid "International organizations"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:126
+msgid "Military Personnel"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:128
+msgid "NATO members"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:129
+msgid "Joint exercises"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:130
+msgid "Official duties"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_exceptions.rst:131
+msgid "Military agreements"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:5
+msgid "How to Apply for a Canadian Visitor Visa - Application Process"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:7
+msgid "This guide outlines the step-by-step process for applying for a Canadian visitor visa."
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:10
+msgid "Before You Apply"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:15
+msgid "Check if you need a visa"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:17
+msgid "Create digital copies of documents"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:18
+msgid "Have valid credit card for payment"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:19
+msgid "Access to scanner/camera for documents"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:22
+msgid "Online Application Process"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:25
+msgid "Creating Account"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:27
+msgid "Create GCKey or Sign-in Partner login"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:28
+msgid "Complete personal profile"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:29
+msgid "Start visitor visa application"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:30
+msgid "Save reference number"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:33
+msgid "Completing Application"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:35
+msgid "Fill all mandatory fields"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:36
+msgid "Provide family information"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:37
+msgid "Detail travel history"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:38
+msgid "Enter employment/education details"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:39
+msgid "Explain purpose of travel"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:42
+msgid "Document Upload Requirements"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:45
+msgid "Required Format"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:47
+msgid "PDF, JPEG, PNG, DOC, or DOCX"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:48
+msgid "Maximum file size: 4MB per file"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:49
+msgid "Clear, legible scans"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:50
+msgid "Color copies preferred"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:53
+msgid "Document Checklist"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:57
+msgid "Financial documents"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:58
+msgid "Purpose of travel proof"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:59
+msgid "Supporting documents"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:60
+#: ../../source/visitor/tourism/visitor_requirements.rst:42
+msgid "Family information form"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:63
+msgid "Biometrics Process"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:66
+msgid "Appointment Booking"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:68
+msgid "Pay biometrics fee"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:69
+msgid "Receive instruction letter"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:70
+msgid "Book at authorized center"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:71
+msgid "Attend appointment"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:74
+msgid "Collection Process"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:76
+msgid "Fingerprints taken"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:77
+msgid "Photo taken"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:78
+msgid "Documents verified"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:79
+msgid "Receipt provided"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:85
+msgid "Application Timeline"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:90
+msgid "Detailed review"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:91
+msgid "Decision made"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:95
+msgid "Status Updates"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:97
+msgid "Check online account"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:98
+msgid "Processing times vary"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:100
+msgid "Email notifications"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:108
+msgid "Submit passport (if requested)"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:109
+msgid "Visa stamped in passport"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:111
+msgid "Plan travel within validity"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:119
+msgid "Review refusal letter"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:120
+msgid "Address concerns"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:121
+msgid "Reapply if circumstances change"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_process.rst:122
+msgid "Consider other options"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:5
+msgid "Requirements for Visiting Canada - Eligibility and Documentation"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:7
+msgid "This section details who can apply for a Canadian visitor visa and what requirements must be met."
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:10
+msgid "Basic Eligibility Requirements"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:12
+msgid "To be eligible for a Canadian visitor visa, you must:"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:14
+msgid "Have a valid passport/travel document"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:16
+msgid "Have no criminal or immigration-related convictions"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:17
+msgid "Convince an officer you will leave Canada at the end of your stay"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:18
+msgid "Have sufficient ties to your home country"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:19
+msgid "Have enough money for your stay"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:24
+msgid "Proof of financial support including:"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:26
+msgid "Bank statements for past 6 months"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:27
+msgid "Evidence of assets"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:28
+msgid "Income or employment proof"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:29
+msgid "Details of expenses covered by others"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:30
+msgid "Minimum funds required per day in Canada"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:40
+msgid "Purpose of travel documentation"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:41
+msgid "Travel history"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:43
+msgid "Letter of invitation (if applicable)"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:49
+msgid "Business registration (if applicable)"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:50
+msgid "Property ownership documents"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:51
+msgid "Family ties documentation"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:52
+msgid "Travel insurance"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:53
+msgid "Flight itinerary (if available)"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:56
+msgid "Health and Security Requirements"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:59
+msgid "Medical Requirements"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:61
+msgid "Medical exam may be required depending on:"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:62
+msgid "Length of stay"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:63
+msgid "Country of residence"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:64
+msgid "Intended activities"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:65
+msgid "Previous medical history"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:68
+msgid "Security Requirements"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:70
+msgid "Police certificates may be needed"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:71
+msgid "Background checks"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:72
+msgid "Security screening"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:73
+msgid "Biometrics requirements"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:76
+msgid "Ties to Home Country"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:78
+msgid "Evidence may include:"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:80
+msgid "Employment letter"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:81
+msgid "Business ownership"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:82
+msgid "Property ownership"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:83
+msgid "Family relationships"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:84
+msgid "Educational enrollment"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:85
+msgid "Other commitments"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:88
+msgid "Special Circumstances"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:90
+msgid "Additional requirements for:"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:92
+msgid "Minor children"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:93
+msgid "Business visitors"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:94
+msgid "Family visits"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:95
+msgid "Medical treatment"
+msgstr ""
+
+#: ../../source/visitor/tourism/visitor_requirements.rst:96
+msgid "Super visa applicants"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:0
+msgid "Complete guide on working in Canada, including types of work permits, requirements, and processing times.\n"
+""
+msgstr ""
+
+#: ../../source/visitor/work/index.md:8
+msgid "Working in Canada - Complete Guide"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:10
+msgid "This comprehensive guide covers various pathways to work in Canada, from post-graduation work permits to employer-sponsored positions and spousal work permits."
+msgstr ""
+
+#: ../../source/visitor/work/index.md:25
+msgid "{fas}`briefcase;pst-color-primary` Employer-Specific Work Permit"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:27
+msgid "Explore work permits tied to specific employers and the LMIA process."
+msgstr ""
+
+#: ../../source/visitor/work/index.md:36
+msgid "{fas}`user-friends;pst-color-primary` Spousal Work Permit"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:38
+msgid "Find information on work permits available to spouses of international students and workers."
+msgstr ""
+
+#: ../../source/visitor/work/index.md:47
+msgid "{fas}`graduation-cap;pst-color-primary` Post-Graduation Work Permit"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:49
+msgid "Learn about open work permits available to international graduates in Canada."
+msgstr ""
+
+#: ../../source/visitor/work/index.md:58
+msgid "{fas}`handshake;pst-color-primary` LMIA Process"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:60
+msgid "Understand the Labour Market Impact Assessment (LMIA) requirements for employers."
+msgstr ""
+
+#: ../../source/visitor/work/index.md:69
+msgid "{fas}`check-circle;pst-color-primary` LMIA Exemption"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:71
+msgid "Learn about work permit options that do not require an LMIA."
+msgstr ""
+
+#: ../../source/visitor/work/index.md:80
+msgid "{fas}`clock;pst-color-primary` Processing Times"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:82
+msgid "Check current work permit processing times on the IRCC website."
+msgstr ""
+
+#: ../../source/visitor/work/index.md:50
+msgid "Types of Work Permits"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:52
+msgid "Canada offers several types of work permits:"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:54
+msgid "**Employer-specific work permits** (LMIA-based)"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:55
+msgid "Tied to a specific employer"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:56
+msgid "Requires Labour Market Impact Assessment"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:57
+msgid "Valid for specific duration and location"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:59
+msgid "**Open work permits**"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:60
+msgid "Allow work for any employer"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:61
+msgid "Available to specific eligible groups"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:62
+msgid "Time-limited but more flexible"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:64
+msgid "**Post-Graduation Work Permit**"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:65
+msgid "For international graduates"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:66
+msgid "Duration based on study program"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:67
+msgid "Open work permit category"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:69
+msgid "Key Requirements Overview"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:71
+msgid "To work in Canada, you typically need:"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:73
+msgid "Valid job offer (for most work permits)"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:74
+msgid "Required documentation"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:76
+msgid "Medical examination (if required)"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:77
+msgid "Proof of funds"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:78
+msgid "Intent to leave Canada when permit expires (for temporary permits)"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:82
+msgid "Processing times vary by:"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:84
+msgid "Type of work permit"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:85
+msgid "Country of application"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:86
+msgid "Completeness of application"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:87
+msgid "Current processing volumes"
+msgstr ""
+
+#: ../../source/visitor/work/index.md:89
+msgid "Check current processing times on the [IRCC website](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html)."
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:5
+msgid "LMIA Exemptions"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:7
+msgid "Certain categories of foreign workers may be exempt from requiring a Labour Market Impact Assessment (LMIA)."
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:10
+msgid "Common Exemption Categories"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:12
+msgid "**International Agreements**"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:13
+msgid "CUSMA/NAFTA professionals"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:14
+msgid "CETA participants"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:15
+msgid "Other free trade agreements"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:17
+msgid "**Significant Benefit to Canada**"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:18
+msgid "Entrepreneurs/self-employed"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:19
+msgid "Intra-company transferees"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:20
+msgid "Emergency repair personnel"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:22
+msgid "**Canadian Interests**"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:23
+msgid "Research and academic positions"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:24
+msgid "Charitable/religious workers"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:25
+msgid "Reciprocal employment"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:27
+msgid "**Public Policy**"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:28
+msgid "Post-graduation work permits"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:29
+msgid "Spousal work permits"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:30
+msgid "Bridging open work permits"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:33
+msgid "Requirements by Category"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:35
+msgid "Each exemption category has specific requirements:"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:37
+msgid "Proper documentation"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:38
+msgid "Qualifications verification"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:39
+msgid "Employer compliance"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:40
+msgid "Registration/licensing if required"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:45
+msgid "**Determine Eligibility**"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:46
+msgid "Confirm exemption category"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:47
+msgid "Verify requirements"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:50
+msgid "**Submit Application**"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:51
+msgid "Complete forms"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:54
+msgid "Submit through appropriate stream"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:59
+msgid "Must maintain status"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:60
+msgid "Time limits may apply"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:61
+msgid "Category-specific conditions"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:62
+msgid "May need to renew/extend"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:63
+msgid "Cannot switch employers without authorization (some categories)"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:66
+msgid "Documentation Required"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:68
+msgid "Proof of qualification for exemption"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:69
+msgid "Supporting documents specific to category"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:70
+msgid "Employer documents (if applicable)"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:71
+msgid "Educational credentials"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_exemption.rst:72
+msgid "Professional certifications"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:5
+msgid "Labour Market Impact Assessment (LMIA)"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:7
+msgid "A Labour Market Impact Assessment (LMIA) is a document that an employer in Canada may need to obtain before hiring a foreign worker."
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:10
+msgid "Purpose and Overview"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:12
+msgid "An LMIA verifies that:"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:14
+msgid "No Canadian workers are available for the job"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:15
+msgid "Hiring a foreign worker won't negatively impact the Canadian labor market"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:16
+msgid "The job offer is genuine and meets labor standards"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:21
+msgid "**Employer Requirements**"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:22
+msgid "Advertise position to Canadians first"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:23
+msgid "Meet minimum recruitment requirements"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:24
+msgid "Offer prevailing wage"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:25
+msgid "Submit detailed business information"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:27
+msgid "**Required Documentation**"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:28
+msgid "Business registration information"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:29
+msgid "Detailed job description"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:30
+msgid "Recruitment records"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:31
+msgid "Transition plan (if required)"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:32
+msgid "Processing fee payment"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:34
+msgid "**Assessment Criteria**"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:35
+msgid "Wages and working conditions"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:36
+msgid "Labor market benefits"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:37
+msgid "Skills transfer and training"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:38
+msgid "Genuine labor shortage"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:41
+msgid "Processing Streams"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:43
+msgid "Different streams available:"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:45
+msgid "Global Talent Stream"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:46
+msgid "High-wage positions"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:47
+msgid "Low-wage positions"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:48
+msgid "Agricultural workers"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:49
+msgid "Seasonal Agricultural Worker Program"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:50
+msgid "In-home caregivers"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:53
+msgid "Employer Obligations"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:55
+msgid "Maintain Canadian workplace standards"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:56
+msgid "Provide same wages and benefits"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:57
+msgid "Maintain proper records"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:58
+msgid "Comply with provincial/territorial laws"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:59
+msgid "Cannot recover LMIA costs from workers"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:64
+msgid "Vary by stream and priority"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:65
+msgid "Global Talent Stream: 10 business days"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:66
+msgid "Regular processing: Several weeks to months"
+msgstr ""
+
+#: ../../source/visitor/work/lmia_process.rst:67
+msgid "Subject to change based on volume"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:5
+msgid "Post-Graduation Work Permit (PGWP)"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:7
+msgid "The Post-Graduation Work Permit (PGWP) allows international graduates from eligible Canadian institutions to work in Canada after completing their studies."
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:12
+msgid "To qualify for a PGWP, you must:"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:14
+msgid "Have graduated from an eligible Designated Learning Institution (DLI)"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:15
+msgid "Have completed a qualifying program that:"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:16
+msgid "Is at least 8 months long"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:17
+msgid "Is full-time"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:18
+msgid "Leads to a degree, diploma, or certificate"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:19
+msgid "Have maintained full-time status during each semester"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:20
+msgid "Have received final marks and a completion letter"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:21
+msgid "Apply within 180 days of program completion"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:22
+msgid "Have a valid study permit or have had one during studies"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:25
+msgid "Duration of PGWP"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:27
+msgid "Permit length is based on study program duration:"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:29
+msgid "Programs 8 months to 2 years → PGWP equal to program length"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:30
+msgid "Programs 2 years or more → 3-year PGWP"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:31
+msgid "Multiple programs → May combine program lengths"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:36
+msgid "Complete your study program"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:37
+msgid "Obtain completion documents:"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:38
+msgid "Final transcripts"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:39
+msgid "Official completion letter"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:40
+msgid "Ensure study permit is still valid"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:41
+msgid "Gather required documents:"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:42
+msgid "Passport"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:43
+msgid "Educational documents"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:44
+msgid "Proof of current status"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:45
+msgid "Submit online application"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:51
+msgid "Can only receive one PGWP in a lifetime"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:52
+msgid "Must apply before study permit expires"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:53
+msgid "Cannot work while PGWP application is processing if study permit expired"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:54
+msgid "Time spent studying online from abroad may affect eligibility"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:55
+msgid "Must maintain legal status throughout process"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:60
+msgid "Gain Canadian work experience"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:61
+msgid "Path to permanent residence"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:62
+msgid "Open work permit - work for any employer"
+msgstr ""
+
+#: ../../source/visitor/work/post_graduation_work_permit.rst:63
+msgid "Spouse/partner may be eligible for open work permit"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:5
+msgid "Spousal Open Work Permit (SOWP)"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:7
+msgid "A Spousal Open Work Permit allows spouses or common-law partners of eligible temporary residents to work in Canada."
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:10
+msgid "Eligibility Criteria"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:12
+msgid "You may be eligible if your spouse/partner is:"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:14
+msgid "A full-time student at a DLI"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:15
+msgid "A worker with a valid work permit"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:16
+msgid "Applying for permanent residence"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:17
+msgid "A temporary resident with valid status"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:22
+msgid "Primary documents needed:"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:25
+msgid "Spouse's status in Canada"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:27
+msgid "Marriage certificate or proof of common-law relationship"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:28
+msgid "Proof of spouse's employment/study status"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:29
+msgid "Processing fees"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:34
+msgid "**Initial Steps**"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:39
+msgid "**Documentation**"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:41
+msgid "Prepare supporting documents"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:44
+msgid "**Submission and Processing**"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:46
+msgid "Provide biometrics if required"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:47
+msgid "Respond to requests for additional information"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:50
+msgid "Duration and Renewal"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:52
+msgid "Usually valid for same duration as spouse's permit"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:53
+msgid "Must maintain relationship status"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:54
+msgid "Can be renewed if spouse maintains status"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:55
+msgid "Expires if relationship ends"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:58
+msgid "Work Rights"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:60
+msgid "Can work for any employer"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:61
+msgid "No LMIA required"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:62
+msgid "Full-time or part-time work allowed"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:63
+msgid "Can change employers without new permit"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:64
+msgid "Self-employment permitted"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:69
+msgid "Must maintain valid status"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:70
+msgid "Report changes in relationship"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:71
+msgid "Cannot work in certain occupations (healthcare, childcare) without additional documentation"
+msgstr ""
+
+#: ../../source/visitor/work/spousal_work_permit.rst:72
+msgid "May need medical exam for certain occupations"
+msgstr ""

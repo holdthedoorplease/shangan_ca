@@ -1,0 +1,202 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, ShangAn
+# This file is distributed under the same license as the ShangAn package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ShangAn \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-07 23:05-0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/guide/forms/index.md:0
+#: ../../source/guide/tools_official/index.md:0
+#: ../../source/guide/tools_thirdparty/index.md:0
+msgid "Comprehensive guide for international students planning to study in Canada, including visa types, study permits, and eligibility requirements.\n"
+""
+msgstr ""
+
+#: ../../source/guide/forms/index.md:8
+msgid "Forms"
+msgstr ""
+
+#: ../../source/guide/forms/index.md:10
+#: ../../source/guide/tools_official/index.md:10
+#: ../../source/guide/tools_thirdparty/index.md:10
+msgid "Welcome to the comprehensive guide for international students planning to study in Canada. Canada welcomes nearly half a million international students each year, offering world-class education, diverse culture, and excellent post-graduation opportunities."
+msgstr ""
+
+#: ../../source/guide/forms/index.md:12
+#: ../../source/guide/tools_official/index.md:12
+#: ../../source/guide/tools_thirdparty/index.md:12
+msgid "This guide covers everything you need to know about obtaining and maintaining your status as an international student in Canada."
+msgstr ""
+
+#: ../../source/guide/index.md:36
+msgid "操作指南（官方工具）"
+msgstr ""
+
+#: ../../source/guide/index.md:43
+msgid "操作指南（第三方工具）"
+msgstr ""
+
+#: ../../source/guide/index.md:50
+msgid "表格填写指南"
+msgstr ""
+
+#: ../../source/guide/index.md:0
+msgid "Explore the various types of visitor visas to Canada and find the one that best suits your needs.\n"
+""
+msgstr ""
+
+#: ../../source/guide/index.md:8
+msgid "DIY教程"
+msgstr ""
+
+#: ../../source/guide/index.md:10
+msgid "Explore the various types of visitor visas to Canada and find the one that best suits your needs."
+msgstr ""
+
+#: ../../source/guide/index.md:25
+msgid "{fas}`plane;pst-color-primary` Tourism in Canada"
+msgstr ""
+
+#: ../../source/guide/index.md:27
+msgid "Plan your vacation with ease using our Tourist Visa resources."
+msgstr ""
+
+#: ../../source/guide/index.md:36
+msgid "{fas}`book;pst-color-primary` Study in Canada"
+msgstr ""
+
+#: ../../source/guide/index.md:38
+msgid "Pursue your education in Canada with our Student Visa information."
+msgstr ""
+
+#: ../../source/guide/index.md:47
+msgid "{fas}`users;pst-color-primary` Visit Family in Canada"
+msgstr ""
+
+#: ../../source/guide/index.md:49
+msgid "Learn about visas to visit your family members in Canada, including the Super Visa."
+msgstr ""
+
+#: ../../source/guide/index.md:58
+msgid "{fas}`briefcase;pst-color-primary` Work in Canada"
+msgstr ""
+
+#: ../../source/guide/index.md:60
+msgid "Find opportunities to work in Canada through our Work Visa guides."
+msgstr ""
+
+#: ../../source/guide/index.md:69
+msgid "{fas}`handshake;pst-color-primary` Visit Canada on Business"
+msgstr ""
+
+#: ../../source/guide/index.md:71
+msgid "Explore options for business visitors and entrepreneurs."
+msgstr ""
+
+#: ../../source/guide/tools_official/cicc_find_rcic.rst:5
+msgid "「非法移民中介」识别指南"
+msgstr ""
+
+#: ../../source/guide/tools_official/cicc_find_rcic.rst:11
+#: ../../source/guide/tools_official/ircc_process_time.rst:11
+msgid "加拿大移民局（IRCC）每周会在官方网站公布一次各种签证的平均处理时长。根据这个时间，你可以大致判断自己的签证申请进度。"
+msgstr ""
+
+#: ../../source/guide/tools_official/index.md:14
+msgid "官方工具使用指南"
+msgstr ""
+
+#: ../../source/guide/tools_official/index.md:8
+msgid "操作教程（官方工具）"
+msgstr ""
+
+#: ../../source/guide/tools_official/ircc_process_time.rst:5
+msgid "「签证处理时长」查询指南"
+msgstr ""
+
+#: ../../source/guide/tools_official/ircc_process_time.rst:13
+msgid "**IRCC签证处理时长查询** （`官网链接 <https://www.canada.ca/en/immigration-refugees-citizenship/services/application/visa-processing-times.html>`_）：https://www.canada.ca/en/immigration-refugees-citizenship/services/application/visa-processing-times.html"
+msgstr ""
+
+#: ../../source/guide/tools_official/ircc_process_time.rst:15
+msgid "需要说明的是，严格意义上讲，这并不是IRCC承诺的对此类签证的处理时长，而是截止目前的实际平均处理时长。举个例子，比如本周在中国境内申请学签的处理时长经查询是14周，这意味着，本周出结果的来自中国的学签，大部分提交日期是14周前。换句话说，如果你是在14周前提交的申请，大概率（IRCC称80%）会在这周出结果。"
+msgstr ""
+
+#: ../../source/guide/tools_official/ircc_process_time.rst:17
+msgid "不过考虑到IRCC处理签证效率的稳定性，这个时长的波动短期内不会太大，以及考虑到解释成本，通常情况下，这个时长会被近似作为预计时长。也就是如果本周提交学签，你可以预期在14周左右出结果。"
+msgstr ""
+
+#: ../../source/guide/tools_official/ircc_process_time.rst:19
+msgid "了解签证处理时长的意义在于，如果你的等待时间还没有超过这个时长，不需要催签，耐心等待即可。在这个期间内申请强制令，也不太可能得到法院的支持。"
+msgstr ""
+
+#: ../../source/guide/tools_official/ircc_process_time.rst:21
+msgid "会有少数幸运儿在极短时间内获得签证审批结果，中介也非常喜欢用类似个案进行宣传。不必为此过于焦虑，这种情况不具备普遍性，且通常与中介无关。签证的审理是case by case的，有些人确实条件很好，不管是DIY还是通过中介，都可能很快获得签证。对于大多数人而言，以IRCC公布的平均处理时长作为参考即可。"
+msgstr ""
+
+#: ../../source/guide/tools_official/ircc_process_time.rst:23
+msgid "如果等待时间超出，尤其是大幅超出IRCC公布的平均处理时长，则可以考虑通过催签、调档等手段了解签证状态，以便采取进一步措施。"
+msgstr ""
+
+#: ../../source/guide/tools_official/ircc_process_time.rst:30
+msgid "手把手教程"
+msgstr ""
+
+#: ../../source/guide/tools_official/ircc_process_time.rst:31
+msgid "以在中国境内提交学签为例，查询过程如下："
+msgstr ""
+
+#: ../../source/guide/tools_official/ircc_process_time.rst:33
+msgid "打开IRCC签证处理时长 `官网链接 <https://www.canada.ca/en/immigration-refugees-citizenship/services/application/visa-processing-times.html>`_ ，选择申请类别：临时签证（访问、学习、工作）"
+msgstr ""
+
+#: ../../source/guide/tools_official/ircc_process_time.rst:35
+msgid "Screenshot of IRCC Process Time Step 1"
+msgstr ""
+
+#: ../../source/guide/tools_official/ircc_process_time.rst:39
+msgid "选择申请类别：学习许可（加拿大境外申请）"
+msgstr ""
+
+#: ../../source/guide/tools_official/ircc_process_time.rst:42
+msgid "Screenshot of IRCC Process Time Step 2"
+msgstr ""
+
+#: ../../source/guide/tools_official/ircc_process_time.rst:46
+msgid "选择申请地点：中国"
+msgstr ""
+
+#: ../../source/guide/tools_official/ircc_process_time.rst:49
+msgid "Screenshot of IRCC Process Time Step 3"
+msgstr ""
+
+#: ../../source/guide/tools_official/ircc_process_time.rst:53
+msgid "点击查询按钮"
+msgstr ""
+
+#: ../../source/guide/tools_official/ircc_process_time.rst:55
+msgid "Screenshot of IRCC Process Time Step 4"
+msgstr ""
+
+#: ../../source/guide/tools_official/ircc_process_time.rst:59
+msgid "显示查询结果：平均处理时长，以及最新更新时间。"
+msgstr ""
+
+#: ../../source/guide/tools_official/ircc_process_time.rst:61
+msgid "Screenshot of IRCC Process Time Step 5"
+msgstr ""
+
+#: ../../source/guide/tools_thirdparty/index.md:8
+msgid "操作教程（第三方工具）"
+msgstr ""

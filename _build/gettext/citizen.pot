@@ -1,0 +1,264 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, ShangAn
+# This file is distributed under the same license as the ShangAn package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ShangAn \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-07 23:05-0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/citizen/eligibility.rst:5
+msgid "Apply for Citizenship"
+msgstr ""
+
+#: ../../source/citizen/eligibility.rst:7
+msgid "Applying for Canadian citizenship is a significant step. Ensure you meet the eligibility criteria and follow the application process carefully."
+msgstr ""
+
+#: ../../source/citizen/eligibility.rst:10
+msgid "Eligibility Requirements"
+msgstr ""
+
+#: ../../source/citizen/eligibility.rst:12
+msgid "To become a Canadian citizen, you must:"
+msgstr ""
+
+#: ../../source/citizen/eligibility.rst:14
+msgid "Be a permanent resident."
+msgstr ""
+
+#: ../../source/citizen/eligibility.rst:15
+msgid "Have lived in Canada for at least 3 out of the last 5 years (1,095 days)."
+msgstr ""
+
+#: ../../source/citizen/eligibility.rst:16
+msgid "Have filed your taxes, if required."
+msgstr ""
+
+#: ../../source/citizen/eligibility.rst:17
+msgid "Pass a citizenship test."
+msgstr ""
+
+#: ../../source/citizen/eligibility.rst:18
+msgid "Prove your language skills in English or French."
+msgstr ""
+
+#: ../../source/citizen/eligibility.rst:19
+msgid "Take the oath of citizenship."
+msgstr ""
+
+#: ../../source/citizen/eligibility.rst:21
+msgid "Other requirements may apply. For detailed information, visit the official IRCC page: https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen.html"
+msgstr ""
+
+#: ../../source/citizen/eligibility.rst:24
+msgid "Application Process"
+msgstr ""
+
+#: ../../source/citizen/eligibility.rst:26
+msgid "**Prepare Your Application:** - Gather necessary documents. - Complete the application form. - Pay the application fees."
+msgstr ""
+
+#: ../../source/citizen/eligibility.rst:31
+msgid "**Submit Your Application:** - Apply online or by mail, depending on your eligibility."
+msgstr ""
+
+#: ../../source/citizen/eligibility.rst:34
+msgid "**After Applying:** - Wait for the acknowledgment of receipt. - Prepare for the citizenship test and interview."
+msgstr ""
+
+#: ../../source/citizen/eligibility.rst:38
+msgid "For more details, refer to the IRCC guide: https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/apply.html"
+msgstr ""
+
+#: ../../source/citizen/index.rst:5
+msgid "入籍"
+msgstr ""
+
+#: ../../source/citizen/index.rst:7
+msgid "Welcome to the Canadian Citizenship Guide. This section provides comprehensive information on applying for citizenship, preparing for the citizenship test and interview, and understanding the oath and ceremony process."
+msgstr ""
+
+#: ../../source/citizen/index.rst:10
+msgid "Contents"
+msgstr ""
+
+#: ../../source/citizen/oath.rst:5
+msgid "Oath of Citizenship and Ceremony"
+msgstr ""
+
+#: ../../source/citizen/oath.rst:7
+msgid "Taking the Oath of Citizenship is the final step to becoming a Canadian citizen."
+msgstr ""
+
+#: ../../source/citizen/oath.rst:10
+msgid "Oath of Citizenship"
+msgstr ""
+
+#: ../../source/citizen/oath.rst:12
+msgid "**Declaration:**"
+msgstr ""
+
+#: ../../source/citizen/oath.rst:14
+msgid "Swear or affirm allegiance to the King of Canada."
+msgstr ""
+
+#: ../../source/citizen/oath.rst:15
+msgid "Promise to observe the laws of Canada."
+msgstr ""
+
+#: ../../source/citizen/oath.rst:16
+msgid "Fulfill the duties of a Canadian citizen."
+msgstr ""
+
+#: ../../source/citizen/oath.rst:18
+msgid "**Oath Text:**"
+msgstr ""
+
+#: ../../source/citizen/oath.rst:20
+msgid "\"I swear (or affirm) that I will be faithful and bear true allegiance to His Majesty King Charles the Third, King of Canada, His Heirs and Successors, and that I will faithfully observe the laws of Canada and fulfil my duties as a Canadian citizen.\""
+msgstr ""
+
+#: ../../source/citizen/oath.rst:22
+msgid "For more details, visit: https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/citizenship-ceremony.html"
+msgstr ""
+
+#: ../../source/citizen/oath.rst:25
+msgid "Citizenship Ceremony"
+msgstr ""
+
+#: ../../source/citizen/oath.rst:27
+#: ../../source/citizen/test.rst:36
+msgid "**What to Expect:**"
+msgstr ""
+
+#: ../../source/citizen/oath.rst:29
+msgid "Welcome speech by a citizenship judge or official."
+msgstr ""
+
+#: ../../source/citizen/oath.rst:30
+msgid "Taking the Oath of Citizenship."
+msgstr ""
+
+#: ../../source/citizen/oath.rst:31
+msgid "Receiving your citizenship certificate."
+msgstr ""
+
+#: ../../source/citizen/oath.rst:32
+msgid "Singing the national anthem."
+msgstr ""
+
+#: ../../source/citizen/oath.rst:34
+#: ../../source/citizen/test.rst:24
+#: ../../source/citizen/test.rst:42
+msgid "**Preparation:**"
+msgstr ""
+
+#: ../../source/citizen/oath.rst:36
+msgid "Bring your notice to appear and identification documents."
+msgstr ""
+
+#: ../../source/citizen/oath.rst:37
+msgid "Arrive early to allow time for registration."
+msgstr ""
+
+#: ../../source/citizen/oath.rst:39
+msgid "For more information, refer to: https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/citizenship-ceremony.html"
+msgstr ""
+
+#: ../../source/citizen/test.rst:5
+msgid "Citizenship Test and Interview"
+msgstr ""
+
+#: ../../source/citizen/test.rst:7
+msgid "After submitting your application, you may be required to take a citizenship test and attend an interview."
+msgstr ""
+
+#: ../../source/citizen/test.rst:10
+msgid "Citizenship Test"
+msgstr ""
+
+#: ../../source/citizen/test.rst:12
+msgid "**Purpose:** Assess your knowledge of Canada, including:"
+msgstr ""
+
+#: ../../source/citizen/test.rst:14
+msgid "Rights and responsibilities of citizens."
+msgstr ""
+
+#: ../../source/citizen/test.rst:15
+msgid "Canadian history, geography, economy, government, laws, and symbols."
+msgstr ""
+
+#: ../../source/citizen/test.rst:17
+msgid "**Format:**"
+msgstr ""
+
+#: ../../source/citizen/test.rst:19
+msgid "20 questions."
+msgstr ""
+
+#: ../../source/citizen/test.rst:20
+msgid "Multiple-choice and true/false."
+msgstr ""
+
+#: ../../source/citizen/test.rst:21
+msgid "30 minutes to complete."
+msgstr ""
+
+#: ../../source/citizen/test.rst:22
+msgid "Pass mark: 15 correct answers."
+msgstr ""
+
+#: ../../source/citizen/test.rst:26
+msgid "Study the official guide: \"Discover Canada: The Rights and Responsibilities of Citizenship.\""
+msgstr ""
+
+#: ../../source/citizen/test.rst:27
+msgid "Practice with sample questions."
+msgstr ""
+
+#: ../../source/citizen/test.rst:29
+msgid "For more information, visit: https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/citizenship-test.html"
+msgstr ""
+
+#: ../../source/citizen/test.rst:32
+msgid "Interview"
+msgstr ""
+
+#: ../../source/citizen/test.rst:34
+msgid "**Purpose:** Verify your application details and assess language skills."
+msgstr ""
+
+#: ../../source/citizen/test.rst:38
+msgid "Review of your application and documents."
+msgstr ""
+
+#: ../../source/citizen/test.rst:39
+msgid "Questions about your residency and personal history."
+msgstr ""
+
+#: ../../source/citizen/test.rst:40
+msgid "Assessment of English or French language abilities."
+msgstr ""
+
+#: ../../source/citizen/test.rst:44
+msgid "Bring all original documents."
+msgstr ""
+
+#: ../../source/citizen/test.rst:45
+msgid "Be ready to discuss your application and experiences in Canada."
+msgstr ""
+
+#: ../../source/citizen/test.rst:47
+msgid "For detailed guidance, refer to: https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/citizenship-test.html"
+msgstr ""

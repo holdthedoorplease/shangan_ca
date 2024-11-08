@@ -1,0 +1,248 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, ShangAn
+# This file is distributed under the same license as the ShangAn package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ShangAn \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-07 23:05-0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/index.md:0
+msgid "上岸加拿大，相聚枫叶国。「上岸加拿大」致力于打造全网最全的加拿大签证DIY教程百科全书。内容涵盖：学签、工签、旅游签、探亲签、超级签证；移民签 PR、EE、PNP；Webform、安调、调档、强制令等等。\n"
+""
+msgstr ""
+
+#: ../../source/index.md:9
+msgid "<span style=\"color:red;\">上岸加拿大 相聚枫叶国</span> 签证 移民 最全DIY教程"
+msgstr ""
+
+#: ../../source/index.md:10
+msgid "「上岸加拿大」（shangan.ca）致力于打造全网最全的加拿大签证DIY教程百科全书。内容涵盖：学签、工签、旅签、探亲签；移民签证 PR、EE、省提名、家庭团聚；催签、安调、调档、强制令等。签证DIY不容易，自己淋过雨所以希望能为你撑把伞。即使你通过移民中介申请，这些信息也可能帮你更好的和中介沟通。如果觉得有用，请收藏本站或分享给有需要的人。"
+msgstr ""
+
+#: ../../source/index.md:25
+msgid "{fas}`clock;pst-color-primary` 查询签证预计处理时长"
+msgstr ""
+
+#: ../../source/index.md:27
+msgid "加拿大移民局（IRCC）会定期公布各种签证最新预计处理时长。你的签证处理有没有超时？点击查看"
+msgstr ""
+
+#: ../../source/index.md:36
+msgid "{fas}`shoe-prints;pst-color-primary` 查询签证处理进度（Tracker）"
+msgstr ""
+
+#: ../../source/index.md:38
+msgid "加拿大移民局提供了签证进度查询工具（Tracker），可随时查询签证进度、是否进入安调。点击查看"
+msgstr ""
+
+#: ../../source/index.md:47
+msgid "{fas}`file;pst-color-primary` 调档"
+msgstr ""
+
+#: ../../source/index.md:49
+msgid "免费调取签证档案，全面了解签证处理进展、是否安调、签证官评语（GCMS）等。点击查看"
+msgstr ""
+
+#: ../../source/index.md:58
+msgid "{fas}`search;pst-color-primary` 非法移民中介识别数据库"
+msgstr ""
+
+#: ../../source/index.md:60
+msgid "加拿大规定移民中介必须持牌，找非持牌中介会导致拒签。CICC官网数据库可查询全部持牌顾问名单。点击查看"
+msgstr ""
+
+#: ../../source/index.md:69
+msgid "{fas}`globe;pst-color-primary` 补料或催签（Webform）"
+msgstr ""
+
+#: ../../source/index.md:71
+msgid "签证申请过程中，如需补充材料或催签，可使用IRCC官方提供的Webform。点击查看"
+msgstr ""
+
+#: ../../source/index.md:80
+msgid "{fas}`link;pst-color-primary` 加拿大签证常用官网大全"
+msgstr ""
+
+#: ../../source/index.md:82
+msgid "加拿大签证申请涉及各种官网，如移民局、GCKey、Tracker、调档等。点击查看官网列表"
+msgstr ""
+
+#: ../../source/index.md:44
+msgid "第三方工具"
+msgstr ""
+
+#: ../../source/index.md:45
+msgid "下一板块是加拿大签证申请过程中可能用到的第三方工具，来自网友推荐或网站自荐。如果你在使用过程中有不好的体验，请随时通过本站右上角的联系方式向我们反馈。如果你有好的工具推荐，也欢迎联系我们。"
+msgstr ""
+
+#: ../../source/index.md:61
+msgid "{fas}`calculator;pst-color-primary` CRS打分工具"
+msgstr ""
+
+#: ../../source/index.md:63
+msgid "加拿大移民快速通道（EE）基于CRS分数进行邀请。本工具可免费计算你的CRS分数及六项打分。"
+msgstr ""
+
+#: ../../source/index.md:72
+msgid "{fas}`chart-line;pst-color-primary` EE历次邀请分数"
+msgstr ""
+
+#: ../../source/index.md:74
+msgid "加拿大移民快速通道会不定期公布EE邀请的最低CRS分数。本工具可查询历次邀请分数。"
+msgstr ""
+
+#: ../../source/index.md:83
+msgid "{fas}`down-long;pst-color-primary` PDF在线压缩"
+msgstr ""
+
+#: ../../source/index.md:85
+msgid "加拿大签证申请材料要求单个PDF文件不超过4MB或2MB。本工具可免费将PDF文件压缩至规定大小。"
+msgstr ""
+
+#: ../../source/index.md:64
+msgid "Visit Canada: Temporary Resident Visa"
+msgstr ""
+
+#: ../../source/index.md:66
+msgid "Explore the various types of visitor visas to Canada and find the one that best suits your needs."
+msgstr ""
+
+#: ../../source/index.md:81
+msgid "{fas}`plane;pst-color-primary` Tourism in Canada"
+msgstr ""
+
+#: ../../source/index.md:83
+msgid "Plan your vacation with ease using the Visitor Visa resources."
+msgstr ""
+
+#: ../../source/index.md:92
+msgid "{fas}`book;pst-color-primary` Study in Canada"
+msgstr ""
+
+#: ../../source/index.md:94
+msgid "Pursue your education in Canada with the Student Visa information."
+msgstr ""
+
+#: ../../source/index.md:103
+msgid "{fas}`users;pst-color-primary` Visit Family in Canada"
+msgstr ""
+
+#: ../../source/index.md:105
+msgid "Learn about visas to visit your family members in Canada, including the Super Visa."
+msgstr ""
+
+#: ../../source/index.md:114
+msgid "{fas}`briefcase;pst-color-primary` Work in Canada"
+msgstr ""
+
+#: ../../source/index.md:116
+msgid "Find opportunities to work in Canada through the Work Visa guides."
+msgstr ""
+
+#: ../../source/index.md:125
+msgid "{fas}`handshake;pst-color-primary` Visit Canada on Business"
+msgstr ""
+
+#: ../../source/index.md:127
+msgid "Explore options for business visitors and entrepreneurs."
+msgstr ""
+
+#: ../../source/index.md:136
+msgid "{fas}`info-circle;pst-color-primary` All Visitor Visas"
+msgstr ""
+
+#: ../../source/index.md:138
+msgid "Find information on all types of visitor visas to Canada."
+msgstr ""
+
+#: ../../source/index.md:97
+msgid "Immigration to Canada: Permanent Resident Visa"
+msgstr ""
+
+#: ../../source/index.md:99
+msgid "Learn about the different pathways to becoming a permanent resident of Canada."
+msgstr ""
+
+#: ../../source/index.md:114
+msgid "{fas}`user-check;pst-color-primary` Express Entry"
+msgstr ""
+
+#: ../../source/index.md:116
+msgid "Apply through the Federal Skilled Worker program for fast-tracked immigration."
+msgstr ""
+
+#: ../../source/index.md:125
+msgid "{fas}`users;pst-color-primary` Provincial Nominee Program"
+msgstr ""
+
+#: ../../source/index.md:127
+msgid "Gain nomination from a Canadian province (PNP) to enhance your PR application."
+msgstr ""
+
+#: ../../source/index.md:136
+msgid "{fas}`users;pst-color-primary` Family Sponsorship"
+msgstr ""
+
+#: ../../source/index.md:138
+#: ../../source/index.md:149
+#: ../../source/index.md:160
+msgid "Reunite with your family in Canada through our sponsorship programs."
+msgstr ""
+
+#: ../../source/index.md:147
+msgid "{fas}`users;pst-color-primary` Quebec"
+msgstr ""
+
+#: ../../source/index.md:158
+msgid "{fas}`users;pst-color-primary` Refugees"
+msgstr ""
+
+#: ../../source/index.md:169
+msgid "{fas}`handshake;pst-color-primary` All PR Pathways"
+msgstr ""
+
+#: ../../source/index.md:171
+msgid "Explore additional pathways to permanent residency tailored to your situation."
+msgstr ""
+
+#: ../../source/index.md:129
+msgid "Become Canadian: Change of Nationality"
+msgstr ""
+
+#: ../../source/index.md:131
+msgid "Understand the eligibility criteria and steps to become a Canadian citizen."
+msgstr ""
+
+#: ../../source/index.md:146
+msgid "{fas}`user-shield;pst-color-primary` Eligibility Criteria"
+msgstr ""
+
+#: ../../source/index.md:148
+msgid "Learn about the requirements you must meet to apply for Canadian citizenship."
+msgstr ""
+
+#: ../../source/index.md:157
+msgid "{fas}`book-reader;pst-color-primary` Citizenship Test"
+msgstr ""
+
+#: ../../source/index.md:159
+msgid "Prepare for the citizenship test with our study resources and tips."
+msgstr ""
+
+#: ../../source/index.md:168
+msgid "{fas}`clipboard-list;pst-color-primary` Oath of Citizenship"
+msgstr ""
+
+#: ../../source/index.md:170
+msgid "Learn about the Oath of Citizenship and the ceremony."
+msgstr ""

@@ -1,53 +1,65 @@
 ---
 myst:
   html_meta:
-    "description lang=en": |
-      Canada is famous for its friendliness, diversity, and freedom. If you'd like to travel/study/work, or immigrate here, we'd like to hold the door for you. Here are the most often used official websites for visa applications.
+    "description lang=zh": |
+      上岸加拿大，相聚枫叶国。「上岸加拿大」致力于打造全网最全的加拿大签证DIY教程百科全书。内容涵盖：学签、工签、旅游签、探亲签、超级签证；移民签 PR、EE、PNP；Webform、安调、调档、强制令等等。
 html_theme.sidebar_secondary.remove: true
 ---
 
-# We <span style="color:red;">HoldTheDoor</span> Open to <span style="color:red;">Canada</span> for You!
-
-```{youtube} HFasfNBpD7U
-:width: 100%
-:height: 400px
-:align: center
-```
-
-Canada🇨🇦 is famous for its friendliness, diversity, and freedom. If you'd like to travel/study/work, or immigrate here, we'd like to hold the door for you. Here are the most often used official websites for visa applications:
+# <span style="color:red;">上岸加拿大 相聚枫叶国</span> 签证 移民 最全DIY教程
+「上岸加拿大」（shangan.ca）致力于打造全网最全的加拿大签证DIY教程百科全书。内容涵盖：学签、工签、旅签、探亲签；移民签证 PR、EE、省提名、家庭团聚；催签、安调、调档、强制令等。签证DIY不容易，自己淋过雨所以希望能为你撑把伞。即使你通过移民中介申请，这些信息也可能帮你更好的和中介沟通。如果觉得有用，请收藏本站或分享给有需要的人。
 
 ```{gallery-grid}
 :grid-columns: 1 2 2 3
 
-- header: "{fas}`globe;pst-color-primary` Official Website of IRCC"
-  content: "Access official information of Immigration, Refugees and Citizenship Canada (IRCC)."
-  link: https://www.canada.ca/en/immigration-refugees-citizenship.html
+- header: "{fas}`clock;pst-color-primary` 查询签证预计处理时长"
+  content: "加拿大移民局（IRCC）会定期公布各种签证最新预计处理时长。你的签证处理有没有超时？点击查看"
+  link: guide/tools_official/ircc_process_time.html
 
-- header: "{fas}`shield-alt;pst-color-primary` Official Website of CBSA"
-  content: "Find information on border services of Canada Border Services Agency (CBSA)."
-  link: https://www.cbsa-asfc.gc.ca/menu-eng.html
 
-- header: "{fas}`search;pst-color-primary` Official Website of CICC"
-  content: "Verify the authenticity of Regulated Canadian Immigration Consultants (RCIC)."
+- header: "{fas}`shoe-prints;pst-color-primary` 查询签证处理进度（Tracker）"
+  content: "加拿大移民局提供了签证进度查询工具（Tracker），可随时查询签证进度、是否进入安调。点击查看"
+  link: https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-status.html  
+
+
+- header: "{fas}`file;pst-color-primary` 调档"
+  content: "免费调取签证档案，全面了解签证处理进展、是否安调、签证官评语（GCMS）等。点击查看"
+  link: https://atip-aiprp.tbs-sct.gc.ca/en/Home/Privacy
+
+- header: "{fas}`search;pst-color-primary` 非法移民中介识别数据库"
+  content: "加拿大规定移民中介必须持牌，找非持牌中介会导致拒签。CICC官网可核实持牌顾问身份。点击查看"
   link: https://register.college-ic.ca/Public-Register-EN/RCIC_Search.aspx
 
-- header: "{fas}`key;pst-color-primary` GCKey"
-  content: "Securely access Canadian government services online with GCKey."
-  link: https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html
 
-- header: "{fas}`spinner;pst-color-primary` Visa Status Tracker"
-  content: "Monitor the status of your visa application in real-time."
-  link: https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-status.html
+- header: "{fas}`globe;pst-color-primary` 补料或催签（Webform）"
+  content: "签证申请过程中，如需补充材料或催签，可使用IRCC官方提供的Webform。点击查看"
+  link: https://www.canada.ca/en/immigration-refugees-citizenship.html
 
-- header: "{fas}`clock;pst-color-primary` Visa Processing Time"
-  content: "Check current processing times for different types of Canadian visas."
-  link: https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html
+
+- header: "{fas}`link;pst-color-primary` 加拿大签证常用官网大全"
+  content: "加拿大签证申请涉及各种官网，如移民局、GCKey、Tracker、调档等。点击查看官网列表"
+  link: officialwebsites/index.html
 ```
 
-```{warning}
-This website is for informational purposes only and does not constitute immigration consulting services or legal advice. We provide FREE information to help you understand the visa application process if you choose to handle your own immigration matters. In Canada, only authorized representatives can provide paid immigration advice or services. You can find licensed immigration consultants through the [Official Website of CICC](https://college-ic.ca/protecting-the-public/find-an-immigration-consultant).
+```{admonition} 第三方工具
+下一板块是加拿大签证申请过程中可能用到的第三方工具，来自网友推荐或网站自荐。如果你在使用过程中有不好的体验，请随时通过本站右上角的联系方式向我们反馈。如果你有好的工具推荐，也欢迎联系我们。
 ```
 
+```{gallery-grid}
+:grid-columns: 1 2 2 3
+
+- header: "{fas}`calculator;pst-color-primary` CRS打分工具"
+  content: "加拿大移民快速通道（EE）基于CRS分数进行邀请。本工具可免费计算你的CRS分数及六项打分。"
+  link: https://eoivisa.com/fsw/
+
+- header: "{fas}`chart-line;pst-color-primary` EE历次邀请分数"
+  content: "加拿大移民快速通道会不定期公布EE邀请的最低CRS分数。本工具可查询历次邀请分数。"
+  link: https://m.immiknow.com/jndym/qita/200713191.html
+   
+- header: "{fas}`down-long;pst-color-primary` PDF在线压缩"
+  content: "加拿大签证申请材料要求单个PDF文件不超过4MB或2MB。本工具可免费将PDF文件压缩至规定大小。"
+  link: https://smallpdf.com/
+```
 
 ## Visit Canada: Temporary Resident Visa
 
@@ -158,4 +170,10 @@ citizen/index
 :hidden:
 
 officialwebsites/index
+```
+
+```{toctree}
+:hidden:
+
+guide/index
 ```

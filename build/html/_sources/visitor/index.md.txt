@@ -5,7 +5,7 @@ myst:
       Explore the various types of visitor visas to Canada and find the one that best suits your needs.
 ---
 
-# Visit Canada
+# 加拿大签证
 
 Explore the various types of visitor visas to Canada and find the one that best suits your needs.
 
