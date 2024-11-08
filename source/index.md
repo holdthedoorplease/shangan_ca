@@ -7,7 +7,7 @@ html_theme.sidebar_secondary.remove: true
 ---
 
 # <span style="color:red;">上岸加拿大 相聚枫叶国</span> 签证 移民 最全DIY教程
-「上岸加拿大」（shangan.ca）致力于打造全网最全的加拿大签证DIY教程百科全书。内容涵盖：学签、工签、旅签、探亲签；移民签证 PR、EE、省提名、家庭团聚；催签、安调、调档、强制令等。签证DIY不容易，自己淋过雨所以希望能为你撑把伞。即使你通过移民中介申请，这些信息也可能帮你更好的和中介沟通。如果觉得有用，请收藏本站或分享给有需要的人。
+「上岸加拿大」（shangan.ca）致力于打造全网最全的加拿大签证DIY教程百科全书。内容涵盖：学签、工签、旅签、探亲签；移民签证 PR、EE、省提名、家庭团聚；催签、安调、调档、强制令等。签证DIY不容易，自己淋过雨所以希望能为你撑把伞。即便你通过移民中介申请，了解更多让你掌控更多。觉得有用请收藏本站或推荐朋友。愿你早日上岸加拿大，我们相聚枫叶国！
 
 ```{gallery-grid}
 :grid-columns: 1 2 2 3
@@ -18,7 +18,7 @@ html_theme.sidebar_secondary.remove: true
 
 
 - header: "{fas}`shoe-prints;pst-color-primary` 查询签证处理进度（Tracker）"
-  content: "加拿大移民局提供了签证进度查询工具（Tracker），可随时查询签证进度、是否进入安调。点击查看"
+  content: "加拿大移民局的签证进度查询工具（Tracker），随时查询签证进度、是否进入安调。点击查看"
   link: https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-status.html  
 
 
@@ -26,9 +26,9 @@ html_theme.sidebar_secondary.remove: true
   content: "免费调取签证档案，全面了解签证处理进展、是否安调、签证官评语（GCMS）等。点击查看"
   link: https://atip-aiprp.tbs-sct.gc.ca/en/Home/Privacy
 
-- header: "{fas}`search;pst-color-primary` 非法移民中介识别数据库"
-  content: "加拿大规定移民中介必须持牌，找非持牌中介会导致拒签。CICC官网可核实持牌顾问身份。点击查看"
-  link: https://register.college-ic.ca/Public-Register-EN/RCIC_Search.aspx
+- header: "{fas}`search;pst-color-primary` 「无牌移民中介」识别数据库"
+  content: "加拿大规定移民中介必须持牌，找无牌中介会导致拒签。CICC官网可核实持牌顾问身份。点击查看"
+  link: guide/tools_official/cicc_find_rcic.html
 
 
 - header: "{fas}`globe;pst-color-primary` 补料或催签（Webform）"
