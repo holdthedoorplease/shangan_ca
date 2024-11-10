@@ -1,7 +1,7 @@
 ---
 myst:
   html_meta:
-    "description lang=en": "Immigration to Canada"
+    "description lang=zh": "Immigration to Canada"
 ---
 
 # 移民加拿大

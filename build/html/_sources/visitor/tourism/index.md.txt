@@ -1,7 +1,7 @@
 ---
 myst:
   html_meta:
-    "description lang=en": |
+    "description lang=zh": |
       Comprehensive guide to visiting Canada, including visa types, requirements, and application processes.
 ---
 

@@ -1,0 +1,13 @@
+---
+myst:
+  html_meta:
+    "description lang=zh": |
+      通过ATIP调档，可以获得加拿大移民局（IRCC）、加拿大边境局（CBSA）、加拿大安全局（CSIS）在处理签证申请时的相关信息。
+---
+
+# CSIS调档教程
+
+1. 打开[ATIP官网](https://www.atip.gc.ca/en/home)
+2. 点击「Search」
+3. 输入UCI号码，点击「Search」
+4. 点击「View」，即可查看调档结果

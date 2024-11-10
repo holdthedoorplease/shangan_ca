@@ -58,3 +58,9 @@ div.downstream-project-links a {
   border-top: 1px solid #ccc;
   margin: 20px 0;
 }
+
+
+.admonition p {
+  margin: 5px 0; /* Adjust to reduce space between lines */
+  line-height: 1.4; /* Adjust to change line spacing */
+}

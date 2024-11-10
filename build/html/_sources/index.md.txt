@@ -19,12 +19,12 @@ html_theme.sidebar_secondary.remove: true
 
 - header: "{fas}`shoe-prints;pst-color-primary` 查询签证处理进度（Tracker）"
   content: "加拿大移民局的签证进度查询工具（Tracker），随时查询签证进度、是否进入安调。点击查看"
-  link: https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-status.html  
+  link: guide/tools_official/tracker/index.html
 
 
 - header: "{fas}`file;pst-color-primary` 调档"
   content: "免费调取签证档案，全面了解签证处理进展、是否安调、签证官评语（GCMS）等。点击查看"
-  link: https://atip-aiprp.tbs-sct.gc.ca/en/Home/Privacy
+  link: guide/tools_official/atip/index.html
 
 - header: "{fas}`search;pst-color-primary` 「无牌移民中介」识别数据库"
   content: "加拿大规定移民中介必须持牌，找无牌中介会导致拒签。CICC官网可核实持牌顾问身份。点击查看"

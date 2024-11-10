@@ -7,7 +7,7 @@ import ablog
 
 # Project information
 project = 'ShangAn'
-copyright = '2024, ShangAn'
+copyright = '2024, 上岸加拿大'
 author = 'ShangAn'
 release = '1.0.0'
 language = 'zh'
@@ -70,8 +70,8 @@ post_date_format_short = '%B %d, %Y'
 html_theme = "pydata_sphinx_theme"
 html_logo = "_static/logo.svg"
 html_favicon = "_static/favicon.ico"
-html_title = "We Hold The Door Open to Canada for You!"
-
+html_title = "上岸加拿大，相聚枫叶国｜签证｜移民｜最全DIY教程"
+ 
 html_theme_options = {
     "external_links": [
     ],

@@ -10,7 +10,12 @@
 
 加拿大移民局（IRCC）每周会在官方网站公布一次各种签证的平均处理时长。根据这个时间，你可以大致判断自己的签证申请进度。
 
-**IRCC签证处理时长查询** （`官网链接 <https://www.canada.ca/en/immigration-refugees-citizenship/services/application/visa-processing-times.html>`_）：https://www.canada.ca/en/immigration-refugees-citizenship/services/application/visa-processing-times.html
+.. admonition:: 官网
+
+    加拿大移民局「签证处理时长查询」官方网站：
+
+    https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html
+
 
 需要说明的是，严格意义上讲，这并不是IRCC承诺的对此类签证的处理时长，而是截止目前的实际平均处理时长。举个例子，比如本周在中国境内申请学签的处理时长经查询是14周，这意味着，本周出结果的来自中国的学签，大部分提交日期是14周前。换句话说，如果你是在14周前提交的申请，大概率（IRCC称80%）会在这周出结果。
 

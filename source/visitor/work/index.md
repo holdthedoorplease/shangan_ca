@@ -1,7 +1,7 @@
 ---
 myst:
   html_meta:
-    "description lang=en": |
+    "description lang=zh": |
       Complete guide on working in Canada, including types of work permits, requirements, and processing times.
 ---
 

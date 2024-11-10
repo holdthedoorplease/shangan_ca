@@ -1,7 +1,7 @@
 ---
 myst:
   html_meta:
-    "description lang=en": |
+    "description lang=zh": |
       Explore the various types of visitor visas to Canada and find the one that best suits your needs.
 ---
 

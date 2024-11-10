@@ -1,7 +1,7 @@
 ---
 myst:
   html_meta:
-    "description lang=en": |
+    "description lang=zh": |
       Comprehensive guide for international students planning to study in Canada, including visa types, study permits, and eligibility requirements.
 ---
 
@@ -17,4 +17,6 @@ This guide covers everything you need to know about obtaining and maintaining yo
 
 ircc_process_time
 cicc_find_rcic
+tracker/index
+atip/index
 ```

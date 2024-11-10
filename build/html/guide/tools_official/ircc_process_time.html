@@ -16,7 +16,7 @@
     <meta name="msapplication-TileColor" content="#459db9">
     <meta name="theme-color" content="#ffffff">
     <meta name="msapplication-TileImage" content="mstile-150x150.png">
-    <title>「签证处理时长」查询指南 &#8212; We Hold The Door Open to Canada for You!</title>
+    <title>「签证处理时长」查询指南 &#8212; 上岸加拿大，相聚枫叶国｜签证｜移民｜最全DIY教程</title>
   
   
   
@@ -41,7 +41,7 @@
     <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=a746c00c" />
     <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="../../_static/sphinx-design.min.css?v=95c83b7e" />
-    <link rel="stylesheet" type="text/css" href="../../_static/custom.css?v=23182715" />
+    <link rel="stylesheet" type="text/css" href="../../_static/custom.css?v=fdfe89dc" />
   
   <!-- So that users can add custom icons -->
   <script src="../../_static/scripts/fontawesome.js?digest=26a4bc78f4c0ddb94549"></script>
@@ -66,7 +66,7 @@
     <link rel="icon" href="../../_static/favicon.ico"/>
     <link rel="index" title="索引" href="../../genindex.html" />
     <link rel="search" title="搜索" href="../../search.html" />
-    <link rel="next" title="「非法移民中介」识别指南" href="cicc_find_rcic.html" />
+    <link rel="next" title="「无牌移民中介」识别指南" href="cicc_find_rcic.html" />
     <link rel="prev" title="操作教程（官方工具）" href="index.html" /> 
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="zh"/>
@@ -430,7 +430,20 @@
 <ul class="current nav bd-sidenav">
 <li class="toctree-l1 current active has-children"><a class="reference internal" href="index.html">操作教程（官方工具）</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current">
 <li class="toctree-l2 current active"><a class="current reference internal" href="#">「签证处理时长」查询指南</a></li>
-<li class="toctree-l2"><a class="reference internal" href="cicc_find_rcic.html">「非法移民中介」识别指南</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cicc_find_rcic.html">「无牌移民中介」识别指南</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="tracker/index.html">Tracker操作指南</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l3"><a class="reference internal" href="tracker/tracker_register.html">① 注册Tracker账号</a></li>
+<li class="toctree-l3"><a class="reference internal" href="tracker/tracker_check.html">② 查询「签证进度」</a></li>
+<li class="toctree-l3"><a class="reference internal" href="tracker/tracker_f12.html">③ 查询是否被「安调」</a></li>
+</ul>
+</details></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="atip/index.html">ATIP调档指南</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l3"><a class="reference internal" href="atip/atip_ircc.html">IRCC调档教程</a></li>
+<li class="toctree-l3"><a class="reference internal" href="atip/atip_cbsa.html">CBSA调档教程</a></li>
+<li class="toctree-l3"><a class="reference internal" href="atip/atip_csis.html">CSIS调档教程</a></li>
+<li class="toctree-l3"><a class="reference internal" href="atip/atip_docs.html">历史签证材料调档教程</a></li>
+</ul>
+</details></li>
 </ul>
 </details></li>
 </ul>
@@ -503,35 +516,39 @@
                    <section id="ircc-process-time">
 <span id="id1"></span><h1>「签证处理时长」查询指南<a class="headerlink" href="#ircc-process-time" title="Link to this heading">#</a></h1>
 <div class="dividing-line"></div><p>加拿大移民局（IRCC）每周会在官方网站公布一次各种签证的平均处理时长。根据这个时间，你可以大致判断自己的签证申请进度。</p>
-<p><strong>IRCC签证处理时长查询</strong> （<a class="reference external" href="https://www.canada.ca/en/immigration-refugees-citizenship/services/application/visa-processing-times.html">官网链接</a>）：<a class="reference external" href="https://www.canada.ca/en/immigration-refugees-citizenship/services/application/visa-processing-times.html">https://www.canada.ca/en/immigration-refugees-citizenship/services/application/visa-processing-times.html</a></p>
+<div class="admonition- admonition">
+<p class="admonition-title">官网</p>
+<p>加拿大移民局「签证处理时长查询」官方网站：</p>
+<p><a class="reference external" href="https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html">https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html</a></p>
+</div>
 <p>需要说明的是，严格意义上讲，这并不是IRCC承诺的对此类签证的处理时长，而是截止目前的实际平均处理时长。举个例子，比如本周在中国境内申请学签的处理时长经查询是14周，这意味着，本周出结果的来自中国的学签，大部分提交日期是14周前。换句话说，如果你是在14周前提交的申请，大概率（IRCC称80%）会在这周出结果。</p>
 <p>不过考虑到IRCC处理签证效率的稳定性，这个时长的波动短期内不会太大，以及考虑到解释成本，一般来说，这个时长会被近似作为预计时长。也就是如果本周提交学签，你可以预期在14周左右出结果。</p>
 <p>了解签证处理时长的意义在于，如果你的等待时间还没有超过这个时长，不需要催签，耐心等待即可。在这个期间内申请强制令，也不太可能得到法院的支持。</p>
 <p>会有少数幸运儿在极短时间内获得签证审批结果，中介也非常喜欢用类似个案进行宣传。不必为此过于焦虑，这种情况不具备普遍性，且通常与中介无关。签证的审理是case by case的，有些人确实条件很好，不管是DIY还是通过中介，都可能很快获得签证。对于大多数人而言，以IRCC公布的平均处理时长作为参考即可。</p>
 <p>如果等待时间超出，尤其是大幅超出IRCC公布的平均处理时长，则可以考虑通过催签、调档等手段了解签证状态，以便采取进一步措施。</p>
-<div class="dividing-line"></div><section id="id3">
-<h2>手把手教程<a class="headerlink" href="#id3" title="Link to this heading">#</a></h2>
+<div class="dividing-line"></div><section id="id2">
+<h2>手把手教程<a class="headerlink" href="#id2" title="Link to this heading">#</a></h2>
 <p>以在中国境内提交学签为例，查询过程如下：</p>
 <ol class="arabic simple">
 <li><p>打开IRCC签证处理时长 <a class="reference external" href="https://www.canada.ca/en/immigration-refugees-citizenship/services/application/visa-processing-times.html">官网链接</a> ，选择申请类别：临时签证（访问、学习、工作）</p></li>
 </ol>
-<img alt="Screenshot of IRCC Process Time Step 1" class="align-center" src="../../_images/01.png" />
+<img alt="Screenshot of IRCC Process Time Step 1" class="align-center" src="../../_images/011.png" />
 <ol class="arabic simple" start="2">
 <li><p>选择申请类别：学习许可（加拿大境外申请）</p></li>
 </ol>
-<img alt="Screenshot of IRCC Process Time Step 2" class="align-center" src="../../_images/02.png" />
+<img alt="Screenshot of IRCC Process Time Step 2" class="align-center" src="../../_images/021.png" />
 <ol class="arabic simple" start="3">
 <li><p>选择申请地点：中国</p></li>
 </ol>
-<img alt="Screenshot of IRCC Process Time Step 3" class="align-center" src="../../_images/03.png" />
+<img alt="Screenshot of IRCC Process Time Step 3" class="align-center" src="../../_images/031.png" />
 <ol class="arabic simple" start="4">
 <li><p>点击查询按钮</p></li>
 </ol>
-<img alt="Screenshot of IRCC Process Time Step 4" class="align-center" src="../../_images/04.png" />
+<img alt="Screenshot of IRCC Process Time Step 4" class="align-center" src="../../_images/041.png" />
 <ol class="arabic simple" start="5">
 <li><p>显示查询结果：平均处理时长，以及最新更新时间。</p></li>
 </ol>
-<img alt="Screenshot of IRCC Process Time Step 5" class="align-center" src="../../_images/05.png" />
+<img alt="Screenshot of IRCC Process Time Step 5" class="align-center" src="../../_images/051.png" />
 <div class="dividing-line"></div></section>
 </section>
 
@@ -562,7 +579,7 @@
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">下一页</p>
-        <p class="prev-next-title">「非法移民中介」识别指南</p>
+        <p class="prev-next-title">「无牌移民中介」识别指南</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
@@ -585,7 +602,7 @@
   </div>
   <nav class="bd-toc-nav page-toc" aria-labelledby="pst-page-navigation-heading-2">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">手把手教程</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">手把手教程</a></li>
 </ul>
   </nav></div>
 
@@ -612,7 +629,7 @@
   <div class="sidebar-title">联系方式</div>
   <hr>
   <div class="sidebar-message">
-    <p>小红书: <a href="https://www.xiaohongshu.com/user/profile/6586288c000000001c008e39">@上岸加拿大</a></p>
+    <p>小红书账号: <a href="https://www.xiaohongshu.com/user/profile/6586288c000000001c008e39">上岸加拿大</a></p>
     <p>微信公众号: <a href="https://mp.weixin.qq.com/s/50Q585Q585Q585Q585Q585">相聚枫叶国</a></p>
     <p>网址: <a href="https://www.shanganjianada.com">www.shanganjianada.com</a></p>
     <p>网址: <a href="https://www.shangan.ca">www.shangan.ca</a></p>
@@ -624,7 +641,7 @@
   <p></p>
   <p></p>
   <p></p>
-  
+
   <div class="sidebar-title">关于我们</div>
   <hr>
   <div class="sidebar-message">「上岸加拿大」致力于打造全网最全的加拿大签证DIY教程。 
@@ -658,7 +675,7 @@
 
   <p class="copyright">
     
-      © Copyright 2024, ShangAn.
+      © Copyright 2024, 上岸加拿大.
       <br/>
     
   </p>
