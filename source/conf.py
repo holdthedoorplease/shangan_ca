@@ -48,6 +48,18 @@ myst_enable_extensions = ["colon_fence", "linkify", "substitution"]
 myst_heading_anchors = 2
 myst_substitutions = {"rtd": "[Read the Docs](https://readthedocs.org/)"}
 
+# Add Open Graph meta tags for SEO
+myst_html_meta = {
+    "og:title": "上岸加拿大",
+    "og:description": "上岸加拿大，相聚枫叶国｜签证｜移民｜最全DIY教程",
+    "og:image": "https://shangan.ca/_static/logo.svg",
+    "og:type": "website",
+    "description": "上岸加拿大，相聚枫叶国｜签证｜移民｜最全DIY教程",
+    "robots": "index, follow",
+    "twitter:card": "summary_large_image",
+    "keywords": "加拿大移民, 签证, DIY教程, 上岸加拿大, 加拿大签证, 加拿大移民, 加拿大DIY教程, 学签, 工签, 旅游签, 探亲签, 超级签证, PR, EE, PNP, Webform, 安调, 调档, 强制令",
+}
+
 # ABlog settings
 blog_basepath = 'news'
 blog_path = 'news'
@@ -70,7 +82,7 @@ post_date_format_short = '%B %d, %Y'
 html_theme = "pydata_sphinx_theme"
 html_logo = "_static/logo.svg"
 html_favicon = "_static/favicon.ico"
-html_title = "上岸加拿大，相聚枫叶国｜签证｜移民｜最全DIY教程"
+html_title = "上岸加拿大"
  
 html_theme_options = {
     "external_links": [
