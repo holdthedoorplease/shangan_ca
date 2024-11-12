@@ -54,7 +54,6 @@ myst_html_meta = {
     "og:description": "上岸加拿大，相聚枫叶国｜签证｜移民｜最全DIY教程",
     "og:image": "https://shangan.ca/_static/logo.svg",
     "og:type": "website",
-    "description": "上岸加拿大，相聚枫叶国｜签证｜移民｜最全DIY教程",
     "robots": "index, follow",
     "twitter:card": "summary_large_image",
     "keywords": "加拿大移民, 签证, DIY教程, 上岸加拿大, 加拿大签证, 加拿大移民, 加拿大DIY教程, 学签, 工签, 旅游签, 探亲签, 超级签证, PR, EE, PNP, Webform, 安调, 调档, 强制令",
@@ -125,7 +124,7 @@ html_context = {
 
 # Custom styles and scripts
 html_css_files = ["custom.css"]
-html_js_files = ["pydata-icon.js", "custom-icon.js"]
+html_js_files = ["pydata-icon.js", "custom-icon.js", "google_analytics.js"]
 todo_include_todos = True
 
 # Favicon configuration

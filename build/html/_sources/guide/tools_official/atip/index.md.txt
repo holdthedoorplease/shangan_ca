@@ -40,7 +40,7 @@ https://atip-aiprp.tbs-sct.gc.ca/en/Home/Privacy
   link: "atip_cbsa.html"
 
 - header: "{fas}`users;pst-color-primary` 调档 - 加拿大安全局"
-  content: "从CSIS调档，确定是否进入安调（Security Screening）或安调是否已结束。点击查看"
+  content: "从CSIS调档确定安调（Security Screening）状态：是否安调、是否安调已完成。点击查看"
   link: "atip_csis.html"
 
 - header: "{fas}`users;pst-color-primary` 调档 - 历史签证材料"
