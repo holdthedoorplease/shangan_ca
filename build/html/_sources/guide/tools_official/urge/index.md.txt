@@ -35,5 +35,6 @@ myst:
 
 hotline.md
 webform.md
+embassy.md
 mp.md
 ```
