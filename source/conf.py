@@ -16,7 +16,7 @@ language = 'zh'
 sys.path.insert(0, os.path.abspath('_extension'))
 sys.path.insert(0, os.path.abspath('scripts'))
 
-html_baseurl = 'https://shangan.ca/'
+html_baseurl = 'https://www.shangan.ca/'
 html_extra_path = ['robots.txt']
 
 # General configuration
