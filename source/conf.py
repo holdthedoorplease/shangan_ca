@@ -16,7 +16,7 @@ language = 'zh'
 sys.path.insert(0, os.path.abspath('_extension'))
 sys.path.insert(0, os.path.abspath('scripts'))
 
-html_baseurl = 'https://www.shangan.ca/'
+html_baseurl = 'https://shangan.ca/'
 html_extra_path = ['robots.txt']
 
 # General configuration
@@ -56,7 +56,7 @@ myst_html_meta = {
     "og:type": "website",
     "robots": "index, follow",
     "twitter:card": "summary_large_image",
-    "baidu-site-verification": "codeva-5PrHB8o0ZS",
+    "baidu-site-verification": "codeva-lTGttoVC7j",
     "keywords": "加拿大移民, 签证, DIY教程, 上岸加拿大, 加拿大签证, 加拿大移民, 加拿大DIY教程, 学签, 工签, 旅游签, 探亲签, 超级签证, PR, EE, PNP, Webform, 安调, 调档, 强制令",
 }
 
