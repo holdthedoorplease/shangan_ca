@@ -41,9 +41,13 @@ Given the extended time my application has been in process, I am concerned that 
 Thank you for your time and assistance. I would appreciate any information you can provide to help me better understand my application’s progress.
 
 Sincerely,
+
 [Your Full Name]
+
 [Your Date of Birth]
+
 [Your Application Number]
+
 [Your Contact Information]
 ```
 
