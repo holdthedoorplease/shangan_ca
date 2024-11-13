@@ -14,7 +14,7 @@ myst:
 ![ATIP调档IRCC](/_static/images/guide/tools_official/atip/ircc/01.png)
 
 ```{important} 
-IRCC调档的入口与CBSA、CSIS不同，请注意区分。CBSA、CSIS的调档均是从ATIP首页的「ATIP Online Request Service」入口进入。也许是调档IRCC的申请者数量太多，ATIP将IRCC的调档入口直接放在在首页（如上图所示），从「ATIP Online Request Service」的入口进去反而没有。ATIP的官网首页地址：https://atip-aiprp.apps.gc.ca/atip/welcome.do
+IRCC调档的入口与CBSA、CSIS不同，请注意区分。CBSA、CSIS的调档均是从ATIP首页的「ATIP Online Request Service」入口进入。而IRCC的入口直接列在ATIP的首页上（如上图所示）。ATIP首页网址：https://atip-aiprp.apps.gc.ca/atip/welcome.do
 ```
 
 2. 勾选后点击`Continue`

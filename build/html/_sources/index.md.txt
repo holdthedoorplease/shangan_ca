@@ -23,7 +23,7 @@ html_theme.sidebar_secondary.remove: true
 
 
 - header: "{fas}`file;pst-color-primary` 调档"
-  content: "免费调取签证档案，全面了解签证处理进展、是否安调、签证官评语（GCMS）、拒签理由等。点击查看"
+  content: "免费调取签证档案，全面了解签证处理进展、是否安调、签证官评语（GCMS）、拒签原因等。点击查看"
   link: guide/tools_official/atip/index.html
 
 - header: "{fas}`search;pst-color-primary` 「无牌移民中介」识别数据库"
