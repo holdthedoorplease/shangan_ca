@@ -23,7 +23,7 @@ html_theme.sidebar_secondary.remove: true
 
 
 - header: "{fas}`file;pst-color-primary` 调档"
-  content: "免费调取签证档案，全面了解签证处理进展、是否安调、签证官评语（GCMS）等。点击查看"
+  content: "免费调取签证档案，全面了解签证处理进展、是否安调、签证官评语（GCMS）、拒签理由等。点击查看"
   link: guide/tools_official/atip/index.html
 
 - header: "{fas}`search;pst-color-primary` 「无牌移民中介」识别数据库"
@@ -31,9 +31,9 @@ html_theme.sidebar_secondary.remove: true
   link: guide/tools_official/cicc_find_rcic.html
 
 
-- header: "{fas}`globe;pst-color-primary` 补料或催签（Webform）"
-  content: "签证申请过程中，如需补充材料或催签，可使用IRCC官方提供的Webform。点击查看"
-  link: https://www.canada.ca/en/immigration-refugees-citizenship.html
+- header: "{fas}`globe;pst-color-primary` 催签"
+  content: "如果签证申请迟迟没出结果，或者有急事需要尽早下签，可用电话、邮件、Webform等催签。点击查看"
+  link: guide/tools_official/urge/index.html
 
 
 - header: "{fas}`link;pst-color-primary` 加拿大签证常用官网大全"

@@ -16,6 +16,7 @@ This guide covers everything you need to know about obtaining and maintaining yo
 :caption: 官方工具使用指南
 
 ircc_process_time
+ircc_hotline
 cicc_find_rcic
 tracker/index
 atip/index

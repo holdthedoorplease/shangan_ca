@@ -44,7 +44,7 @@ html_static_path = ["_static"]
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "**.ipynb_checkpoints"]
 
 # MyST options
-myst_enable_extensions = ["colon_fence", "linkify", "substitution"]
+myst_enable_extensions = ["colon_fence", "linkify", "substitution", "deflist", "html_image", "smartquotes"]
 myst_heading_anchors = 2
 myst_substitutions = {"rtd": "[Read the Docs](https://readthedocs.org/)"}
 
