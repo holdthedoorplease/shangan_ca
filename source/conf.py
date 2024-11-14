@@ -52,7 +52,7 @@ myst_substitutions = {"rtd": "[Read the Docs](https://readthedocs.org/)"}
 myst_html_meta = {
     "og:title": "上岸加拿大",
     "og:description": "上岸加拿大，相聚枫叶国｜签证｜移民｜最全DIY教程",
-    "og:image": "https://shangan.ca/_static/logo.svg",
+    "og:image": "https://www.shangan.ca/_static/logo.svg",
     "og:type": "website",
     "robots": "index, follow",
     "twitter:card": "summary_large_image",
