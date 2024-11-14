@@ -37,7 +37,7 @@ html_theme.sidebar_secondary.remove: true
 
 
 - header: "{fas}`link;pst-color-primary` 加拿大签证常用官网大全"
-  content: "加拿大签证申请涉及各种官网，如移民局、GCKey、Tracker、调档等。点击查看官网列表"
+  content: "加拿大签证申请涉及各种官网，如移民局、GCKey、Tracker、ATIP调档等。点击查看官网列表"
   link: officialwebsites/index.html
 ```
 
@@ -62,7 +62,7 @@ html_theme.sidebar_secondary.remove: true
 ```
 
 ```{important} 
-本站将持续更新，谢谢关注！
+本站持续更新中，目前正更新临时居民签证（学签、工签、旅签）和永久居民签证（PR）DIY中文教程，敬请期待
 ```
 
 ## Visit Canada: Temporary Resident Visa

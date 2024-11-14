@@ -38,3 +38,37 @@ Dear Officer, I hope there aren’t any issues that might delay my application. 
 ```
 
 <div class="dividing-line"></div>
+
+```{gallery-grid}
+:grid-columns: 1 2 2 3
+
+- header: "{fas}`clock;pst-color-primary` 电话催签"
+  content: "通过加拿大移民局（IRCC）咨询电话(1-888-242-2100)进行催签。点击查看"
+  link: hotline.html
+
+
+- header: "{fas}`shoe-prints;pst-color-primary` Webform催签"
+  content: "通过IRCC官方提供的沟通平台Webform进行催签。点击查看"
+  link: webform.html
+
+
+- header: "{fas}`file;pst-color-primary` Email使领馆催签"
+  content: "通过Email加拿大驻华使领馆进行催签。点击查看"
+  link: embassy.html
+
+- header: "{fas}`search;pst-color-primary` 国会议员催签"
+  content: "通过所在地的国会议员（MP）催签。点击查看"
+  link: mp.html
+
+
+- header: "{fas}`globe;pst-color-primary` 移民部长催签"
+  content: "通过联系移民部长进行催签。点击查看"
+  link: mi.html
+
+
+- header: "{fas}`link;pst-color-primary` 加拿大总理催签"
+  content: "通过联系加拿大总理进行催签。点击查看"
+  link: pm.html
+```
+
+<div class="dividing-line"></div>
