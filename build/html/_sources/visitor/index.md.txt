@@ -2,7 +2,7 @@
 myst:
   html_meta:
     "description lang=zh": |
-      Explore the various types of visitor visas to Canada and find the one that best suits your needs.
+      加拿大临时居民签证｜学习签证｜工作签证｜访问签证｜旅行签证
 ---
 
 # 加拿大签证

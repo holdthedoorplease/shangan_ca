@@ -20,27 +20,27 @@ myst:
 :grid-columns: 1 2 2 3
 
 - header: "{fas}`globe;pst-color-primary` 移民局（IRCC）官方网站"
-  content: "获取最新官方移民政策及信息"
+  content: "https://www.canada.ca/en/immigration-refugees-citizenship.html"
   link: https://www.canada.ca/en/immigration-refugees-citizenship.html
 
 - header: "{fas}`key;pst-color-primary` GCKey账号"
-  content: "登录政府各类在线服务的账号系统"
+  content: "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html"
   link: https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html
 
 - header: "{fas}`search;pst-color-primary` 签证申请状态查询"
-  content: "实时跟进签证申请的处理进度"
+  content: "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-status.html"
   link: https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-status.html
 
 - header: "{fas}`clock;pst-color-primary` 签证处理时间查询"
-  content: "了解各类申请的预计处理时间"
+  content: "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html"
   link: https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html
 
 - header: "{fas}`file-alt;pst-color-primary` 签证申请官方表格下载"
-  content: "获取各类申请所需的表格和指南"
+  content: "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides.html"
   link: https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides.html
 
 - header: "{fas}`shield-alt;pst-color-primary` 边境服务局（CBSA）官网"
-  content: "了解入境相关规定和服务"
+  content: "https://www.cbsa-asfc.gc.ca/menu-eng.html"
   link: https://www.cbsa-asfc.gc.ca/menu-eng.html
 ```
 
@@ -52,91 +52,91 @@ myst:
 :grid-columns: 1 2 2 3
 
 - header: "{fas}`file-signature;pst-color-primary` 从移民局（IRCC）调档"
-  content: "查询IRCC存档的签证相关信息"
+  content: "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/access-information-privacy.html"
   link: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/access-information-privacy.html
 
 - header: "{fas}`user-shield;pst-color-primary` 从边境局（CBSA）调档"
-  content: "查询CBSA存档的签证相关信息"
+  content: "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/access-information-privacy/request-privacy-act.html"
   link: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/access-information-privacy/request-privacy-act.html
 
 - header: "{fas}`shield-alt;pst-color-primary` 从情报局（CSIS）调档"
-  content: "查询CSIS的个人相关记录"
+  content: "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/access-information-privacy/request-privacy-act.html"
   link: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/access-information-privacy/request-privacy-act.html
 ```
 
 ## 快速通道（Express Entry）官网
 
-**快速通道**是针对技术工人、专业人士和留学生的快速移民系统。
+**快速通道（EE）** 是针对技术工人、专业人士和留学生的快速移民系统。
 
 ```{gallery-grid}
 :grid-columns: 1 2 2 3
 
-- header: "{fas}`user-check;pst-color-primary` 联邦技术移民项目"
-  content: "适用于高学历有工作经验的申请人"
+- header: "{fas}`user-check;pst-color-primary` 联邦技术移民项目(FSW)"
+  content: "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html"
   link: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html
 
-- header: "{fas}`user-graduate;pst-color-primary` 加拿大经验类别"
-  content: "适用于有加拿大工作经验的申请人"
+- header: "{fas}`user-graduate;pst-color-primary` 加拿大经验类别(CEC)"
+  content: "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/canadian-experience-class.html"
   link: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/canadian-experience-class.html
 
-- header: "{fas}`tools;pst-color-primary` 联邦技工项目"
-  content: "适用于特定技术工种的技术工人"
+- header: "{fas}`tools;pst-color-primary` 联邦技工项目(FST)"
+  content: "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/skilled-trades.html"
   link: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/skilled-trades.html
 ```
 
 ## 省提名项目（PNP）官网
 
-各省根据经济需求可以提名移民申请人。以下是各省份的提名项目：
+各省根据经济需求可以提名移民申请人，以下是各省份的提名项目：
 
 ```{gallery-grid}
 :grid-columns: 1 2 2 3
 
 - header: "{fas}`map-marker-alt;pst-color-primary` 不列颠哥伦比亚省（BCPNP）"
-  content: "BC省省提名官网"
+  content: "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program"
   link: https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program
 
 - header: "{fas}`map-marker-alt;pst-color-primary` 安大略省（OINP）"
-  content: "安省省提名官网"
+  content: "https://www.ontario.ca/page/ontario-immigrant-nominee-program"
   link: https://www.ontario.ca/page/ontario-immigrant-nominee-program
 
 - header: "{fas}`map-marker-alt;pst-color-primary` 艾伯塔省（AINP）"
-  content: "阿省省提名官网"
+  content: "https://www.alberta.ca/alberta-advantage-immigration-program"
   link: https://www.alberta.ca/alberta-advantage-immigration-program
 
 - header: "{fas}`map-marker-alt;pst-color-primary` 曼尼托巴省（MPNP）"
-  content: "曼省省提名官网"
+  content: "https://immigratemanitoba.com/immigrate/"
   link: https://immigratemanitoba.com/immigrate/
 
 - header: "{fas}`map-marker-alt;pst-color-primary` 萨斯喀彻温省(SINP)"
-  content: "萨省省提名官网"
+  content: "https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program"
   link: https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program
 
 - header: "{fas}`map-marker-alt;pst-color-primary` 新斯科舍省 (NSNP)"
-  content: "新省省提名官网"
+  content: "https://liveinnovascotia.com/"
   link: https://liveinnovascotia.com/
 
 - header: "{fas}`map-marker-alt;pst-color-primary` 纽芬兰与拉布拉多省 (NLNP)"
-  content: "NL省省提名官网"
+  content: "https://www.gov.nl.ca/immigration/immigrating-to-newfoundland-and-labrador/provincial-nominee-program/overview/"
   link: https://www.gov.nl.ca/immigration/immigrating-to-newfoundland-and-labrador/provincial-nominee-program/overview/
 
 - header: "{fas}`map-marker-alt;pst-color-primary` 爱德华王子岛(PEI PNP)"
-  content: "爱岛省提名官网"
+  content: "https://www.princeedwardisland.ca/en/topic/immigrate-to-pei-as-a-worker"
   link: https://www.princeedwardisland.ca/en/topic/immigrate-to-pei-as-a-worker
 
 - header: "{fas}`map-marker-alt;pst-color-primary` 新不伦瑞克省(NBPNP)"
-  content: "NB省提名官网"
+  content: "https://www2.gnb.ca/content/gnb/en/corporate/promo/immigration/immigrating-to-nb/nb-immigration-program-streams.html"
   link: https://www2.gnb.ca/content/gnb/en/corporate/promo/immigration/immigrating-to-nb/nb-immigration-program-streams.html
 
 - header: "{fas}`map-marker-alt;pst-color-primary` 西北地区（NTPNP）"
-  content: "西北地区省提名官网"
+  content: "https://www.immigratenwt.ca/immigrate-here"
   link: https://www.immigratenwt.ca/immigrate-here
 
 - header: "{fas}`map-marker-alt;pst-color-primary` 育空地区(YNP)"
-  content: "育空省提名官网"
+  content: "https://yukon.ca/en/immigrate-yukon"
   link: https://yukon.ca/en/immigrate-yukon
 
 - header: "{fas}`map-marker-alt;pst-color-primary` 魁北克省（CSQ）"
-  content: "魁省省提名官网"
+  content: "https://www.quebec.ca/en/immigration"
   link: https://www.quebec.ca/en/immigration
 ```
 
@@ -148,26 +148,26 @@ myst:
 :grid-columns: 1 2 2 3
 
 - header: "{fas}`book;pst-color-primary` 安置服务"
-  content: "帮助新移民适应新生活的各类服务"
+  content: "https://www.cic.gc.ca/english/newcomers/services/index.asp"
   link: https://www.cic.gc.ca/english/newcomers/services/index.asp
 
-- header: "{fas}`briefcase;pst-color-primary` 求职网站"
-  content: "加拿大官方职位搜索平台"
+- header: "{fas}`briefcase;pst-color-primary` 求职网站JobBank"
+  content: "https://www.jobbank.gc.ca/home"
   link: https://www.jobbank.gc.ca/home
 
 - header: "{fas}`university;pst-color-primary` 学历认证"
-  content: "移民所需的学历认证服务"
+  content: "https://www.cic.gc.ca/english/immigrate/skilled/eca-conversion.asp"
   link: https://www.cic.gc.ca/english/immigrate/skilled/eca-conversion.asp
 
 - header: "{fas}`money-bill-wave;pst-color-primary` 税务信息"
-  content: "了解新移民的税务义务和福利"
+  content: "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants.html"
   link: https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants.html
 
 - header: "{fas}`balance-scale;pst-color-primary` 法律权利"
-  content: "了解在加拿大的权利与责任"
+  content: "https://www.justice.gc.ca/eng/csj-sjc/just/08.html"
   link: https://www.justice.gc.ca/eng/csj-sjc/just/08.html
 
 - header: "{fas}`clinic-medical;pst-color-primary` 医疗保健"
-  content: "了解加拿大医疗保险系统"
+  content: "https://www.canada.ca/en/health-canada/services/health-care-system.html"
   link: https://www.canada.ca/en/health-canada/services/health-care-system.html
 ```

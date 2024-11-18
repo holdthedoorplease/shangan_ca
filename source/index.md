@@ -150,6 +150,12 @@ Understand the eligibility criteria and steps to become a Canadian citizen.
   link: citizen/oath.html
 ```
 
+```{toctree}
+:hidden:
+
+guide/index
+```
+
 
 ```{toctree}
 :hidden:
@@ -176,8 +182,4 @@ citizen/index
 officialwebsites/index
 ```
 
-```{toctree}
-:hidden:
 
-guide/index
-```

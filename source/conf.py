@@ -107,7 +107,7 @@ html_theme_options = {
     "show_version_warning_banner": False,
     "footer_start": "",
     "footer_end": ["copyright"],
-    "secondary_sidebar_items": ["page-toc", "aboutus"   ],
+    "secondary_sidebar_items": ["page-toc", "aboutus"],
 
 }
 
@@ -120,6 +120,7 @@ html_sidebars = {
     "citizen/index": [],
     "news/index": [],
     "officialwebsites/index": [],
+    "guide/index": [],
 }
 
 
