@@ -65,11 +65,115 @@ html_theme.sidebar_secondary.remove: true
 本站持续更新中，目前正更新临时居民签证（学签、工签、旅签）和永久居民签证（PR）DIY中文教程，敬请期待
 ```
 
+## Visit Canada: Temporary Resident Visa
+
+Explore the various types of visitor visas to Canada and find the one that best suits your needs.
+
+```{gallery-grid}
+:grid-columns: 1 2 2 3
+
+- header: "{fas}`plane;pst-color-primary` Tourism in Canada"
+  content: "Plan your vacation with ease using the Visitor Visa resources."
+  link: visitor/tourism/index.html
+
+- header: "{fas}`book;pst-color-primary` Study in Canada"
+  content: "Pursue your education in Canada with the Student Visa information."
+  link: visitor/study/index.html
+
+- header: "{fas}`users;pst-color-primary` Visit Family in Canada"
+  content: "Learn about visas to visit your family members in Canada, including the Super Visa."
+  link: visitor/supervisa/index.html
+
+- header: "{fas}`briefcase;pst-color-primary` Work in Canada"
+  content: "Find opportunities to work in Canada through the Work Visa guides."
+  link: visitor/work/index.html
+
+- header: "{fas}`handshake;pst-color-primary` Visit Canada on Business"
+  content: "Explore options for business visitors and entrepreneurs."
+  link: visitor/business/index.html
+
+- header: "{fas}`info-circle;pst-color-primary` All Visitor Visas"
+  content: "Find information on all types of visitor visas to Canada."
+  link: visitor/index.html
+```
+
+
+## Immigration to Canada: Permanent Resident Visa
+
+Learn about the different pathways to becoming a permanent resident of Canada.
+
+```{gallery-grid}
+:grid-columns: 1 2 2 3
+
+- header: "{fas}`user-check;pst-color-primary` Express Entry"
+  content: "Apply through the Federal Skilled Worker program for fast-tracked immigration."
+  link: immigration/ee/index.html
+
+- header: "{fas}`users;pst-color-primary` Provincial Nominee Program"
+  content: "Gain nomination from a Canadian province (PNP) to enhance your PR application."
+  link: immigration/pnp/index.html
+
+- header: "{fas}`users;pst-color-primary` Family Sponsorship"
+  content: "Reunite with your family in Canada through our sponsorship programs."
+  link: immigration/family/index.html
+
+- header: "{fas}`users;pst-color-primary` Quebec"
+  content: "Reunite with your family in Canada through our sponsorship programs."
+  link: immigration/quebec/index.html
+
+- header: "{fas}`users;pst-color-primary` Refugees"
+  content: "Reunite with your family in Canada through our sponsorship programs."
+  link: immigration/refugees/index.html
+
+- header: "{fas}`handshake;pst-color-primary` All PR Pathways"
+  content: "Explore additional pathways to permanent residency tailored to your situation."
+  link: immigration/index.html
+```
+
+## Become Canadian: Change of Nationality
+
+Understand the eligibility criteria and steps to become a Canadian citizen.
+
+```{gallery-grid}
+:grid-columns: 1 2 2 3
+
+- header: "{fas}`user-shield;pst-color-primary` Eligibility Criteria"
+  content: "Learn about the requirements you must meet to apply for Canadian citizenship."
+  link: citizen/eligibility.html
+
+- header: "{fas}`book-reader;pst-color-primary` Citizenship Test"
+  content: "Prepare for the citizenship test with our study resources and tips."
+  link: citizen/test.html
+
+- header: "{fas}`clipboard-list;pst-color-primary` Oath of Citizenship"
+  content: "Learn about the Oath of Citizenship and the ceremony."
+  link: citizen/oath.html
+```
 
 ```{toctree}
 :hidden:
 
 guide/index
+```
+
+
+```{toctree}
+:hidden:
+
+visitor/index
+```
+
+
+```{toctree}
+:hidden:
+
+immigration/index
+```
+
+```{toctree}
+:hidden:
+
+citizen/index
 ```
 
 ```{toctree}

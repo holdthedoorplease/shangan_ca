@@ -90,6 +90,10 @@ html_favicon = "_static/favicon.ico"
 html_title = "上岸加拿大"
  
 html_theme_options = {
+    "navbar_links": [
+        {"name": "Guide", "url": "guide/index", "internal": True},
+        {"name": "Official Websites", "url": "officialwebsites/index", "internal": True},
+    ],
     "external_links": [
     ],
     "icon_links": [
@@ -124,9 +128,11 @@ html_sidebars = {
 }
 
 
+
+
 html_context = {
     "doc_path": "docs",
-    "title": "HoldTheDoor"
+    "title": "上岸加拿大",
 }
 
 # Custom styles and scripts
