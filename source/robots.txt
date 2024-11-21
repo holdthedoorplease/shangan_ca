@@ -14,4 +14,4 @@ User-agent: *
 Disallow: /_static/
 Disallow: /_sources/
 Allow: /
-Sitemap: https://shangan.ca/sitemap.xml
+Sitemap: https://www.shangan.ca/sitemap.xml

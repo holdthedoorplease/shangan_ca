@@ -10,7 +10,7 @@ myst:
 
 <div class="dividing-line"></div>
 
-1. 打开ATIP的[官网](https://atip-aiprp.tbs-sct.gc.ca/en/Home/Privacy)，点击`Continue`
+1. 打开ATIP的<a href="https://atip-aiprp.tbs-sct.gc.ca/en/Home/Privacy" target="_blank">官网</a>，点击`Continue`
 
 ![ATIP调档 Step 1](/_static/images/guide/tools_official/atip/cbsa/08.png)
 

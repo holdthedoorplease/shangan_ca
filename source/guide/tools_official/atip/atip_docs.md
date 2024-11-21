@@ -9,7 +9,8 @@ myst:
 
 <div class="dividing-line"></div>
 
-1. 打开ATIP的[官网](https://atip-aiprp.apps.gc.ca/atip/welcome.do)，点击`IRCC`
+1. 打开ATIP的<a href="https://atip-aiprp.apps.gc.ca/atip/welcome.do" target="_blank">官网</a>，点击`IRCC`
+
 
 ![ATIP调档IRCC](/_static/images/guide/tools_official/atip/ircc/01.png)
 

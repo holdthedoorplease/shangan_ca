@@ -2,9 +2,8 @@
 
 import os
 import sys
-from datetime import date
+from datetime import datetime
 import ablog
-
 # Project information
 project = 'ShangAn'
 copyright = '2024, 上岸加拿大'
@@ -46,6 +45,8 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "**.ipynb_checkpoints"]
 # MyST options
 myst_enable_extensions = ["colon_fence", "linkify", "substitution", "deflist", "html_image", "smartquotes"]
 myst_heading_anchors = 2
+#myst_heading_anchors = 1
+#myst_title_to_header = True
 myst_substitutions = {"rtd": "[Read the Docs](https://readthedocs.org/)"}
 
 myst_html_meta = {
@@ -90,16 +91,12 @@ html_favicon = "_static/favicon.ico"
 html_title = "上岸加拿大"
  
 html_theme_options = {
-    "navbar_links": [
-        {"name": "Guide", "url": "guide/index", "internal": True},
-        {"name": "Official Websites", "url": "officialwebsites/index", "internal": True},
-    ],
     "external_links": [
     ],
     "icon_links": [
         {"name": "Email", "url": "mailto:shanganjianada@gmail.com", "icon": "fa-solid fa-envelope"},
         {"name": "微博", "url": "https://weibo.com/shanganjianada", "icon": "fa-brands fa-weibo"},
-        {"name": "微信公众号", "url": "https://mp.weixin.qq.com/s/shanganjianada", "icon": "fa-brands fa-weixin"}, 
+        {"name": "微信公众号", "url": "https://mp.weixin.qq.com/s/RL0e0EAMj4II5QxmTqK6Dg", "icon": "fa-brands fa-weixin"}, 
         {"name": "小红书", "url": "https://www.xiaohongshu.com/user/profile/6586288c000000001c008e39", "icon": "fa-solid fa-heart"},
     ],
     "logo": {
@@ -152,3 +149,14 @@ favicons = [
     {"name": "theme-color", "content": "#ffffff"},
     {"name": "msapplication-TileImage", "content": "mstile-150x150.png"},
 ]
+
+# Function to get the last modification time of a file
+""" def get_last_modified(app, docname, source):
+    doc_path = app.env.doc2path(docname)
+    if os.path.exists(doc_path):
+        last_modified_time = os.path.getmtime(doc_path)
+        last_modified_date = datetime.utcfromtimestamp(last_modified_time).strftime('%Y-%m-%d')
+        source[0] = f":lastmod: {last_modified_date}\n" + source[0]
+
+def setup(app):
+    app.connect("source-read", get_last_modified) """

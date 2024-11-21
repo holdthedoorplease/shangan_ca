@@ -9,11 +9,12 @@ myst:
 
 <div class="dividing-line"></div>
 
-1. 打开ATIP的[官网](https://atip-aiprp.tbs-sct.gc.ca/en/Home/Privacy)，点击`Continue`
+1. 打开ATIP的<a href="https://atip-aiprp.tbs-sct.gc.ca/en/Home/Privacy" target="_blank">官网</a>，点击`Continue`
+
 
 ![ATIP调档 Step 1](/_static/images/guide/tools_official/atip/cbsa/08.png)
 
-2. 进入「Welcome」页面，选择调档类型：为自己调档选第一项，为他人调档选第二项
+1. 进入「Welcome」页面，选择调档类型：为自己调档选第一项，为他人调档选第二项
 
 ![ATIP调档 Step 2](/_static/images/guide/tools_official/atip/cbsa/09.png)
 
