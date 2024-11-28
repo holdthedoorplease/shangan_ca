@@ -54,7 +54,7 @@
 手把手教程
 ------------------------
 
-假设你被告是一个持牌顾问代理你的申请，且其牌照号是R506879， 核实步骤如下：
+假设你的签证申请是由一个自称是「持牌顾问」的人代理的，他说持牌号码是R506879。核实步骤如下：
 
 1. 打开CICC官网数据库 （`官网链接 <https://college-ic.ca/protecting-the-public/find-an-immigration-consultant>`_）, 点击「Find an Immigration Consultant」
 
