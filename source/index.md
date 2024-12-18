@@ -59,6 +59,10 @@ html_theme.sidebar_secondary.remove: true
 - header: "{fas}`down-long;pst-color-primary` PDF在线压缩"
   content: "加拿大签证申请材料要求单个PDF文件不超过4MB或2MB。本工具可免费将PDF文件压缩至规定大小。"
   link: https://smallpdf.com/
+
+- header: "{fas}`calculator;pst-color-primary` CRS打分工具(手机版)"
+  content: "本工具可免费计算CRS分数，适合通过手机访问。"
+  link: https://ee-crs.netlify.app/ 
 ```
 
 ```{important} 
