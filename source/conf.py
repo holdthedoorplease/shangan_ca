@@ -3,7 +3,7 @@
 import os
 import sys
 from datetime import datetime
-import ablog
+#import ablog
 # Project information
 project = 'ShangAn'
 copyright = '2024, 上岸加拿大'
@@ -88,6 +88,7 @@ post_date_format_short = '%B %d, %Y'
 html_theme = "pydata_sphinx_theme"
 html_logo = "_static/logo.svg"
 html_favicon = "_static/favicon.ico"
+html_extra_path = ['favicon.ico', 'robots.txt']
 html_title = "上岸加拿大"
  
 html_theme_options = {
@@ -136,19 +137,6 @@ html_context = {
 html_css_files = ["custom.css"]
 html_js_files = ["pydata-icon.js", "custom-icon.js", "google_analytics.js"]
 todo_include_todos = True
-
-# Favicon configuration
-favicons = [
-    "favicon-32x32.png",
-    "favicon-16x16.png",
-    {"rel": "shortcut icon", "sizes": "any", "href": "favicon.ico"},
-    "android-chrome-192x192.png",
-    {"rel": "mask-icon", "color": "#459db9", "href": "safari-pinned-tab.svg"},
-    {"rel": "apple-touch-icon", "href": "apple-touch-icon.png"},
-    {"name": "msapplication-TileColor", "content": "#459db9"},
-    {"name": "theme-color", "content": "#ffffff"},
-    {"name": "msapplication-TileImage", "content": "mstile-150x150.png"},
-]
 
 # Function to get the last modification time of a file
 """ def get_last_modified(app, docname, source):

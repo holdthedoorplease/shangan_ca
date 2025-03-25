@@ -1,8 +1,17 @@
 ---
+title: "上岸加拿大"
+description: "上岸加拿大，相聚枫叶国。「上岸加拿大」致力于打造全网最全的加拿大签证DIY教程百科全书。"
 myst:
   html_meta:
-    "description lang=zh": |
-      上岸加拿大，相聚枫叶国。「上岸加拿大」致力于打造全网最全的加拿大签证DIY教程百科全书。内容涵盖：学签、工签、旅游签、探亲签、超级签证；移民签 PR、EE、PNP；Webform、安调、调档、强制令等等。
+    "title": "上岸加拿大"
+    "description": "上岸加拿大，相聚枫叶国。「上岸加拿大」致力于打造全网最全的加拿大签证DIY教程百科全书。"
+    "keywords": "加拿大移民, 签证, DIY教程, 上岸加拿大, 加拿大签证, 加拿大DIY, PR, EE, PNP, Webform"
+    "og:title": "上岸加拿大"
+    "og:description": "上岸加拿大，相聚枫叶国｜签证｜移民｜最全DIY教程"
+    "og:image": "https://www.shangan.ca/_static/logo.svg"
+    "og:type": "website"
+    "twitter:card": "summary_large_image"
+    "robots": "index, follow"
 html_theme.sidebar_secondary.remove: true
 ---
 
