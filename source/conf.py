@@ -87,8 +87,8 @@ post_date_format_short = '%B %d, %Y'
 # HTML output options
 html_theme = "pydata_sphinx_theme"
 html_logo = "_static/logo.svg"
-html_favicon = "_static/favicon.ico"
-html_extra_path = ['favicon.ico', 'robots.txt']
+#html_favicon = "_static/favicon.ico"
+#html_extra_path = ['favicon.ico', 'robots.txt']
 html_title = "上岸加拿大"
  
 html_theme_options = {
