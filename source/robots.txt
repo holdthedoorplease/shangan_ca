@@ -5,13 +5,38 @@ Allow: /
 User-agent: Bingbot
 Disallow: /_sources/
 Allow: /
+Crawl-delay: 10
 
 User-agent: Baiduspider
 Disallow: /_sources/
 Allow: /
+Crawl-delay: 15
+
+User-agent: AhrefsBot
+Crawl-delay: 20
+
+User-agent: SemrushBot
+Crawl-delay: 15
+
+User-agent: GPTBot
+Crawl-delay: 30
+
+User-agent: ChatGPT-User
+Crawl-delay: 30
+
+User-agent: ClaudeBot
+Crawl-delay: 30
+
+User-agent: anthropic-ai
+Crawl-delay: 30
+
+User-agent: CCBot
+Crawl-delay: 30
 
 User-agent: *
 Disallow: /_static/
 Disallow: /_sources/
 Allow: /
+Crawl-delay: 60
+
 Sitemap: https://www.shangan.ca/sitemap.xml
