@@ -6,7 +6,6 @@ Allow: /
 
 User-agent: Bingbot
 Allow: /
-Crawl-delay: 10
 
 User-agent: AhrefsBot
 Crawl-delay: 20
@@ -15,7 +14,6 @@ User-agent: SemrushBot
 Crawl-delay: 15
 
 User-agent: GPTBot
-Disallow: /_sources/
 Crawl-delay: 30
 
 User-agent: ChatGPT-User
@@ -31,8 +29,6 @@ User-agent: CCBot
 Crawl-delay: 30
 
 User-agent: *
-Disallow: /_static/
-Disallow: /_sources/
 Allow: /
 Crawl-delay: 60
 
