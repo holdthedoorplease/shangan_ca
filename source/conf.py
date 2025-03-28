@@ -6,7 +6,7 @@ from datetime import datetime
 #import ablog
 # Project information
 project = 'ShangAn'
-copyright = '2024, 上岸加拿大'
+copyright = '2025, 上岸加拿大'
 author = 'ShangAn'
 release = '1.0.0'
 language = 'zh'
