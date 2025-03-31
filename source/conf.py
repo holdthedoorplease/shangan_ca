@@ -117,7 +117,7 @@ html_theme_options = {
 html_sidebars = {
     "**": ["sidebar-nav-bs", "custom-template", "sidebar-ethical-ads"],
     "index": [],
-    "visitor/index": [],
+    "trv/index": [],
     "immigration/index": [],
     "citizen/index": [],
     "news/index": [],

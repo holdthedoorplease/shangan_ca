@@ -5,7 +5,7 @@ myst:
       通过ATIP调档，可以获得加拿大移民局（IRCC）、加拿大边境局（CBSA）、加拿大安全局（CSIS）在处理签证申请时的相关信息。
 ---
 
-# 催签
+# 催签指南
 
 <div class="dividing-line"></div>
 

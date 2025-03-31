@@ -1,0 +1,71 @@
+---
+myst:
+  html_meta:
+    "description lang=zh": |
+      本文讲解如何在加拿大境内申请访客记录（Visitor Record，俗称“大签”），适用于计划在加拿大停留超过6个月的访客签证持有者。
+---
+
+# 加拿大访客签证「大签」（Visitor Record）申请指南
+
+<div class="dividing-line"></div>
+
+## 什么是访客签证的「大签」Visitor Record？
+
+与很多其他国家不同，加拿大的签证分为「小签」和「大签」。其中「小签」是贴在护照上的，是入境加拿大的凭证；而大签是入境后，在加拿大拥有合法身份的凭证。如果只有小签，但没有大签，可能会导致非法滞留。
+
+以旅游、探亲、陪读等为目的来加拿大需要先申请访客签证的小签（Visitor Visa）。持访客签证的小签入境后，能在加拿大连续停留最多180天（约6个月），且在此期间可豁免访客签证大签（Visitor Record）。
+
+如果计划在加拿大居留超过180天，则必须在此期限到达之前提交「大签」申请。一旦提交了申请，便进入「默认续存状态」（maintained status），即便在180天的时候没有得到IRCC的结果，也能保持自己的合法身份。
+
+如果在180天之后仍在加拿大境内且没有提交「大签」申请，则属于非法滞留，需要先申请「恢复身份」，然后再申请「大签」。
+
+**注：** 有一种例外情况：当入境加拿大时，边境局（CBSA）官员在护照的入境戳上写明了最晚离境日期（这个日期通常少于180天），那么上述的180天就缩短为该指定日期。如果计划停留超过该指定日期，则需要在此之前提交「大签」申请。
+
+## 作为救急手段的访客签证的「大签」Visitor Record
+
+即便没有访客签证的「小签」，也可以申请访客签证的「大签」，这也是一种常见的救急手段。
+
+比如加拿大境内持有学生签证大签（Study Permit）或工作签证大签（Work Permit）的人，他们通常原本持有的是对应的学生签证小签（Study Visa）或工作签证小签（Work Visa），但如果他们的大签即将过期，而又因为种种原因暂时无法续签大签，这时可以考虑申请访客签证的「大签」（Visitor Record），救急的度过这个过渡时期。
+
+需要注意的是：访客签证的「大签」只是持有者合法居留在加拿大的凭证，不能用于作为合法学习或工作的凭证。
+
+
+## 访客签证「大签」的有效期和成功率
+
+移民局对访客签证「大签」的有效期有相当大的自由裁量权。一般情况下，访客签证「大签」的有效期是半年。半年之后，如果计划继续在加拿大居留，则需要再次提交访客签证「大签」申请。如果申请理由足够充分，也有可能获得一年的有效期。
+
+有些特殊情况，比如陪读的家长、配偶、子女，或陪同有工作签证的配偶，获得的访客签证「大签」通常可以和对应的学习签证、工作签证有效期相同的时长。
+
+首次申请访客签证「大签」的成功率相当高，只要材料准备充分，很少见到被拒的情况。
+
+## 访客签证「大签」材料准备清单
+
+- ✅ 拥有有效的访客签证（Visitor Visa，小签）；
+- ✅ 当前人在加拿大境内；
+- ✅ 计划在加拿大停留超过6个月；
+- ✅ 目前尚未超过6个月的停留期限。
+
+
+---
+
+## 访客签证「大签」手把手DIY教程（多图）
+
+访客签证「大签」的申请一共有以下3种情况，点击卡片可查看对应的手把手DIY教程：
+
+```{gallery-grid}
+:grid-columns: 1 2 2 3
+
+- header: "{fas}`users;pst-color-primary` 访客签证大签（Visitor Record）首次申请"
+  content: "适用申请者：人在加拿大境内、需要停留超过6个月。"
+  link: "visitor_record_1st.html"
+
+- header: "{fas}`info-circle;pst-color-primary` 访客签证大签（Visitor Record）续申"
+  content: "Overview of essential requirements for visiting Canada, including health and financial needs."
+  link: https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html
+
+- header: "{fas}`info-circle;pst-color-primary` 访客签证大签（Visitor Record）忘申请"
+  content: "Overview of essential requirements for visiting Canada, including health and financial needs."
+  link: https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html
+```
+
+<div class="dividing-line"></div>
