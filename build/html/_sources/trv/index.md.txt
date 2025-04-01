@@ -13,7 +13,7 @@ myst:
 :grid-columns: 1 2 2 3
 
 - header: "{fas}`plane;pst-color-primary` 访客签证"
-  content: "来加拿大旅游、探亲、访友等需申请访客签证，签证有效期从几个月到10年。有大签和小签之分。"
+  content: "来加拿大旅游、探亲、陪读、访友等需申请访客签证，签证有效期从几个月到10年。有大签和小签之分。"
   link: visitor/index.html
 
 - header: "{fas}`book;pst-color-primary` 学习签证"
@@ -35,7 +35,7 @@ myst:
 
 ```{toctree}
 :maxdepth: 2
-:caption: 访客签证（旅游、探亲等）
+:caption: 访客签证（旅游、探亲、陪读等）
 
 visitor/index
 ```

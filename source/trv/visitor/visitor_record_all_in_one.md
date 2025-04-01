@@ -5,11 +5,11 @@ myst:
       本文讲解如何在加拿大境内申请访客记录（Visitor Record，俗称“大签”），适用于计划在加拿大停留超过6个月的访客签证持有者。
 ---
 
-# 加拿大访客签证「大签」（Visitor Record）申请指南
+# 【一文看懂】加拿大访客签证「大签」（Visitor Record）申请
 
 <div class="dividing-line"></div>
 
-## 什么是访客签证的「大签」Visitor Record？
+**什么是访客签证的「大签」Visitor Record？**
 
 与很多其他国家不同，加拿大的签证分为「小签」和「大签」。其中「小签」是贴在护照上的，是入境加拿大的凭证；而大签是入境后，在加拿大拥有合法身份的凭证。如果只有小签，但没有大签，可能会导致非法滞留。
 
@@ -21,7 +21,8 @@ myst:
 
 **注：** 有一种例外情况：当入境加拿大时，边境局（CBSA）官员在护照的入境戳上写明了最晚离境日期（这个日期通常少于180天），那么上述的180天就缩短为该指定日期。如果计划停留超过该指定日期，则需要在此之前提交「大签」申请。
 
-## 作为救急手段的访客签证的「大签」Visitor Record
+
+**作为救急手段的访客签证的「大签」Visitor Record**
 
 即便没有访客签证的「小签」，也可以申请访客签证的「大签」，这也是一种常见的救急手段。
 
@@ -30,7 +31,7 @@ myst:
 需要注意的是：访客签证的「大签」只是持有者合法居留在加拿大的凭证，不能用于作为合法学习或工作的凭证。
 
 
-## 访客签证「大签」的有效期和成功率
+**访客签证「大签」的有效期和成功率**
 
 移民局对访客签证「大签」的有效期有相当大的自由裁量权。一般情况下，访客签证「大签」的有效期是半年。半年之后，如果计划继续在加拿大居留，则需要再次提交访客签证「大签」申请。如果申请理由足够充分，也有可能获得一年的有效期。
 
@@ -38,7 +39,8 @@ myst:
 
 首次申请访客签证「大签」的成功率相当高，只要材料准备充分，很少见到被拒的情况。
 
-## 访客签证「大签」材料准备清单
+
+**访客签证「大签」材料准备清单**
 
 - ✅ 拥有有效的访客签证（Visitor Visa，小签）；
 - ✅ 当前人在加拿大境内；
@@ -46,26 +48,31 @@ myst:
 - ✅ 目前尚未超过6个月的停留期限。
 
 
+**访客签证「大签」申请费用**
+
+$100 CAD
+
+
 ---
 
-## 访客签证「大签」手把手DIY教程（多图）
+**访客签证「大签」手把手DIY教程（多图）**
 
-访客签证「大签」的申请一共有以下3种情况，点击卡片可查看对应的手把手DIY教程：
+申请访客签证「大签」时，申请者的情况不同，流程会略有差异，点击卡片可查看对应情况的的手把手DIY教程：
 
 ```{gallery-grid}
 :grid-columns: 1 2 2 3
 
-- header: "{fas}`users;pst-color-primary` 访客签证大签（Visitor Record）首次申请"
-  content: "适用申请者：人在加拿大境内、需要停留超过6个月。"
-  link: "visitor_record_1st.html"
+- header: "{fas}`users;pst-color-primary` 大签申请（首次申请）"
+  content: "申请Visitor Record：人在加拿大境内、有访客签证小签但需连续居留超过180天。"
+  link: "visitor_record_first_time.html"
 
-- header: "{fas}`info-circle;pst-color-primary` 访客签证大签（Visitor Record）续申"
-  content: "Overview of essential requirements for visiting Canada, including health and financial needs."
-  link: https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html
+- header: "{fas}`info-circle;pst-color-primary` 大签申请（续签）"
+  content: "申请Visitor Record：人在加拿大境内、已有访客签证大签/学签大签/工签大签，但计划在大签到期后继续居留。"
+  link: "visitor_record_extension.html"
 
-- header: "{fas}`info-circle;pst-color-primary` 访客签证大签（Visitor Record）忘申请"
-  content: "Overview of essential requirements for visiting Canada, including health and financial needs."
-  link: https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html
+- header: "{fas}`info-circle;pst-color-primary` 大签忘申请了怎么办"
+  content: "无大签但已居留超180天（或有大签但已过期）且未提交大签申请，必须先申请恢复访客身份，再申请大签。"
+  link: "visitor_record.html"
 ```
 
 <div class="dividing-line"></div>
