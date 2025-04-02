@@ -16,19 +16,19 @@ myst:
   content: "来加拿大旅游、探亲、陪读、访友等需申请访客签证，签证有效期从几个月到10年。有大签和小签之分。"
   link: visitor/index.html
 
-- header: "{fas}`book;pst-color-primary` 学习签证"
+- header: "{fas}`book;pst-color-primary` 学习签证【撰写中】"
   content: "来加拿大留学需申请学习签证，适用高中、本科、研究生等阶段。有时需要续签。有大签和小签之分。"
   link: study/index.html
 
-- header: "{fas}`briefcase;pst-color-primary` 工作签证"
+- header: "{fas}`briefcase;pst-color-primary` 工作签证【撰写中】"
   content: "在加拿大工作需要申请工作签证，包含封闭工签（指定雇主）和开放工签。有大签和小签之分。"
   link: work/index.html
 
-- header: "{fas}`users;pst-color-primary` 超级签证"
+- header: "{fas}`users;pst-color-primary` 超级签证【撰写中】"
   content: "仅针对加拿大永久居民（PR）或公民的父母/祖父母的签证，有效期最长10年，单次入境可停留5年。"
   link: supervisa/index.html
 
-- header: "{fas}`handshake;pst-color-primary` 商务签证"
+- header: "{fas}`handshake;pst-color-primary` 商务签证【撰写中】"
   content: "在加拿大从事短期商务活动的人士需要商务签证。"
   link: business/index.html
 ```
@@ -38,33 +38,4 @@ myst:
 :caption: 访客签证（旅游、探亲、陪读等）
 
 visitor/index
-```
-
-```{toctree}
-:maxdepth: 2
-:caption: 学习签证
-
-study/index
-```
-
-```{toctree}
-:maxdepth: 2
-:caption: 工作签证
-
-work/index
-```
-
-
-```{toctree}
-:maxdepth: 2
-:caption: 超级签证
-
-supervisa/index
-```
-
-```{toctree}
-:maxdepth: 2
-:caption: 商务签证
-
-business/index
 ```

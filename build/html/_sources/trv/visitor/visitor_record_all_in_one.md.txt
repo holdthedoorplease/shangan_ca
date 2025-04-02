@@ -5,7 +5,7 @@ myst:
       本文讲解如何在加拿大境内申请访客记录（Visitor Record，俗称“大签”），适用于计划在加拿大停留超过6个月的访客签证持有者。
 ---
 
-# 【一文看懂】加拿大访客签证「大签」（Visitor Record）申请
+# 【一文看懂】加拿大访客签证「大签」（Visitor Record）是什么？
 
 <div class="dividing-line"></div>
 

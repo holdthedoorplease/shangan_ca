@@ -19,34 +19,34 @@ myst:
 <a href="https://www.shangan.ca/trv/visitor/visitor_record_all_in_one.html" target="_blank">【一文看懂】加拿大访客签证「大签」（Visitor Record）申请</a>
 ```
 
-根据上文内容并结合自身情况，知道所要申请的签证类型后，可点击下面的卡片，查阅相应的手把手DIY教程：
+根据上文内容并结合自身情况，确定所要申请的签证类型后，点击下面的卡片查阅相应教程：
 
 ```{gallery-grid}
 :grid-columns: 1 2 2 3
 
 - header: "{fas}`passport;pst-color-primary` 小签申请（境外申请）"
   content: "申请Visitor Visa：人在加拿大境外（比如在中国）、首次申请、无美国签证。"
-  link: https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/visa.html
+  link: tbc.html
 
 - header: "{fas}`clock;pst-color-primary` 小签申请（境内申请）"
   content: "申请Visitor Visa：人在加拿大境内、无访客签证小签或小签已过期、已有大签（Visitor Record）。"
-  link: https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend.html
+  link: visitor_visa_inside_canada.html
 
 - header: "{fas}`plane-arrival;pst-color-primary` 小签申请（美签加速）"
   content: "已有美国签证、但没有加拿大访客签证小签。可凭美签走快速通道：提交资料少、审核快、通过率高。"
-  link: https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html
+  link: tbc.html
 
 
 - header: "{fas}`users;pst-color-primary` 大签申请（首次申请）"
-  content: "申请Visitor Record：人在加拿大境内、有访客签证小签但需连续居留超过180天。"
+  content: "申请Visitor Record：人在加拿大境内、有访客签证小签、但计划连续居留超过180天。"
   link: "visitor_record_first_time.html"
-  
+
 - header: "{fas}`info-circle;pst-color-primary` 大签申请（续签）"
-  content: "申请Visitor Record：人在加拿大境内、已有访客签证大签/学签大签/工签大签，但计划在大签到期后继续居留。"
+  content: "申请Visitor Record：人在加拿大境内、已有访客签证大签/学签大签/工签大签，计划大签到期后继续居留。"
   link: "visitor_record_extension.html"
 
 - header: "{fas}`info-circle;pst-color-primary` 大签忘申请了怎么办"
-  content: "无大签但已居留超180天（或有大签但已过期）且未提交大签申请，必须先申请恢复访客身份，再申请大签。"
+  content: "无大签但已居留超180天（或有大签但已过期）且未提交大签申请，须先恢复访客身份，再申请大签。"
   link: "visitor_record.html"
 ```
 
@@ -57,48 +57,10 @@ Explore essential information for visiting Canada.
 ```{toctree}
 :maxdepth: 2
 
+visitor_visa_all_in_one
+visitor_visa_inside_canada
 visitor_record_all_in_one
 visitor_record_first_time
 visitor_record_extension
-visitor_requirements
-visitor_process
-visitor_exceptions
+
 ```
-
-## Overview of Visitor Visas
-
-A Temporary Resident Visa (TRV) or visitor visa is an official document stamped in your passport showing that you meet the requirements to enter Canada as a temporary resident.
-
-## Types of Entry Documents
-
-1. **Visitor Visa (TRV)**
-   - Required for citizens of most countries
-   - Single or multiple entry options
-   - Valid for specific duration
-
-2. **Electronic Travel Authorization (eTA)**
-   - Required for visa-exempt nationals
-   - Valid for up to 5 years
-   - Linked to passport
-
-3. **Neither Required**
-   - U.S. citizens
-   - Some other specific exceptions
-
-## Duration of Stay
-
-- Usually up to 6 months from entry date
-- Officer at port of entry makes final decision
-- Can apply for extension while in Canada
-- Must leave when authorized stay expires
-
-## Basic Requirements Overview
-
-To visit Canada, you must:
-
-- Have a valid travel document
-- Be in good health
-- Have no criminal convictions
-- Have ties to home country
-- Have sufficient funds
-- Plan to leave Canada at end of stay

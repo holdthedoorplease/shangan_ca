@@ -74,6 +74,27 @@ html_theme.sidebar_secondary.remove: true
   link: https://ee-crs.netlify.app/ 
 ```
 
+
+```{admonition} 访客签证申请DIY
+加拿大的「旅游签证」、「探亲签证」、「陪读签证」等均属于访客签证。访客签证分为「小签」和「大签」。其中小签是贴在护照上的，大签是一张A4纸小大的凭证。入境加拿大需要有效的护照和小签，在加拿大合法居留通常需要大签。
+```
+
+```{gallery-grid}
+:grid-columns: 1 2 2 3
+
+- header: "{fas}`clock;pst-color-primary` 小签申请（境内申请）"
+  content: "申请Visitor Visa：人在加拿大境内、无访客签证小签或小签已过期、已有大签（Visitor Record）。"
+  link: trv/visitor/visitor_visa_inside_canada.html
+
+- header: "{fas}`users;pst-color-primary` 大签申请（首次申请）"
+  content: "申请Visitor Record：人在加拿大境内、有访客签证小签、但计划连续居留超过180天。"
+  link: "trv/visitor/visitor_record_first_time.html"
+
+- header: "{fas}`info-circle;pst-color-primary` 大签申请（续签）"
+  content: "申请Visitor Record：人在加拿大境内、已有访客签证大签/学签大签/工签大签，计划大签到期后继续居留。"
+  link: "trv/visitor/visitor_record_extension.html"
+```
+
 ```{important} 
 本站持续更新中，目前正更新临时居民签证（学签、工签、旅签）和永久居民签证（PR）DIY中文教程，敬请期待
 ```
@@ -88,7 +109,7 @@ guide/index
 ```{toctree}
 :hidden:
 
-trv/index
+trv/visitor/index
 ```
 
 ```{toctree}
