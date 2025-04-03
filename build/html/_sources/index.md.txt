@@ -109,7 +109,7 @@ guide/index
 ```{toctree}
 :hidden:
 
-trv/visitor/index
+trv/index
 ```
 
 ```{toctree}

@@ -1,0 +1,78 @@
+===
+最重要的指令
+
+1. 进入venv
+source venv_shangan/bin/activate
+
+2. 查看目前最新的版本
+open build/html/index.html
+
+3. 删除该版本
+make clean      
+
+4. 重新生成最新版本
+make html  
+
+===
+文件夹结构
+
+所有的源文件都在/source 文件夹里。生成的网页在/build 文件夹里。
+
+在source 文件夹里，
+conf.py 是网站的设置
+
+index.md 是网站首页的代码
+
+_static 是静态文件，其中最重要的是 source/_static/images，里面放着所有的图片。md文件里的引用方式：
+
+![访客签证「大签」申请](/_static/images/trv/visitor/visitor_record/02.png)
+
+此外，source/guide或source/trv等，每个文件夹是一个导航栏的栏目。
+
+===
+文件格式
+一共有两种：.md 和 .rst，语法略有不同，但都可以生成 html 页面。
+
+===
+增加导航栏内容：
+
+在 source/index.md 里的底部，添加
+```{toctree}
+:hidden:
+
+officialwebsites/index
+
+即可在导航栏里增加条目officialwebsites
+
+hidden的意思是不在页面出现
+
+===
+在source/trv或同等级文件夹，每个文件夹需要有一个index.md或index.rst的文件。这个文件可以串起文件夹的其他文件。方法是：
+```{toctree}
+:maxdepth: 2
+
+visitor_visa_all_in_one
+visitor_visa_inside_canada
+visitor_record_all_in_one
+visitor_record_first_time
+visitor_record_extension
+
+```
+
+其中，文件的命名就是网址。
+
+此外，文件夹里可以还有文件夹，比如
+
+```{toctree}
+:maxdepth: 2
+:caption: 官方工具使用指南
+
+ircc_process_time
+ircc_hotline
+cicc_find_rcic
+tracker/index
+atip/index
+urge/index
+```
+
+====
