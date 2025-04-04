@@ -42,6 +42,10 @@ https://atip-aiprp.tbs-sct.gc.ca/en/Home/Privacy
 - header: "{fas}`users;pst-color-primary` 调档 - 拒签原因"
   content: "从IRCC调档获取拒签原因及签证官评语，以便进行针对性的改进，增加二签成功率。点击查看"
   link: "atip_refusal.html"
+
+- header: "{fas}`users;pst-color-primary` 调档 - 出入境记录"
+  content: "从CBSA调档获取指定时段的出入境记录，以便统计在加拿大居留时间，或作为官方证明留存。点击查看"
+  link: "atip_travel_history.html"
 ```
 
 
@@ -64,12 +68,14 @@ https://atip-aiprp.tbs-sct.gc.ca/en/Home/Privacy
 maxdepth: 2
 ---
 
-
+atip_account.md
+atip_view_requests.md
 atip_ircc.md
-atip_cbsa.md
-atip_csis.md
 atip_docs.md
 atip_refusal.md
+atip_cbsa.md
+atip_travel_history.md
+atip_csis.md
 ```
 
 <div class="dividing-line"></div>
