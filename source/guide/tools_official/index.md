@@ -7,9 +7,7 @@ myst:
 
 # 操作教程（官方工具）
 
-Welcome to the comprehensive guide for international students planning to study in Canada. Canada welcomes nearly half a million international students each year, offering world-class education, diverse culture, and excellent post-graduation opportunities.
-
-This guide covers everything you need to know about obtaining and maintaining your status as an international student in Canada.
+相比于中国，加拿大政府部门的数字化程度不算高，但也仍给民众提供了不少便民工具。在签证领域，加拿大移民局（IRCC）、加拿大边境局（CBSA）等均提供了多种工具，比如查询签证进度的「Tracker」、查询签证平均处理时长的平台等等。此外，还有调档平台（ATIP）。相应的教程如下：
 
 ```{toctree}
 :maxdepth: 2
