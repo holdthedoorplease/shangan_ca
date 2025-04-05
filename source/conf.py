@@ -17,6 +17,7 @@ sys.path.insert(0, os.path.abspath('scripts'))
 
 html_baseurl = 'https://www.shangan.ca/'
 html_extra_path = ['robots.txt']
+last_updated_time = datetime.now().strftime("%Y-%m-%d")
 
 # General configuration
 extensions = [
@@ -107,7 +108,7 @@ html_theme_options = {
     "show_toc_level": 1,
     "navbar_align": "left",
     "show_version_warning_banner": False,
-    "footer_start": "",
+    "footer_start": ["last-updated"],
     "footer_end": ["copyright"],
     "secondary_sidebar_items": ["page-toc", "aboutus"],
 
@@ -131,6 +132,7 @@ html_sidebars = {
 html_context = {
     "doc_path": "docs",
     "title": "上岸加拿大",
+    "last_updated": last_updated_time,
 }
 
 # Custom styles and scripts

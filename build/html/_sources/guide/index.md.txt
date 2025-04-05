@@ -61,3 +61,10 @@ tools_thirdparty/index
 
 forms/index
 ```
+
+```{toctree}
+:maxdepth: 1
+:caption: 移民百科
+
+wiki/index
+```

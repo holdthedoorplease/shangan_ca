@@ -76,3 +76,14 @@ urge/index
 ```
 
 ====
+格式设置
+
+新增了fix_spaceing.py的文件在根目录
+新增了.vscode/tasks.json文件
+
+在中文和英文，以及中文和数字中，增加一个半角空格：
+Press Cmd+Shift+P (macOS) → type Run Task → select Fix Chinese-English Spacing.
+
+新增了快捷键：control + F
+Preferences: Open Keyboard Shortcuts (JSON)
+

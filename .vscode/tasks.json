@@ -1,0 +1,25 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Fix Chinese-English Spacing",
+        "type": "shell",
+        "command": "python3",
+        "args": [
+          "fix_spacing.py",
+          "${file}"
+        ],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        },
+        "problemMatcher": [],
+        "presentation": {
+          "echo": true,
+          "reveal": "silent",
+          "focus": false,
+          "panel": "shared"
+        }
+      }
+    ]
+  }
