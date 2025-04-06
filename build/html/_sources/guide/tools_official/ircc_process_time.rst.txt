@@ -8,7 +8,7 @@
 
     <div class="dividing-line"></div>
 
-加拿大移民局（IRCC）每周会在官方网站公布一次各种签证的平均处理时长。根据这个时间，你可以大致判断自己的签证申请进度。
+加拿大移民局（IRCC）定期会在官方网站公布各种签证的处理时长。根据签证类型的不同，公布周期从每周到每月不等。你可以借此大致预估出签时间、目前有无延误，以及是否需要催签。
 
 .. admonition:: 官网
 
@@ -16,12 +16,46 @@
 
     https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html
 
+.. image:: /_static/images/guide/tools_official/ircc_process_time/05.png
+   :alt: Screenshot of IRCC Process Time Step 5
+   :align: center
+.. raw:: html
 
-需要说明的是，严格意义上讲，这并不是IRCC承诺的对此类签证的处理时长，而是截止目前的实际平均处理时长。举个例子，比如本周在中国境内申请学签的处理时长经查询是14周，这意味着，本周出结果的来自中国的学签，大部分提交日期是14周前。换句话说，如果你是在14周前提交的申请，大概率（IRCC称80%）会在这周出结果。
+    <div class="dividing-line"></div>
 
-不过考虑到IRCC处理签证效率的稳定性，这个时长的波动短期内不会太大，以及考虑到解释成本，一般来说，这个时长会被近似作为预计时长。也就是如果本周提交学签，你可以预期在14周左右出结果。
+需要说明的是，严格意义上讲，这个时间并不能直接理解为IRCC承诺的对此类签证的处理时长。此前，IRCC公布的处理时长是回顾式（Backward-looking）处理时长。2024年5月起，IRCC新增了展望式（Forward-looking）处理时长。这两类处理时长的区别如下：
 
-了解签证处理时长的意义在于，如果你的等待时间还没有超过这个时长，不需要催签，耐心等待即可。在这个期间内申请强制令，也不太可能得到法院的支持。
+**展望式（Forward-looking）处理时长**
+
+「展望式处理时长」与大家日常理解的「预计处理时间」比较类似，更像是一种承诺，是指如果今天提交申请，IRCC预计在多长时间内完成处理。这个时间是基于IRCC的目标和计划，并不一定反映实际的处理速度。展望式处理时长的更新频率为每月一次。
+
+目前，以下签证类型采用的是展望式处理时长：
+- Canadian Experience Class (Express Entry)
+- Provincial Nominees Program (Express Entry and non-Express Entry)
+- Federal Skilled Workers (Express Entry)
+- Quebec Skilled Workers
+- citizenship grants
+- citizenship certificate (proof of citizenship)
+- spouse or common-law partner living inside Canada
+spouse, common-law or conjugal partner living outside Canada
+- parents or grandparents
+
+举个例子，如果你申请的是EE的FSW项目，且现在查到的处理时间是6个月，则意味着IRCC预估，如果你今天提交申请，6个月后会出结果。
+
+
+**回顾式（Backward-looking）处理时长**
+
+除上述签证外，IRCC公布的其他签证都属于回顾式处理时长。回顾式处理时长更像是一种数据统计。根据IRCC的定义，这类签证的处理时长是这样计算的：
+
+对于PR（永久居民）项目，回顾式处理时长是基于过去6个月内80%的申请的处理时长计算的。对于临时居民项目（如访客签证、学习签证、工作签证等），回顾式处理时长是基于过去8周或16周内80%的申请的处理时长计算的。
+
+这个时间是基于IRCC的实际处理速度，并不一定反映未来的处理速度。回顾式处理时长的更新频率为每周一次。
+
+举个例子，如果你申请的是访客签证，且现在查到的处理时间是6周，则意味着，在过去的8-16周内，80%的访客签证申请在6周内完成了处理。也就是说，如果你在6周前提交的申请，大概率（80%）会在这周出结果。
+
+**为什么要查询签证处理时长？**
+
+了解签证处理时长（不管是展望式还是回顾式）的意义在于，如果你的等待时间还没有超过这个时长，不需要催签，耐心等待即可。在这个期间内申请强制令，也不太可能得到法院的支持。
 
 会有少数幸运儿在极短时间内获得签证审批结果，中介也非常喜欢用类似个案进行宣传。不必为此过于焦虑，这种情况不具备普遍性，且通常与中介无关。签证的审理是case by case的，有些人确实条件很好，不管是DIY还是通过中介，都可能很快获得签证。对于大多数人而言，以IRCC公布的平均处理时长作为参考即可。
 
