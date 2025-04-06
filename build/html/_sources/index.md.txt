@@ -15,8 +15,11 @@ myst:
 html_theme.sidebar_secondary.remove: true
 ---
 
-# <span style="color:red;">上岸加拿大 相聚枫叶国</span> 签证 移民 最全DIY教程
+<h1 class="visually-hidden">上岸加拿大</h1>
+
+## <span style="color:red;">上岸加拿大 相聚枫叶国</span> 签证 移民 最全DIY教程
 「上岸加拿大」（shangan.ca）致力于打造全网最全的加拿大签证DIY教程百科全书。内容涵盖：学签、工签、旅签、探亲签；移民签证 PR、EE、省提名、家庭团聚；催签、安调、调档、强制令等。签证DIY不容易，自己淋过雨所以希望能为你撑把伞。即便你通过移民中介申请，了解DIY让你掌控更多。觉得有用请收藏本站或推荐朋友。愿你早日上岸加拿大，我们相聚枫叶国！
+
 
 ```{gallery-grid}
 :grid-columns: 1 2 2 3

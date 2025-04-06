@@ -10,6 +10,7 @@ copyright = '2025, 上岸加拿大'
 author = 'ShangAn'
 release = '1.0.0'
 language = 'zh'
+html_short_title = "上岸加拿大"
 
 # Insert '_extension' directory into the path so Sphinx can find it
 sys.path.insert(0, os.path.abspath('_extension'))
