@@ -20,8 +20,6 @@ Email：lenametlege.diab@parl.gc.ca
 
 因为，这个瑞秋，也是个MP啊！
 
-![国会议员催签](/_static/images/guide/tools_official/urge/mp/07.png)
-
 ```{seealso} 
 国会议员催签教程：https://www.shangan.ca/guide/tools_official/urge/mp.html
 ```
