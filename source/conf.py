@@ -135,7 +135,7 @@ html_context = {
     "doc_path": "docs",
     "title": "上岸加拿大",
     "last_updated": last_updated_time,
-    "disclaimer_text": '<p style="text-align: center; font-size: 0.9em; color: #888;">免责声明：本站内容仅供参考，不构成法律或移民建议。如需转载，请注明来源。</p>',
+    "disclaimer_text": '<p style="text-align: center; font-size: 0.9em; color: #888;">免责声明：本站内容为通用类信息，不构成对个案的法律或移民建议。如需转载，请注明来源。</p>',
 }
 
 # Custom styles and scripts
