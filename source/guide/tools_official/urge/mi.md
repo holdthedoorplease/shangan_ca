@@ -4,16 +4,16 @@
 
 有一些头铁的申请者，本着「擒贼先擒王」的指导思想，直接给加拿大移民部长（Minister of Immigration, Refugees and Citizenship）写信催签。不得不说勇气可嘉，但遗憾的是，从目前我们了解的情况来看，几乎没有成功案例。移民部长很少对个案表态。即便有，也是极端情况，能上新闻的那种。可能申请者也没抱多大希望，更多的是起到解气的作用。
 
-现任加拿大移民部长是瑞秋・本达扬（Rachel Bendayan）：
+现任加拿大移民部长是Lena Metlege Diab：
 
-![加拿大移民部长](https://www.pm.gc.ca/sites/pm/files/styles/portrait_square/public/media/minister/2025-02/Bendayan_200x200.jpg)
+![加拿大移民部长](https://www.ourcommons.ca/Content/Parliamentarians/Images/OfficialMPPhotos/44/DiabLenaMetlege_Lib.jpg)
 
 ```{admonition} 加拿大移民部长的联系方式
-Email：Rachel.Bendayan@parl.gc.ca
+Email：lenametlege.diab@parl.gc.ca
 
-电话：613-995-7691
+电话：613-996-3085
 
-地址：302-154 Laurier Avenue West Montréal, Quebec H2T 2N7
+地址：401-3845 Joseph Howe drive Halifax, Nova Scotia B3L 4H9
 ```
 
 你猜我是怎么知道的？
